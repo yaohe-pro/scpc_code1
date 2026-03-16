@@ -1,0 +1,215 @@
+{
+  "conversation_id": "ecf_validation_918",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "We have got 3 minutes till the reactor blows , we are never gonna make it !",
+      "emotion": "fear",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_We have got 3 minutes till the reactor blows , we are never gonna make it !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "You have got to get out of here ! Save yourself !",
+      "emotion": "fear",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_We have got 3 minutes till the reactor blows , we are never gonna make it !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "No ! I will not leave you !",
+      "emotion": "fear",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_No ! I will not leave you !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Phoebe",
+      "text": "Do not worry about me , I am a robot ! I am just a machine ! !",
+      "emotion": "anger",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_I will not leave you !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "No you are not ! Not to me !",
+      "emotion": "anger",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_Do not worry about me , I am a robot ! I am just a machine ! !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Phoebe",
+      "text": "Oh my God .",
+      "emotion": "surprise",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "8_I am extremely talented !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "What ?",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Phoebe",
+      "text": "I am extremely talented !",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_I am extremely talented !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Joey",
+      "text": "Yeah , you are great ! Okay , let take it from",
+      "emotion": "joy",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_you are great !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Phoebe",
+      "text": "No , I mean I was really acting my ass off .",
+      "emotion": "joy",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_I was really acting my ass off .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Joey",
+      "text": "Yeah , I thought I was pretty good too .",
+      "emotion": "joy",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_I thought I was pretty good too .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Phoebe",
+      "text": "Oh yeah , you are solid . Yeah , you are just no me .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Joey",
+      "text": "You know what ? I think that is enough for now . Yeah . I do not want to be over rehearsed .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Phoebe",
+      "text": "Fine !",
+      "emotion": "anger",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "13_I think that is enough for now . Yeah . I do not want to be over rehearsed .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Phoebe",
+      "text": "I will do it without you !",
+      "emotion": "anger",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "13_I think that is enough for now . Yeah . I do not want to be over rehearsed .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Phoebe",
+      "text": "I do not need you or anybody else !",
+      "emotion": "anger",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "13_I think that is enough for now . Yeah . I do not want to be over rehearsed .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Phoebe",
+      "text": "I am gonna make it on my own !",
+      "emotion": "anger",
+      "timestamp": 40.0,
+      "emotion_cause": {
+        "utterance_id": "u17",
+        "span": "13_I think that is enough for now . Yeah . I do not want to be over rehearsed .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Phoebe",
+      "text": "You will see ! ! You will all see ! !",
+      "emotion": "anger",
+      "timestamp": 42.5,
+      "emotion_cause": {
+        "utterance_id": "u18",
+        "span": "13_I think that is enough for now . Yeah . I do not want to be over rehearsed .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 918,
+    "num_utterances": 18,
+    "num_emotion_pairs": 19
+  }
+}

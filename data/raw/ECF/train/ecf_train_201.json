@@ -1,0 +1,128 @@
+{
+  "conversation_id": "ecf_train_201",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "Oh my god .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "7_it is me . And , they made me head of purchasing",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "What ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Monica",
+      "text": "I am at work , ordinary day , you know , chop chop chop , sauti , sauti , sauti .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Monica",
+      "text": "All of a sudden , Leon , the manager , calls me into his office .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Monica",
+      "text": "It turns out they fired the head lunch chef , and guess who got the job .",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "7_it is me . And , they made me head of purchasing",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "If it is not you , this is a horrible story .",
+      "emotion": "sadness",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_If it is not you , this is a horrible story .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Monica",
+      "text": "Fortunately , it is me . And , they made me head of purchasing , thank you very much .",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_it is me . And , they made me head of purchasing",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Rachel",
+      "text": "That is so cool .",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "7_it is me . And , they made me head of purchasing",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Monica",
+      "text": "Anyway , I just ran into Ross and Chandler downstairs , and they think we should go out and celebrate . You know , someplace nice .",
+      "emotion": "joy",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_they think we should go out and celebrate . You know , someplace nice .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Joey",
+      "text": "Yeah , someplace nice .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Rachel",
+      "text": "Yeah !",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Joey",
+      "text": "How much do you think I can get for my kidney ?",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 201,
+    "num_utterances": 12,
+    "num_emotion_pairs": 12
+  }
+}

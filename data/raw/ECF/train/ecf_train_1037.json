@@ -1,0 +1,86 @@
+{
+  "conversation_id": "ecf_train_1037",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "I can not believe it !",
+      "emotion": "surprise",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_I can not believe it !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "I did it !",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_I did it !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "I rode a bike !",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_I rode a bike !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Phoebe",
+      "text": "I never thought I would be able to do that !",
+      "emotion": "joy",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_I rode a bike !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Phoebe",
+      "text": "Thank you Ross .",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "3_I rode a bike !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "Oh hey , do not thank me , thank yourself . You are the one who faced her fears and ultimately overcame them .",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_You are the one who faced her fears and ultimately overcame them .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1037,
+    "num_utterances": 6,
+    "num_emotion_pairs": 7
+  }
+}

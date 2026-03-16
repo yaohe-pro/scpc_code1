@@ -1,0 +1,193 @@
+{
+  "conversation_id": "ecf_train_924",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "Okay , Chandler !",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "Okay .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "And your horoscope says , \" On the fifth a special someone is going to give you a gift . \"",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "Oh , well thank you in advance .",
+      "emotion": "joy",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_your horoscope says , \" On the fifth a special someone is going to give you a gift . \"",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "Op , but the twelfth brings a lover spat .",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_the twelfth brings a lover spat .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Oh , wait and on the nineteenth a secret crush announces itself .",
+      "emotion": "surprise",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_on the nineteenth a secret crush announces itself .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "Hey guys !",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_Hey guys !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Chandler",
+      "text": "Hey ! !",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_Hey ! !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Rachel",
+      "text": "Oh my God ! It is Joey Tribbiani of Mac and C . H . E . E . S . E . ! ! ! ! ! ! !",
+      "emotion": "surprise",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_It is Joey Tribbiani of Mac and C . H . E . E . S . E . ! ! ! ! ! ! !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Chandler",
+      "text": "Oh that is right . It is your first day ! So are you psyched to fight fake crime with your robot sidekick ?",
+      "emotion": "joy",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_It is your first day ! So are you psyched to fight fake crime with your robot sidekick ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Joey",
+      "text": "Am I psyched ? The lead in my own TV series ? I have dreamed about this for years ! Why have I not been preparing ? !",
+      "emotion": "joy",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_The lead in my own TV series ? I have dreamed about this for years !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Phoebe",
+      "text": "No ! Joey , you are going to be great !",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Joey",
+      "text": "But I got to act with a robot Pheebs , and ... and I do not know anything about technology !",
+      "emotion": "fear",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_I got to act with a robot Pheebs , and ... and I do not know anything about technology !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Joey",
+      "text": "I can not even use Chandler computer except to find porn !",
+      "emotion": "anger",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "14_I can not even use Chandler computer except to find porn !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Joey",
+      "text": "And ... and that is only cause it is right there when you turn it on !",
+      "emotion": "anger",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_And ... and that is only cause it is right there when you turn it on !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Monica",
+      "text": "I think our lover spat will start a little early this month .",
+      "emotion": "anger",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "15_And ... and that is only cause it is right there when you turn it on !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Phoebe",
+      "text": "I will be waiting .",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 924,
+    "num_utterances": 17,
+    "num_emotion_pairs": 15
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "conversation_id": "ecf_train_176",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "You wanna do it right now ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Julie",
+      "text": "Great !",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_do it right now",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "Ok , I just wanna be really sure this time . Andie McDowell the girl from Four Weddings and a Funeral , right ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "No . No no no no no . That is Rodney McDowell . Andie McDowell is the guy from Planet of the Apes .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Phoebe",
+      "text": "Oh , yeah . Ok , thank you .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "You are welcome .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 176,
+    "num_utterances": 6,
+    "num_emotion_pairs": 1
+  }
+}

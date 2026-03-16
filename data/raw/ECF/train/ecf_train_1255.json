@@ -1,0 +1,151 @@
+{
+  "conversation_id": "ecf_train_1255",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Jim",
+      "text": "And your breasts ! Hmm ! ! !",
+      "emotion": "surprise",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_your breasts",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "Okay .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "Umm look , you are coming on a little strong .",
+      "emotion": "fear",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_you are coming on a little strong .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Phoebe",
+      "text": "But I am going to give you the benefit of the doubt , because it seems the universe really wants to be together .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Phoebe",
+      "text": "So , why do not we just start over okay ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Phoebe",
+      "text": "And you can just tell me about yourself .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Jim",
+      "text": "All right .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Phoebe",
+      "text": "Okay .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Jim",
+      "text": "I write erotic novels , for children .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Phoebe",
+      "text": "What ? !",
+      "emotion": "surprise",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "9_I write erotic novels , for children .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Jim",
+      "text": "They are wildly unpopular .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Phoebe",
+      "text": "Oh my God !",
+      "emotion": "disgust",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "9_I write erotic novels , for children .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Jim",
+      "text": "Oh also , you might be interested to know that I have a Ph . D .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Phoebe",
+      "text": "Wow ! You do ?",
+      "emotion": "surprise",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "13_I have a Ph . D .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Jim",
+      "text": "Yeah , a Pretty Huge",
+      "emotion": "joy",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Phoebe",
+      "text": "All right .",
+      "emotion": "disgust",
+      "timestamp": 37.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1255,
+    "num_utterances": 16,
+    "num_emotion_pairs": 5
+  }
+}

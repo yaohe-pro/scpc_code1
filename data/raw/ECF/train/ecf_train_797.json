@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_train_797",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "We do not have to come up with this now .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "Oh good .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_We do not have to come up with this now .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 797,
+    "num_utterances": 2,
+    "num_emotion_pairs": 1
+  }
+}

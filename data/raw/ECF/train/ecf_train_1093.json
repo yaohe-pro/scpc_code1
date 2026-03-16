@@ -1,0 +1,135 @@
+{
+  "conversation_id": "ecf_train_1093",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Sorry , I just do not like the idea of when I say \" I do , \" he is thinking , \" Yeah , I would do her too ! \"",
+      "emotion": "anger",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_I just do not like the idea of when I say \" I do , \" he is thinking , \" Yeah , I would do her too ! \"",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "Well then we still have a problem .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "Yeah !",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Phoebe",
+      "text": "With what ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Monica",
+      "text": "Well , we are trying to find someone to perform our wedding and they are all either boring or annoying or you know , can not stop staring at the ladies .",
+      "emotion": "disgust",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_we are trying to find someone to perform our wedding and they are all either boring or annoying or you know , can not stop staring at the ladies .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Phoebe",
+      "text": "Oo ! You should have one of us do it !",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_You should have one of us do it !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Monica",
+      "text": "Phoebe , we are getting married , married ; not sixth grade married .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Phoebe",
+      "text": "No ! No ! It is ... it is uh a real thing ! Anyone can get ordained on the Internet and perform like weddings and stuff !",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_Anyone can get ordained on the Internet and perform like weddings and stuff !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Joey",
+      "text": "I call it ! !",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Phoebe",
+      "text": "What ? ! No ! It was my idea !",
+      "emotion": "anger",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "9_I call it ! !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Chandler",
+      "text": "Guys thank you very much but neither of you is marrying us .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Joey",
+      "text": "Does calling it not mean anything anymore ? !",
+      "emotion": "anger",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_Does calling it not mean anything anymore ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Chandler",
+      "text": "We are going to have a legitimate member of the clergy ! And when I say legitimate I mean , gay and in control of his saliva !",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1093,
+    "num_utterances": 13,
+    "num_emotion_pairs": 7
+  }
+}

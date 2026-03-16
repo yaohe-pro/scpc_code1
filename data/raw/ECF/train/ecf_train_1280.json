@@ -1,0 +1,141 @@
+{
+  "conversation_id": "ecf_train_1280",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "That is right , still no baby ! Come on people ! Please make some room !",
+      "emotion": "anger",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_still no baby !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Uh sweetie , maybe you would be more comfortable here ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "You . Like you have not done enough .",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_Like you have not done enough .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "Look , I ... I know how miserable you are , I wish there was something I can do .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "I mean I wish I were a seahorse .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "Because with seahorses it is the male , they carry the babies .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Ross",
+      "text": "And then also umm , I would be far away in the sea .",
+      "emotion": "fear",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Rachel",
+      "text": "God . I have never been so uncomfortable in my entire life !",
+      "emotion": "anger",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_I have never been so uncomfortable in my entire life !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Phoebe",
+      "text": "Oh I know , I have been there . I remember toward the end",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Rachel",
+      "text": "Oh Phoebe , that is a great story .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Rachel",
+      "text": "Can you tell it to me when you are getting me some iced tea ?",
+      "emotion": "disgust",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Rachel",
+      "text": "Oh God , get out !",
+      "emotion": "anger",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Rachel",
+      "text": "Get out ! !",
+      "emotion": "anger",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Rachel",
+      "text": "Get out ! !",
+      "emotion": "anger",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Rachel",
+      "text": "Get out !",
+      "emotion": "anger",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Chandler",
+      "text": "Let .",
+      "emotion": "neutral",
+      "timestamp": 37.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1280,
+    "num_utterances": 16,
+    "num_emotion_pairs": 3
+  }
+}

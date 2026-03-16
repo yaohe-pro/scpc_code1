@@ -1,0 +1,169 @@
+{
+  "conversation_id": "ecf_train_92",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Hey , Kicky . What are you doing ?",
+      "emotion": "disgust",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Hey , Kicky . What are you doing ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Just trying to get comfortable . I can not sleep in my underwear .",
+      "emotion": "sadness",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_I can not sleep in my underwear .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "Well , you are gonna .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "I have been thinking . You know , about how I am always seeing girls on top of girls ...",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Chandler",
+      "text": "Are they end to end , or tall like pancakes ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "You know what I mean , about how I am always going out with all these women .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "And I always figured , when the right one comes along , I would be able to be a stand ... up guy and go the distance , you know ?",
+      "emotion": "sadness",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Joey",
+      "text": "Now I am looking at my dad , thinking ...",
+      "emotion": "sadness",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Chandler",
+      "text": "Hey , you are not him .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Chandler",
+      "text": "You are you .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Chandler",
+      "text": "When they were all over you to go into your father pipe ... fitting business , did you cave ?",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Joey",
+      "text": "No .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Chandler",
+      "text": "No .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Chandler",
+      "text": "You decided to go into the out ... of ... work actor business .",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Chandler",
+      "text": "Now that was not easy , but you did it !",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Chandler",
+      "text": "And I would like to believe that when the right woman comes along , you will have the courage and the guts to say \" No thanks , I am married . \"",
+      "emotion": "neutral",
+      "timestamp": 37.5
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Joey",
+      "text": "You really think so ?",
+      "emotion": "joy",
+      "timestamp": 40.0,
+      "emotion_cause": {
+        "utterance_id": "u17",
+        "span": "17_You really think so ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Chandler",
+      "text": "Yeah . I really do .",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Joey",
+      "text": "Thanks , Chandler .",
+      "emotion": "neutral",
+      "timestamp": 45.0
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Chandler",
+      "text": "Get off !",
+      "emotion": "anger",
+      "timestamp": 47.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 92,
+    "num_utterances": 20,
+    "num_emotion_pairs": 4
+  }
+}

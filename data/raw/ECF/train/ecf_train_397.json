@@ -1,0 +1,63 @@
+{
+  "conversation_id": "ecf_train_397",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "Hey , Rach , how was work ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Oh , great . Although I did sit down where there was not a chair .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Monica",
+      "text": "By the way , Ross dropped by a box of your stuff .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "Oh , well , I guess I had that one coming .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "I am just gonna throw it out , it is probably just a bunch of shampoo and ...",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Monica",
+      "text": "Something wrong ?",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Rachel",
+      "text": "No . Nothing .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 397,
+    "num_utterances": 7,
+    "num_emotion_pairs": 0
+  }
+}

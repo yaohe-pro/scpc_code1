@@ -1,0 +1,182 @@
+{
+  "conversation_id": "ecf_train_193",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Hi .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Duncan",
+      "text": "Phoebe !",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_Phoebe !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "Ta ... da .",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_Phoebe !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Duncan",
+      "text": "Hey .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Phoebe",
+      "text": "Hi .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Duncan",
+      "text": "Ahh , look at you , you look great .",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_look at you , you look great .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Phoebe",
+      "text": "Do I ? Thank you , so do you .",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "6_you look great .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Duncan",
+      "text": "Thanks .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Phoebe",
+      "text": "Sparkly .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Phoebe",
+      "text": "So , wow , this is pretty wonerful , huh . Mr . major capades guy .",
+      "emotion": "joy",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_this is pretty wonerful",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Phoebe",
+      "text": "I , I remember when you were just , like , King Friday in Mr . Roger Ice is Nice .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Duncan",
+      "text": "You always said I would make it .",
+      "emotion": "joy",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_You always said I would make it .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Phoebe",
+      "text": "Yeah , well , you know , I am kind of spooky that way . Wooo .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Duncan",
+      "text": "I missed you . I am gonna get changed .",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Phoebe",
+      "text": "OK .",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Duncan",
+      "text": "Um , now . Phoebs .",
+      "emotion": "neutral",
+      "timestamp": 37.5
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Phoebe",
+      "text": "Oh , right , OK . Ole .",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Duncan",
+      "text": "What ?",
+      "emotion": "surprise",
+      "timestamp": 42.5,
+      "emotion_cause": {
+        "utterance_id": "u18",
+        "span": "17_Ole .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Phoebe",
+      "text": "Um , the matador . Ole , ha ha ha .",
+      "emotion": "joy",
+      "timestamp": 45.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 193,
+    "num_utterances": 19,
+    "num_emotion_pairs": 8
+  }
+}

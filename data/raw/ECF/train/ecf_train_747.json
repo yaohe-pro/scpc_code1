@@ -1,0 +1,145 @@
+{
+  "conversation_id": "ecf_train_747",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Hey Ross , is uh , is Staten Island really an island ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Uh ... huh , that is why they call it Staten Island .",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_is Staten Island really an island ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Ohhh . I thought it was like Long Island .",
+      "emotion": "surprise",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_Uh ... huh , that is why they call it Staten Island .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "Also an island .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "Hey , what time is it ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "2 : 17",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "Wow ! You realize that we have been throwing this ball , without dropping it , for like an hour ?",
+      "emotion": "surprise",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_we have been throwing this ball , without dropping it , for like an hour",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ross",
+      "text": "Are you serious ? !",
+      "emotion": "surprise",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "7_we have been throwing this ball , without dropping it , for like an hour",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Joey",
+      "text": "Yeah . I realized it about a half ... hour ago but I did not want to say anything cause I did not want to jinx it .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Ross",
+      "text": "Wow ! We are pretty good at this ! Hey ! We totally forgot about lunch !",
+      "emotion": "surprise",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_We totally forgot about lunch !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Joey",
+      "text": "Oh , I ... I , I think that is the first time I ever missed a meal ! Yeah , my pants are a little loose !",
+      "emotion": "anger",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_that is the first time I ever missed a meal !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Rachel",
+      "text": "Hey , you guys",
+      "emotion": "joy",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_Hey , you guys",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Joey",
+      "text": "Hey !",
+      "emotion": "joy",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_Hey !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 747,
+    "num_utterances": 13,
+    "num_emotion_pairs": 15
+  }
+}

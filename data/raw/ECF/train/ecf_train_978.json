@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_train_978",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "I do not believe you spent my wedding fund on the beach house !",
+      "emotion": "anger",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_you spent my wedding fund on the beach house !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Mrs. Geller",
+      "text": "We are sorry honey , but we just assumed if you got married after you turned 30 you would pay for it yourself .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 978,
+    "num_utterances": 2,
+    "num_emotion_pairs": 1
+  }
+}

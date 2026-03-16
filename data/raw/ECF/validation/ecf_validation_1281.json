@@ -1,0 +1,112 @@
+{
+  "conversation_id": "ecf_validation_1281",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Dr. Long",
+      "text": "We will do a quick check .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Okay .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Dr. Long",
+      "text": "So , eight days late huh ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "Yeah .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Dr. Long",
+      "text": "You must be a little uncomfortable .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Eh , just a tad .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Dr. Long",
+      "text": "You are about 80 percent effaced , so you are on your way .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Dr. Long",
+      "text": "It still could last a little while longer .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Dr. Long",
+      "text": "If you are anxious there are a few ways to help things along .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Ross",
+      "text": "Do them ! !",
+      "emotion": "anger",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Dr. Long",
+      "text": "Actually , they are things you can do . Just some home remedies , but in my experience I have found that some of them are quite effective .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Rachel",
+      "text": "Well , we are ready to try anything .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Dr. Long",
+      "text": "Okay , there is an herbal tea you can drink .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Rachel",
+      "text": "Okay .",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 1281,
+    "num_utterances": 14,
+    "num_emotion_pairs": 0
+  }
+}

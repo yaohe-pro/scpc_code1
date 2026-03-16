@@ -1,0 +1,177 @@
+{
+  "conversation_id": "ecf_train_523",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Dr. Zane",
+      "text": "It looks like your uterus is ready for implantation .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "Oh ! I knew it ! I knew it ! I felt really thick this morning .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_It looks like your uterus is ready for implantation .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Frank",
+      "text": "Well , okay , so what now ... go get , go get the eggs , put em in there .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Dr. Zane",
+      "text": "Okay , it will take just a little while to prepare the embryos .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Phoebe",
+      "text": "Embryossss ? As in , \" More than one ? \"",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_Embryossss ? As in , \" More than one ? \"",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Dr. Zane",
+      "text": "Um ... hmm , five actually .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Phoebe",
+      "text": "Five ? Okay , where am I giving birth , a hospital or a big box under the stairs ?",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Dr. Zane",
+      "text": "We do five because that gives you a 25% chance that at least one will attach .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Phoebe",
+      "text": "That is it ! 25 percent ? That means that is it is like 75 percent chance of no baby at all !",
+      "emotion": "surprise",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_That means that is it is like 75 percent chance of no baby at all !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Frank",
+      "text": "Hey , you know I was thinking , what are the odds like if ... if , if you stuff like 200 of them in there ?",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Alice",
+      "text": "Sweety , now , she is a woman , not a gumball machine .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Phoebe",
+      "text": "Okay , well you know what , do not worry you guys , cause I am ... I am gonna do this as many times as it takes to get it right .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Frank",
+      "text": "Well , you see , the ... the thing is , we ... we only got , we kinda have one shot .",
+      "emotion": "sadness",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_we ... we only got , we kinda have one shot .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Alice",
+      "text": "Umm , it costs $ 16000 each time you do this .",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Alice",
+      "text": "So , umm , we are kinda using all the money we have to do it just this one time .",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Phoebe",
+      "text": "Whoa ! ! That ... okay , that is a lot of pressure on me and my uterus .",
+      "emotion": "surprise",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "15_we are kinda using all the money we have to do it just this one time .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Dr. Zane",
+      "text": "No , I am sorry .",
+      "emotion": "sadness",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Phoebe",
+      "text": "Wow ! You guys really do not know anything !",
+      "emotion": "surprise",
+      "timestamp": 42.5,
+      "emotion_cause": {
+        "utterance_id": "u18",
+        "span": "18_You guys really do not know anything !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Frank",
+      "text": "I know ! Why do not you get drunk ! That worked for a lot of girls in my high school .",
+      "emotion": "neutral",
+      "timestamp": 45.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 523,
+    "num_utterances": 19,
+    "num_emotion_pairs": 7
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "conversation_id": "ecf_train_1117",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Hey !",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "Hey !",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "You know I am ... I am really glad we decided not to sleep together before the wedding .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Monica",
+      "text": "Oh boy , me too !",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Chandler",
+      "text": "You know I was thinking if we had a ... a big fight and uh we broke up for a few hours .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Monica",
+      "text": "Yeah ?",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Chandler",
+      "text": "Technically , we could have sex again .",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_we could have sex again .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Chandler",
+      "text": "What do you think , bossy and domineering ? !",
+      "emotion": "disgust",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_bossy and domineering",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Monica",
+      "text": "The wedding is off , sloppy and immature !",
+      "emotion": "anger",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_sloppy and immature !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Chandler",
+      "text": "That is me ! Come on !",
+      "emotion": "joy",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "7_we could have sex again .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Monica",
+      "text": "Okay . But wait , we can not . My Cousin Cassie is in the guest room , we are supposed to have lunch .",
+      "emotion": "sadness",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_we can not . My Cousin Cassie is in the guest room , we are supposed to have lunch .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Chandler",
+      "text": "Well , get rid of her , obsessive and shrill .",
+      "emotion": "anger",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_obsessive and shrill .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Monica",
+      "text": "Shrill ? ! The wedding is back on !",
+      "emotion": "anger",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_Shrill ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Cassie",
+      "text": "I thought I heard voices . You must be Chandler .",
+      "emotion": "joy",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "14_You must be Chandler .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Chandler",
+      "text": "Hi ! Nice to meet you !",
+      "emotion": "joy",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_Hi ! Nice to meet you !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Cassie",
+      "text": "Nice to meet you too .",
+      "emotion": "joy",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "16_Nice to meet you too .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Monica",
+      "text": "So , are you ready to go ?",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Cassie",
+      "text": "Yeah .",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Monica",
+      "text": "Chandler ? !",
+      "emotion": "surprise",
+      "timestamp": 45.0
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Chandler",
+      "text": "I will be right with you .",
+      "emotion": "neutral",
+      "timestamp": 47.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1117,
+    "num_utterances": 20,
+    "num_emotion_pairs": 17
+  }
+}

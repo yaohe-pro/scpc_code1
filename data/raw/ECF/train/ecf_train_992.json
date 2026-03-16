@@ -1,0 +1,70 @@
+{
+  "conversation_id": "ecf_train_992",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Tag",
+      "text": "I do not think I should say .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Ohh , you can say . Come on , I do not want you to feel like you can not tell me things .",
+      "emotion": "joy",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Tag",
+      "text": "Okay .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "Kay .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Tag",
+      "text": "Well",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Yeah .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Tag",
+      "text": "I would love to ask out your friend Phoebe .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Rachel",
+      "text": "Yeah , she is gay .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 992,
+    "num_utterances": 8,
+    "num_emotion_pairs": 0
+  }
+}

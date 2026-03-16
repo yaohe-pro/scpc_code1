@@ -1,0 +1,97 @@
+{
+  "conversation_id": "ecf_train_246",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Hey !",
+      "emotion": "surprise",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Hey !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Hey !",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_Hey !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "No . You know how we are always saying we need a place for the mail .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "Well , I started building one . But then I decided to take it to the next step .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Chandler",
+      "text": "You are building a post office ?",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_You are building a post office ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "No , an entertainment unit , with a mail cubby built right in . It is a one day job , max .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Chandler",
+      "text": "Okay . My word ! Those are snug .",
+      "emotion": "surprise",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_Those are snug .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Joey",
+      "text": "Oh yeah . These are my old work pants , Sergio Valente .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Joey",
+      "text": "Power saw kinda got away from me there .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 246,
+    "num_utterances": 9,
+    "num_emotion_pairs": 6
+  }
+}

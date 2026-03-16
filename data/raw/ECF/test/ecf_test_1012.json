@@ -1,0 +1,105 @@
+{
+  "conversation_id": "ecf_test_1012",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Hey ! What up ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Hey !",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_Hey !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Hey ... hey , who your friend ? Hey ! !",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_Hey ... hey , who your friend ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Erin",
+      "text": "Hey Joey !",
+      "emotion": "joy",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_Hey Joey !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "Erin ! Still here !",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_Erin ! Still here !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Yeah , we ended up spending the day together and had such a great time !",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_we ended up spending the day together and had such a great time !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "Why would not you ? Erin is great ! Then ... then there is you guys .",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_Erin is great ! Then ... then there is you guys .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Erin",
+      "text": "Ohh , listen . I have got to get going . Today was great , thanks !",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_Today was great",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 1012,
+    "num_utterances": 8,
+    "num_emotion_pairs": 9
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "conversation_id": "ecf_train_1084",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Okay , is everybody clear ? We are gonna pick it up ... and move it . Now all we need is teamwork , okay ? We are gonna lift the car ...",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Ross , I really do not think",
+      "emotion": "sadness",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_We are gonna pick it up ... and move it . Now all we need is teamwork , okay ? We are gonna lift the car ...",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "Lift ! ! And slide !",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_I really do not think",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "Okay , here we go .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "All right everyone , lift ! And slide ! !",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1084,
+    "num_utterances": 5,
+    "num_emotion_pairs": 2
+  }
+}

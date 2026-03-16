@@ -1,0 +1,179 @@
+{
+  "conversation_id": "ecf_test_821",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Me taking care of you is no problem , huh ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "You guys feel safe .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "Right ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Phoebe",
+      "text": "Okay , I am gonna take that spit bubble as , \" Yeah , I do ! \"",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Phoebe",
+      "text": "Okay , after I get rid of this dirty diaper Leslie , I will set you up with a clean one .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Phoebe",
+      "text": "Okay , I am sorry .",
+      "emotion": "sadness",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Phoebe",
+      "text": "I did not mean to scare you .",
+      "emotion": "sadness",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_I did not mean to scare you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Phoebe",
+      "text": "I just have to clean that up .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Phoebe",
+      "text": "Okay ?",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Phoebe",
+      "text": "Cause let face it , we are at Monica's .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Phoebe",
+      "text": "I broke it .",
+      "emotion": "sadness",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_I broke it .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Phoebe",
+      "text": "All right .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Phoebe",
+      "text": "Well , that is just the way that goes .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Phoebe",
+      "text": "Okay , good .",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Phoebe",
+      "text": "Why are there only two of you ?",
+      "emotion": "fear",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_Why are there only two of you ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Phoebe",
+      "text": "Where is Leslie ?",
+      "emotion": "fear",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "16_Where is Leslie ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Phoebe",
+      "text": "Well , you can not answer .",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Phoebe",
+      "text": "Leslie ?",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Phoebe",
+      "text": "Where are you Leslie ?",
+      "emotion": "fear",
+      "timestamp": 45.0,
+      "emotion_cause": {
+        "utterance_id": "u19",
+        "span": "19_Where are you Leslie ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Phoebe",
+      "text": "Leslie , now would be a good time for your first words !",
+      "emotion": "neutral",
+      "timestamp": 47.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 821,
+    "num_utterances": 20,
+    "num_emotion_pairs": 5
+  }
+}

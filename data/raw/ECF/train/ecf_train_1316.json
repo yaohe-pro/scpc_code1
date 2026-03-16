@@ -1,0 +1,151 @@
+{
+  "conversation_id": "ecf_train_1316",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Hey uh , is it okay to come in ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Of course ! Oh Joey , this ring I ... it is beautiful I love it !",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_this ring I ... it is beautiful I love it !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Yeah uh look Rach , there is something I gotta tell you .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "Hey !",
+      "emotion": "joy",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_Hey !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Nurse",
+      "text": "Hey ! Are you ready to try nursing again ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Yeah ! Hi Emma . Hey , why do you think she will not take my breast ?",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_Yeah ! Hi Emma .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Nurse",
+      "text": "It is all right honey , it takes some babies a while to get it , but do not worry . It will happen .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Joey",
+      "text": "Yowza",
+      "emotion": "surprise",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Rachel",
+      "text": "Okay sweetie , you can do it . Just open up and put it in your mouth .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Joey",
+      "text": "Dear Lord .",
+      "emotion": "surprise",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Rachel",
+      "text": "I am sorry honey , what were you saying ?",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Joey",
+      "text": "Oh uh ... uh yeah , I think that ...",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Rachel",
+      "text": "Do you think my nipples are too big for her mouth ?",
+      "emotion": "surprise",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_Do you think my nipples are too big for her mouth ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Rachel",
+      "text": "She looks scared .",
+      "emotion": "sadness",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "14_She looks scared .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Rachel",
+      "text": "Does not she look scared ?",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Joey",
+      "text": "You know , I do not really know her .",
+      "emotion": "neutral",
+      "timestamp": 37.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1316,
+    "num_utterances": 16,
+    "num_emotion_pairs": 6
+  }
+}

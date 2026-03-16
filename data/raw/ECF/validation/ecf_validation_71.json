@@ -1,0 +1,111 @@
+{
+  "conversation_id": "ecf_validation_71",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Carol",
+      "text": "Anytime you are ready .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Ok , ok , here we go .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "Ok , where am I talking to , here ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "I mean , uh , well , there is one way that seems to offer a certain acoustical advantage , but ...",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Carol",
+      "text": "Just aim for the bump .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "Ok , ok , ok , ok , here goes .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Ross",
+      "text": "You know , I , you know , can not do this .",
+      "emotion": "sadness",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_I , you know , can not do this .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ross",
+      "text": "Uh , this is too weird .",
+      "emotion": "disgust",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_this is too weird .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Ross",
+      "text": "I feel stupid .",
+      "emotion": "sadness",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_I feel stupid .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Carol",
+      "text": "So do not do it , it is fine . You do not have to do it just because Susan does it .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Ross",
+      "text": "Hello , baby . Hello , hello .",
+      "emotion": "joy",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_Hello , baby . Hello , hello .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 71,
+    "num_utterances": 11,
+    "num_emotion_pairs": 5
+  }
+}

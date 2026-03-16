@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_validation_1323",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "What is wrong with Emma ?",
+      "emotion": "sadness",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_What is wrong with Emma ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "Oh she misunderstood , she thought she was moving to Tulsa .",
+      "emotion": "anger",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 1323,
+    "num_utterances": 2,
+    "num_emotion_pairs": 1
+  }
+}

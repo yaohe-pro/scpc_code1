@@ -1,0 +1,179 @@
+{
+  "conversation_id": "ecf_validation_1169",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "Hi !",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Hi !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Hi .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "Hi . Umm , I think there is something that we really need to talk about .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "I think we do . Why do not we go inside ? Look uh , I know why you are here .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "You do ?",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_I know why you are here .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "Yeah , and to save you from any embarrassment umm , I think maybe I should talk first .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Rachel",
+      "text": "Okay .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ross",
+      "text": "Okay . Uh , Ross and Rachel . Rachel and Ross . That is been one heck of a see ... saw , has not it ?",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Rachel",
+      "text": "What ?",
+      "emotion": "surprise",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "8_Ross and Rachel . Rachel and Ross . That is been one heck of a see ... saw , has not it ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Ross",
+      "text": "I mean look , that ... that one night we had was fun and ... and certainly passionate , but do not you think it is better if we just stayed friends ?",
+      "emotion": "sadness",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_do not you think it is better if we just stayed friends ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Rachel",
+      "text": "Seriously . What ? !",
+      "emotion": "surprise",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "10_that ... that one night we had was fun and ... and certainly passionate , but do not you think it is better if we just stayed friends ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Ross",
+      "text": "Okay .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Ross",
+      "text": "Okay .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Ross",
+      "text": "You know what ?",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Ross",
+      "text": "If you want to , we can do it one more time .",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Ross",
+      "text": "I mean I would ... I would be okay with that .",
+      "emotion": "neutral",
+      "timestamp": 37.5
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Ross",
+      "text": "In fact , I have some time right now .",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Rachel",
+      "text": "Okay , you know what ? Can I , can I talk now ?",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Ross",
+      "text": "Oh sure .",
+      "emotion": "neutral",
+      "timestamp": 45.0
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Rachel",
+      "text": "I am pregnant . Ross ? Ross ? Okay , whenever you are ready . And you are the father by the way , but you got ...",
+      "emotion": "neutral",
+      "timestamp": 47.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 1169,
+    "num_utterances": 20,
+    "num_emotion_pairs": 5
+  }
+}

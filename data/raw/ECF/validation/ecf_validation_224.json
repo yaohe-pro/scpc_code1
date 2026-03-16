@@ -1,0 +1,125 @@
+{
+  "conversation_id": "ecf_validation_224",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "Nooo Way ! The most romantic song ever is The Way We Were .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "See , I ... I think that one that Elton John wrote for , um , that guy on Who The Boss .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "What song was that , Pheebs ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Phoebe",
+      "text": "Hi Monica !",
+      "emotion": "joy",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_Hi Monica !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "Hey Mon !",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_Hey Mon !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Hey Mon !",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_Hey Mon !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Phoebe",
+      "text": "Oh my God , has she slept at all ?",
+      "emotion": "surprise",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_has she slept at all ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ross",
+      "text": "Nope .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Rachel",
+      "text": "No , it is been three nights in a row .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Ross",
+      "text": "Yeah , she finally stopped crying yesterday , but then she found one of Richard cigar butts out on the terrace , so .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Phoebe",
+      "text": "Oh , okay that explains it .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Phoebe",
+      "text": "I got a call at two in the morning , but all I could hear was , like , this high squeaky sound , so I thought okay its like a mouse or a opossum .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Phoebe",
+      "text": "But then I realized where would a mouse or a opossum get the money to make the phone call .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 224,
+    "num_utterances": 13,
+    "num_emotion_pairs": 4
+  }
+}

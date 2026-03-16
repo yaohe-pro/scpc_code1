@@ -1,0 +1,171 @@
+{
+  "conversation_id": "ecf_train_1170",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "I can not believe we are here .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_we are here .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "Oh you have got to be kidding me .",
+      "emotion": "surprise",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Monica",
+      "text": "What ?",
+      "emotion": "surprise",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_you have got to be kidding me .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Front Desk Clerk",
+      "text": "As a wedding gift to you , the hotel would like to give you the honeymoon suite .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Monica",
+      "text": "No ! ! You have been screwing us all day !",
+      "emotion": "anger",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_You have been screwing us all day !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Man",
+      "text": "Who are you ?",
+      "emotion": "surprise",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "5_You have been screwing us all day !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Chandler",
+      "text": "We are you just ten seconds later !",
+      "emotion": "anger",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_We are you just ten seconds later !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Monica",
+      "text": "You already got the first class tickets ... you got the lounge !",
+      "emotion": "anger",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "9_I mean we should get free stuff too !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Monica",
+      "text": "I mean we should get free stuff too !",
+      "emotion": "anger",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_I mean we should get free stuff too !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Monica",
+      "text": "I mean you are not the only ones on your honeymoon !",
+      "emotion": "anger",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "9_I mean we should get free stuff too !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Woman",
+      "text": "Well you can have the suite if you want .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Woman",
+      "text": "We do not care about where we stay .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Woman",
+      "text": "We are here to celebrate our love together .",
+      "emotion": "joy",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_We are here to celebrate our love together .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Woman",
+      "text": "We do not have to get free stuff .",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Woman",
+      "text": "We just want to be together .",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Chandler",
+      "text": "We need the stuff .",
+      "emotion": "neutral",
+      "timestamp": 37.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1170,
+    "num_utterances": 16,
+    "num_emotion_pairs": 12
+  }
+}

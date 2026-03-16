@@ -1,0 +1,100 @@
+{
+  "conversation_id": "ecf_train_699",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Hey Rach ! Hey , you mind if I read my comic books in here ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Sure ! Why ?",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_I read my comic books in here",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Oh well , Chandler and Monica are over there and it is kinda hard to concentrate .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "What ? !",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_Chandler and Monica are over there",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "She just called and said that she was gonna be working late !",
+      "emotion": "anger",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "6_She keeps lying to me !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "She keeps lying to me !",
+      "emotion": "anger",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_She keeps lying to me !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Rachel",
+      "text": "That is it !",
+      "emotion": "anger",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "6_She keeps lying to me !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Rachel",
+      "text": "I am just gonna go over there and confront them right now !",
+      "emotion": "anger",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "6_She keeps lying to me !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 699,
+    "num_utterances": 8,
+    "num_emotion_pairs": 7
+  }
+}

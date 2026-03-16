@@ -1,0 +1,87 @@
+{
+  "conversation_id": "ecf_validation_848",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Really ? In the moment , I really wanted to kiss you too . In the moment .",
+      "emotion": "joy",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Janine",
+      "text": "In the moment , yeah .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "But only in the moment . So do you wanna kiss again ?",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_do you wanna kiss again ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Janine",
+      "text": "Sure , New Year Eve is only two weeks away . Can you wait ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "No .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Janine",
+      "text": "Me neither .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "3 , 2 ,",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Janine",
+      "text": "Joey , you do not have to count down every time we kiss .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Joey",
+      "text": "Uh , yeah , okay . Except I sorta felt like I needed a couple of seconds to get ready .",
+      "emotion": "joy",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "8_you do not have to count down every time we kiss .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 848,
+    "num_utterances": 9,
+    "num_emotion_pairs": 2
+  }
+}

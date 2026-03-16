@@ -1,0 +1,160 @@
+{
+  "conversation_id": "ecf_train_1302",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Hey !",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Hey !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "I can not believe this is taking so long . How are you doing ?",
+      "emotion": "sadness",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_this is taking so long .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "Oh not bad . Do you know that feeling when you are trying to blow a Saint Bernard out your ass ?",
+      "emotion": "sadness",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_that feeling when you are trying to blow a Saint Bernard out your ass",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "Weirdest thing . Did I hear ... Mother of God it is true !",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_it is true !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Janice",
+      "text": "Chandler Bing !",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_Chandler Bing !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "Janice",
+      "emotion": "surprise",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_Janice",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Ross",
+      "text": "Not just Janice , Janice in labor , contracting and everything .",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_Not just Janice , Janice in labor , contracting and everything .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Janice",
+      "text": "Oh , this should be easy . I have a very wide pelvis . You remember Chandler .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Chandler",
+      "text": "Janice I did not even know you were pregnant ! Who the unwitting human who essence you have stolen ?",
+      "emotion": "surprise",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_I did not even know you were pregnant ! Who the unwitting human who essence you have stolen ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Janice",
+      "text": "It is you . This is yours .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Chandler",
+      "text": "What ? !",
+      "emotion": "surprise",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "10_It is you . This is yours .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Janice",
+      "text": "Look how nervous he gets ! We have not slept together in years !",
+      "emotion": "joy",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_Look how nervous he gets !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Chandler",
+      "text": "That is funny . Does it ... does it hurt ? Does the labor hurt ?",
+      "emotion": "anger",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "12_Look how nervous he gets !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1302,
+    "num_utterances": 13,
+    "num_emotion_pairs": 15
+  }
+}

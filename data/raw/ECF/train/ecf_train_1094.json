@@ -1,0 +1,152 @@
+{
+  "conversation_id": "ecf_train_1094",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ben",
+      "text": "Really ? Like how ?",
+      "emotion": "surprise",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Well you know , we would umm , repeat everything the other said , or uh , we would jump out of closets to scare each other , or switch the sugar for the salt so they would put salt on their cereal .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ben",
+      "text": "That is a good one .",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_That is a good one .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "Yeah ? You like that one ?",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_You like that one ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ben",
+      "text": "Yeah , you are funny .",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_Yeah , you are funny .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "I am funny ?",
+      "emotion": "surprise",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_I am funny ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Rachel",
+      "text": "Oh thank God !",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "5_you are funny .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Rachel",
+      "text": "Well hey , I have got a ton of these !",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_I have got a ton of these !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Rachel",
+      "text": "Umm , you uh , you take a quarter , take a quarter and , and you blacken the edge .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Rachel",
+      "text": "Right ?",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Rachel",
+      "text": "And then you say to person , I bet you can not roll this quarter from your forehead to your chin without it leaving your face .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Rachel",
+      "text": "And then when they do it , they are left with a big black pencil line right down the center of their face .",
+      "emotion": "joy",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_And then when they do it , they are left with a big black pencil line right down the center of their face .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Ben",
+      "text": "Can I do it to you ?",
+      "emotion": "joy",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_Can I do it to you ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Rachel",
+      "text": "Yeah , I ... I ... I ... I am funny Ben , but I am not stupid . Okay ?",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1094,
+    "num_utterances": 14,
+    "num_emotion_pairs": 13
+  }
+}

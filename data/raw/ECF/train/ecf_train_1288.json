@@ -1,0 +1,28 @@
+{
+  "conversation_id": "ecf_train_1288",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Oh uh , I am sorry .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "No Ross ! Ross ! Ross ! My child has no father !",
+      "emotion": "anger",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1288,
+    "num_utterances": 2,
+    "num_emotion_pairs": 0
+  }
+}

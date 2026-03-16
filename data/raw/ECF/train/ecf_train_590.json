@@ -1,0 +1,70 @@
+{
+  "conversation_id": "ecf_train_590",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "This is what I have got going for the party so far , liquor wise . Get a lot of liquor .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Great . Great .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Okay , now uh , in terms of the invite list , I have got you , me , and Chandler and I am gonna invite Gunther cause , well , we have been talking about this pretty loud .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Gunther",
+      "text": "I will be there .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "Listen , I know this is your party , but I would really like to the number of museum geeks that are gonna be there .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "Yeah . tell you what , let not invite any of the anthropologists , only the dinosaur dudes !",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "Okay ! We will need a six ... pack of Zima .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Chandler",
+      "text": "Hey guys , what are you doing ?",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 590,
+    "num_utterances": 8,
+    "num_emotion_pairs": 0
+  }
+}

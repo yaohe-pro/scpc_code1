@@ -1,0 +1,97 @@
+{
+  "conversation_id": "ecf_validation_1137",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "God . I forgot how much I love driving . I have got to get my license renewed .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_I love driving .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "You do not have a valid driver’s license ... Okay that is it ! Pull over right now !",
+      "emotion": "anger",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_You do not have a valid driver’s license",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "Oh Ross you are so tense ! You just gotta relax , okay ? Just need to relax all right ? Just need to relax",
+      "emotion": "joy",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "What ... what are you doing ? ! Are you ... Okay that is not funny ! Just stop horsing around !",
+      "emotion": "anger",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_What ... what are you doing ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "I am not horsing around , okay ? I am Porsching around .",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_I am Porsching around .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Uh ... oh .",
+      "emotion": "fear",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Ross",
+      "text": "Okay , stay calm . Nothing is going to happen to you , you are not in that much trouble .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Rachel",
+      "text": "Really ? You think so ?",
+      "emotion": "fear",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Ross",
+      "text": "I was talking to myself ! You are going down !",
+      "emotion": "anger",
+      "timestamp": 20.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 1137,
+    "num_utterances": 9,
+    "num_emotion_pairs": 4
+  }
+}

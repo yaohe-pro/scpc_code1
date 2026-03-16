@@ -1,0 +1,88 @@
+{
+  "conversation_id": "ecf_train_782",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "That kid really kicked me hard on the plane .",
+      "emotion": "anger",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_That kid really kicked me hard on the plane .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "Well you did pull his hair .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Monica",
+      "text": "He took my snack !",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_He took my snack !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "I am not getting into this again !",
+      "emotion": "anger",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_I am not getting into this again !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Monica",
+      "text": "Okay ! Oh God , you know what ? It is really bad .",
+      "emotion": "sadness",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_It is really bad .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Chandler",
+      "text": "Well , I told you not to walk . Here . There . Okay .",
+      "emotion": "sadness",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "5_It is really bad .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Monica",
+      "text": "This does not mean anything , does it ?",
+      "emotion": "fear",
+      "timestamp": 15.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 782,
+    "num_utterances": 7,
+    "num_emotion_pairs": 6
+  }
+}

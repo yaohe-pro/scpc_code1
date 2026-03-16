@@ -1,0 +1,92 @@
+{
+  "conversation_id": "ecf_train_440",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Stevens",
+      "text": "Oh , excuse me . I forgot my briefcase you know , by accident .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Doug",
+      "text": "Of course , you did .",
+      "emotion": "joy",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Doug",
+      "text": "Forgot something else too you bastard !",
+      "emotion": "joy",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Doug",
+      "text": "Well , what about you ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Doug",
+      "text": "You are not feeling left out or anything are you ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Chandler",
+      "text": "No . No , not at all , that is ... that is ridiculous .",
+      "emotion": "sadness",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Doug",
+      "text": "Everybody else got one , and you want one too . Do not you ?",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_Everybody else got one , and you want one too .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Chandler",
+      "text": "Ye ... ye ... yeah , yes I do !",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_Ye ... ye ... yeah , yes I do !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Doug",
+      "text": "Now get on out of here , you !",
+      "emotion": "joy",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "8_Ye ... ye ... yeah , yes I do !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 440,
+    "num_utterances": 9,
+    "num_emotion_pairs": 5
+  }
+}

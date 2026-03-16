@@ -1,0 +1,45 @@
+{
+  "conversation_id": "ecf_train_1263",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Hey !",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "Hey ! Check it out ! This is unbelievable ! Joey has been holding his breath for almost four minutes !",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_This is unbelievable ! Joey has been holding his breath for almost four minutes !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Dude ! What are yo ... you trying to kill me ? !",
+      "emotion": "surprise",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_What are yo ... you trying to kill me ? !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1263,
+    "num_utterances": 3,
+    "num_emotion_pairs": 2
+  }
+}

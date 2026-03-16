@@ -1,0 +1,71 @@
+{
+  "conversation_id": "ecf_train_567",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "Your parents ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joshua",
+      "text": "Yeah , they are out of town .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "Ohh .",
+      "emotion": "surprise",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_they are out of town .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joshua",
+      "text": "Yeah ... yeah , it is this huge place , and ... and it’s got this gorgeous view of the park , and very , very romantic .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "Yeah that works .",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_it is this huge place , and ... and it’s got this gorgeous view of the park , and very , very romantic .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joshua",
+      "text": "They ... they ... they can smell fear .",
+      "emotion": "fear",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_They ... they ... they can smell fear .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 567,
+    "num_utterances": 6,
+    "num_emotion_pairs": 3
+  }
+}

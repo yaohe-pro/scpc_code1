@@ -1,0 +1,121 @@
+{
+  "conversation_id": "ecf_train_984",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "That is the day you are gonna die ? See ... darnit , I have got shuffleboard that day .",
+      "emotion": "surprise",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_That is the day you are gonna die ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "That is what you think .",
+      "emotion": "disgust",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_That is what you think .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Monica",
+      "text": "Well , I mean what about friends of your grandmother ? Would not they have the recipe ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Phoebe",
+      "text": "Well , you know I may have relatives in France who would know . My grandmother said she got the recipe from her grandmother , Nesele Tolouse .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Monica",
+      "text": "What was her name ?",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_My grandmother said she got the recipe from her grandmother , Nesele Tolouse .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Phoebe",
+      "text": "Nestley Toulouse .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Monica",
+      "text": "Nestle Toll House ?",
+      "emotion": "surprise",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_Nestle Toll House ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Phoebe",
+      "text": "Oh , you Americans always butcher the French language .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Phoebe",
+      "text": "Yes ! ! Oh .",
+      "emotion": "surprise",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Monica",
+      "text": "I cannot believe that I just spent the last two days trying to figure out the recipe and it was in my cupboard the whole time !",
+      "emotion": "anger",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_I just spent the last two days trying to figure out the recipe and it was in my cupboard the whole time !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Phoebe",
+      "text": "I know ! You see it is stuff like this which is why you are burning in hell ! !",
+      "emotion": "anger",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "10_I just spent the last two days trying to figure out the recipe and it was in my cupboard the whole time !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 984,
+    "num_utterances": 11,
+    "num_emotion_pairs": 9
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "conversation_id": "ecf_train_1355",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Note the painterly lines and subtle impasto on this canvas . Monet painted quickly and usually outdoors as his elusive subject was light itself .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Now , do you have any idea what you just said ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "No , no , my mouth says the words , my brain is thinking monster trucks !",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "Ok now , remember , when you get to the museum , Monet is not spelt M ... O ... N ... A ... Y .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "I just ...",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "I wrote that out phonetically for you .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "Phonetically ?",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ross",
+      "text": "Yeah , yeah that means ... you know ? We just ... we do not have time for this .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Ross",
+      "text": "Ok , but you know what ? I gotta say , I am really impressed that you were able to memorize all this so quickly !",
+      "emotion": "surprise",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_you were able to memorize all this so quickly !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Joey",
+      "text": "Ah ! I am an actor ! I can memorize anything ! Last week on \" Days \" I had to say \" Frontal temporal zygomatic craniotomy \" .",
+      "emotion": "joy",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "9_I am really impressed that you were able to memorize all this so quickly !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Ross",
+      "text": "Wow . What does that mean ?",
+      "emotion": "surprise",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "10_Last week on \" Days \" I had to say \" Frontal temporal zygomatic craniotomy \" .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Joey",
+      "text": "No idea !",
+      "emotion": "surprise",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Joey",
+      "text": "But the guy I said it to dies in the next scene so I guess it means \" you are gonna get eaten by a bear \" .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Ross",
+      "text": "Ok ! So let move on to the Renaissance ?",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Joey",
+      "text": "Ok , Caravaggio uses chiaroscuro here to highlight the anguish of the central figure . Touch it , it is really bumpy ! .",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Ross",
+      "text": "Nah ah ! Nah ah ! No no no ! No ad ... libbing and dude , you can not touch the paintings .",
+      "emotion": "anger",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "15_Touch it",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Joey",
+      "text": "Come on ! you ...",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Ross",
+      "text": "No !",
+      "emotion": "anger",
+      "timestamp": 42.5,
+      "emotion_cause": {
+        "utterance_id": "u18",
+        "span": "15_Touch it",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1355,
+    "num_utterances": 18,
+    "num_emotion_pairs": 5
+  }
+}

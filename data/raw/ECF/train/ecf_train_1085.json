@@ -1,0 +1,21 @@
+{
+  "conversation_id": "ecf_train_1085",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Ah ... ha ! Too cocky !",
+      "emotion": "joy",
+      "timestamp": 0.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1085,
+    "num_utterances": 1,
+    "num_emotion_pairs": 0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "conversation_id": "ecf_train_245",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Okay , that is , that is enough .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "Will not you ... will not you ... will not you ...",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "Will not you dance around with me .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Monica",
+      "text": "A ... ha ! ! !",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "2_Will not you ... will not you ... will not you ...",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 245,
+    "num_utterances": 4,
+    "num_emotion_pairs": 2
+  }
+}

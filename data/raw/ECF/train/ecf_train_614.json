@@ -1,0 +1,170 @@
+{
+  "conversation_id": "ecf_train_614",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "You know , maybe it is best that we never got to do it again .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "Yeah , it kinda makes that ... that one night special . You know , technically we still are over international waters .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Monica",
+      "text": "I am gonna go to the bathroom , maybe I will see you there in a bit ?",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_maybe I will see you there in a bit ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "Kay !",
+      "emotion": "joy",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_I am gonna go to the bathroom , maybe I will see you there in a bit ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "Can I ask you something ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Chandler",
+      "text": "Uhh , no .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "Felicity and I , we are watching My Giant , and I was thinking , \" I’m never gonna be as good an actor as that giant . \" Do you think I’m just wasting my life with this acting thing ?",
+      "emotion": "sadness",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_I was thinking , \" I’m never gonna be as good an actor as that giant . \" Do you think I’m just wasting my life with this acting thing ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Chandler",
+      "text": "No .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Joey",
+      "text": "I mean , the giant is like five years younger than me , you know , you think I will ever get there ?",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Chandler",
+      "text": "Yes .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Joey",
+      "text": "Thanks man .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Chandler",
+      "text": "Okay man .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Joey",
+      "text": "But what about how much taller he is than me ?",
+      "emotion": "sadness",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_how much taller he is than me",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Joey",
+      "text": "I mean , there is no way I can make myself taller now , you know ?",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Joey",
+      "text": "And who knows what science will come up with in the future , but Chandler , what if I die an unsuccessful , regular sized man ?",
+      "emotion": "sadness",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_if I die an unsuccessful , regular sized man",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Joey",
+      "text": "Hey , Monica , wow you have been in the bathroom for like a half ... hour .",
+      "emotion": "surprise",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "16_you have been in the bathroom for like a half ... hour .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Monica",
+      "text": "I know !",
+      "emotion": "anger",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Joey",
+      "text": "Had the beef ... tips , huh ?",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 614,
+    "num_utterances": 18,
+    "num_emotion_pairs": 6
+  }
+}

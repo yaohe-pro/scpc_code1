@@ -1,0 +1,83 @@
+{
+  "conversation_id": "ecf_train_623",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Oh ... hey ... hey ... hey ! There you are !",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_There you are !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "Umm , listen there is something I think you should know .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "Oh , is this about you ... you dating the nurse ?",
+      "emotion": "surprise",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_is this about you ... you dating the nurse ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "Yeah , Joey already told me , and I am so ... so fine .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Chandler",
+      "text": "I mean , you and I we are just , you know , we are nothing , we are goofin around .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Monica",
+      "text": "Umm , actually I was about to tell you that I was , I was going to get out of it , but hey , if we are just goofing around then uh , maybe I will go out with him .",
+      "emotion": "anger",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_we are just goofing around",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Chandler",
+      "text": "Fine ! Maybe I will too !",
+      "emotion": "anger",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "6_if we are just goofing around then uh , maybe I will go out with him .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 623,
+    "num_utterances": 7,
+    "num_emotion_pairs": 6
+  }
+}

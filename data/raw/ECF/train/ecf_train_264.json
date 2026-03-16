@@ -1,0 +1,140 @@
+{
+  "conversation_id": "ecf_train_264",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "No real ... , honey , really it is fine , just g ... go with Susan .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Really , I , no , I think girls night out is a great idea .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_girls night out is a great idea .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "Okay , okay , bye",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Phoebe",
+      "text": "So what are they doing ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "I do not know , something girlie .",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_something girlie .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Phoebe",
+      "text": "Hey , you are early .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Monica",
+      "text": "What are you doing with the lamp ?",
+      "emotion": "surprise",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_What are you doing with the lamp ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Phoebe",
+      "text": "I am just taking it to be re ... wired .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Monica",
+      "text": "Oh , well do not take it to the same place you took the stereo , cause they have had that thing for over a week .",
+      "emotion": "disgust",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_they have had that thing for over a week .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Phoebe",
+      "text": "No , no , Mr . Heckles no one is making any noise up here .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Mr. Heckles",
+      "text": "You are disturbing my oboe practice .",
+      "emotion": "anger",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_You are disturbing my oboe practice .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Phoebe",
+      "text": "You do not play the oboe !",
+      "emotion": "anger",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_You do not play the oboe !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Mr. Heckles",
+      "text": "I could play the oboe !",
+      "emotion": "anger",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_I could play the oboe !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 264,
+    "num_utterances": 13,
+    "num_emotion_pairs": 10
+  }
+}

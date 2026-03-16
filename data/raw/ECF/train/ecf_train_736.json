@@ -1,0 +1,221 @@
+{
+  "conversation_id": "ecf_train_736",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Kim",
+      "text": "So , we are decided , no on plaid , yes on pink ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Nancy",
+      "text": "Absolutely !",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "I am so on board !",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Kim",
+      "text": "Rachel , did not you just light that ?",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_did not you just light that ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "Yea . But you know what ? I am really , really trying to cut back , you know ? Good luck , Rach .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Nancy",
+      "text": "I have actually been thinking about quitting lately .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Kim",
+      "text": "Oh sure , every Sunday night I am telling myself I am quitting but every Monday morning it is like",
+      "emotion": "disgust",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_every Sunday night I am telling myself I am quitting but every Monday morning it is like",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Nancy",
+      "text": "Tell me about it !",
+      "emotion": "sadness",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "7_every Sunday night I am telling myself I am quitting but every Monday morning it is like",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Rachel",
+      "text": "Well then let just quit ! We will just quit ! Let all quit !",
+      "emotion": "joy",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_let just quit ! We will just quit ! Let all quit !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Kim",
+      "text": "It does sound appealing .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Nancy",
+      "text": "Oh , I never could do it .",
+      "emotion": "sadness",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_I never could do it .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Rachel",
+      "text": "Oh but you could .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Rachel",
+      "text": "You can .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Rachel",
+      "text": "Absolutely !",
+      "emotion": "joy",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "15_We can help each other out !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Rachel",
+      "text": "We can help each other out !",
+      "emotion": "joy",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_We can help each other out !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Rachel",
+      "text": "We can get ... what are those ... those patches !",
+      "emotion": "neutral",
+      "timestamp": 37.5
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Rachel",
+      "text": "We could be like the Patch Sisters !",
+      "emotion": "joy",
+      "timestamp": 40.0,
+      "emotion_cause": {
+        "utterance_id": "u17",
+        "span": "17_We could be like the Patch Sisters !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Kim",
+      "text": "Oh you know , we really should quit . Okay , let quit !",
+      "emotion": "joy",
+      "timestamp": 42.5,
+      "emotion_cause": {
+        "utterance_id": "u18",
+        "span": "18_let quit !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Rachel",
+      "text": "Yes ! Great ! Give me those cigs ! Give it ! Give it !",
+      "emotion": "joy",
+      "timestamp": 45.0,
+      "emotion_cause": {
+        "utterance_id": "u19",
+        "span": "19_Great !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Kim",
+      "text": "My late husband gave me that lighter . I am not kidding .",
+      "emotion": "sadness",
+      "timestamp": 47.5,
+      "emotion_cause": {
+        "utterance_id": "u20",
+        "span": "20_My late husband gave me that lighter .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "Rachel",
+      "text": "Okay then !",
+      "emotion": "fear",
+      "timestamp": 50.0,
+      "emotion_cause": {
+        "utterance_id": "u21",
+        "span": "20_My late husband gave me that lighter . I am not kidding .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 736,
+    "num_utterances": 21,
+    "num_emotion_pairs": 15
+  }
+}

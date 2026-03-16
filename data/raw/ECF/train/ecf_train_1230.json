@@ -1,0 +1,218 @@
+{
+  "conversation_id": "ecf_train_1230",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "They made you head of the department !",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_They made you head of the department !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "No , I get to teach one of his advanced classes ! Why did not I get head of the department ?",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_I get to teach one of his advanced classes !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Oh ! Hey Rach , listen umm",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "Yeah .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "I got a big date coming up , do you know a good restaurant ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Uh , Paul Café . They got great food and it is really romantic .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "Ooh , great ! Thanks !",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "6_Paul Café . They got great food and it is really romantic .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Rachel",
+      "text": "Yeah ! Oh , and then afterwards you can take her to the Four Seasons for drinks .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Joey",
+      "text": "You sure are naming a lot of ways to postpone sex , I will tell ya",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Rachel",
+      "text": "Ooh , I miss dating .",
+      "emotion": "sadness",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "12_I am not gonna be able to do that for so long",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Rachel",
+      "text": "Gettin all dressed up and going to a fancy restaurant .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Rachel",
+      "text": "I am not gonna be able to do that for so long , and it is so much fun !",
+      "emotion": "sadness",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_I am not gonna be able to do that for so long",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Rachel",
+      "text": "I mean not that sitting at home worrying about giving birth to a sixteen pound baby is not fun .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Joey",
+      "text": "Hey , you know what ?",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Rachel",
+      "text": "Huh ?",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Joey",
+      "text": "Why do not I take you out ?",
+      "emotion": "joy",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "16_Why do not I take you out ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Rachel",
+      "text": "What ? ! Joey , you do not want to go on a date with a pregnant lady .",
+      "emotion": "surprise",
+      "timestamp": 40.0,
+      "emotion_cause": {
+        "utterance_id": "u17",
+        "span": "16_Why do not I take you out ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Joey",
+      "text": "Yes I do !",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Joey",
+      "text": "And we are gonna go out , we are gonna have a good time , and take your mind off of childbirth and c ... sections and ... and giant baby heads stretching out ...",
+      "emotion": "joy",
+      "timestamp": 45.0,
+      "emotion_cause": {
+        "utterance_id": "u19",
+        "span": "19_we are gonna go out , we are gonna have a good time , and take your mind off of childbirth and c ... sections and ... and giant baby heads stretching out",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Rachel",
+      "text": "Okay ! I will go with you ! I will go ! I will go with you .",
+      "emotion": "fear",
+      "timestamp": 47.5,
+      "emotion_cause": {
+        "utterance_id": "u20",
+        "span": "19_childbirth and c ... sections and ... and giant baby heads stretching out",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "Joey",
+      "text": "I will be fun .",
+      "emotion": "joy",
+      "timestamp": 50.0,
+      "emotion_cause": {
+        "utterance_id": "u21",
+        "span": "21_I will be fun .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u22",
+      "speaker": "Rachel",
+      "text": "All right ?",
+      "emotion": "neutral",
+      "timestamp": 52.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1230,
+    "num_utterances": 22,
+    "num_emotion_pairs": 13
+  }
+}

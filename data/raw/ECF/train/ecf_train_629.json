@@ -1,0 +1,49 @@
+{
+  "conversation_id": "ecf_train_629",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Yeah . You will not be able to take it .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "So uh , now that little Chandler turned out to be a girl , what are they gonna name her ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "They are gonna call her Chandler .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "That is kind of a masculine name , do not you think ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Phoebe",
+      "text": "Works on you .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 629,
+    "num_utterances": 5,
+    "num_emotion_pairs": 0
+  }
+}

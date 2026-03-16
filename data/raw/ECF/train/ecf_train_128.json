@@ -1,0 +1,132 @@
+{
+  "conversation_id": "ecf_train_128",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "No , not that , I mean , what about you and Mindy ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Barry",
+      "text": "Well , if you want , I will just ... I will just break it off with her .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "No . No ... no ... no ... no , no . I mean , do not do that . Not , I mean not for me .",
+      "emotion": "fear",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_if you want , I will just ... I will just break it off with her .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Bernice",
+      "text": "Dr . Farber , Bobby Rush is here for his adjustment .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Barry",
+      "text": "Thanks , Bernice .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Barry",
+      "text": "Let go away this weekend .",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_Let go away this weekend .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Rachel",
+      "text": "Oh , Barry ! Come on , this is all way too ...",
+      "emotion": "sadness",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Barry",
+      "text": "We can , we can go to Aruba !",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_we can go to Aruba !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Barry",
+      "text": "When I went there on what would have been our honeymoon , it was , uh ... it was really nice . You would have liked it .",
+      "emotion": "joy",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_it was really nice . You would have liked it .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Rachel",
+      "text": "I had a bra .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Bobby",
+      "text": "Hey , Dr . Farber .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Barry",
+      "text": "All right Miss Green , everything looks fine ... Yep , I think we are starting to see some real progress here .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Rachel",
+      "text": "What ? !",
+      "emotion": "surprise",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Bobby",
+      "text": "I am twelve , I am not stupid .",
+      "emotion": "disgust",
+      "timestamp": 32.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 128,
+    "num_utterances": 14,
+    "num_emotion_pairs": 4
+  }
+}

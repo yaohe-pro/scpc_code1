@@ -1,0 +1,116 @@
+{
+  "conversation_id": "ecf_train_796",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Hi .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "Hi .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "Hi , listen , I am sorry about before .",
+      "emotion": "sadness",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_I am sorry about before .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "I do not need to have a game room .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Chandler",
+      "text": "I mean when I was a kid I only played those games because I could not get girls , and now I can get ...",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Monica",
+      "text": "Stop it Chandler . I am sorry too .",
+      "emotion": "sadness",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Chandler",
+      "text": "Really ?",
+      "emotion": "surprise",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "6_I am sorry too .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Monica",
+      "text": "Yeah ! Oh yes !",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "3_I am sorry about before .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Chandler",
+      "text": "Ohh .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Monica",
+      "text": "Listen , we do not have to make that a guest room , we can think of something to do with the room together .",
+      "emotion": "joy",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_we can think of something to do with the room together .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Chandler",
+      "text": "That is a great idea ! We can easily think of a way for us both to enjoy the room .",
+      "emotion": "joy",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_That is a great idea ! We can easily think of a way for us both to enjoy the room .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 796,
+    "num_utterances": 11,
+    "num_emotion_pairs": 6
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "conversation_id": "ecf_train_653",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Well , I ... I ... I am done with this . You want anything Ross ? Sports ? International ? Apartment listings ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "I will take sports .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Mine !",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "All right . Uhh , international .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 653,
+    "num_utterances": 4,
+    "num_emotion_pairs": 0
+  }
+}

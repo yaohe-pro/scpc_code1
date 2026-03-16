@@ -1,0 +1,28 @@
+{
+  "conversation_id": "ecf_test_701",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "All right , then you would better show me some of that too then .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Okay , it is missing something . Ooh , I know ! Umm , okay .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 701,
+    "num_utterances": 2,
+    "num_emotion_pairs": 0
+  }
+}

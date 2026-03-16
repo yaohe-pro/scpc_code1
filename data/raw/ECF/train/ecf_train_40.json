@@ -1,0 +1,94 @@
+{
+  "conversation_id": "ecf_train_40",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "Ok , I know this is gonna sound really stupid , but I feel that if I can do this , you know , if I can actually do my own laundry , there is not anything I can not do .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_I feel that if I can do this , you know , if I can actually do my own laundry , there is not anything I can not do .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "That does not sound stupid to me .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "You know , it is like the first time I had to make dinner for myself , after Carol left me ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "I am sorry , that is all the time we have .",
+      "emotion": "sadness",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_that is all the time we have .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "Next on Ross ...",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "Ok . Uh ... oh .",
+      "emotion": "fear",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Rachel",
+      "text": "What uh ... oh ?",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ross",
+      "text": "Uh ... oh , uh ... oh , the laundry done . It is , uh , it is a song . The laundry song that we sing . Uh ... oh the laundry done , uh ... oh , uh ... oh .",
+      "emotion": "fear",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Rachel",
+      "text": "Ross , what the matter ?",
+      "emotion": "anger",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Ross",
+      "text": "Nothing , nothing . Lee ... lo , the laundry done .",
+      "emotion": "fear",
+      "timestamp": 22.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 40,
+    "num_utterances": 10,
+    "num_emotion_pairs": 2
+  }
+}

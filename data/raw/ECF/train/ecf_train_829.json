@@ -1,0 +1,111 @@
+{
+  "conversation_id": "ecf_train_829",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "How about , you are moving ! !",
+      "emotion": "anger",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Look ! This is ridiculous . We should be packing you ! !",
+      "emotion": "anger",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_you are moving ! !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "Hey , how are you guys doing ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "Great ! Monica moving !",
+      "emotion": "joy",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_Monica moving !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Monica",
+      "text": "I am not !",
+      "emotion": "anger",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_Monica moving !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Oh really ? ! Then how come all your stuff is in this box ? !",
+      "emotion": "surprise",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_all your stuff is in this box",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Phoebe",
+      "text": "Okay , you guys . You guys I think I know what going on here . Okay , you guys",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Monica",
+      "text": "No Phoebe I am mad !",
+      "emotion": "anger",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Phoebe",
+      "text": "Well , deep ... deep ... deep down !",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Rachel",
+      "text": "Yeah , I am just mad !",
+      "emotion": "anger",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Phoebe",
+      "text": "Then keep running .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 829,
+    "num_utterances": 11,
+    "num_emotion_pairs": 4
+  }
+}

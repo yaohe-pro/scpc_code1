@@ -1,0 +1,105 @@
+{
+  "conversation_id": "ecf_train_554",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "All right .",
+      "emotion": "sadness",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "4_I have had seven pretty serious shocks .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "The super could not figure out what it did .",
+      "emotion": "sadness",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "4_I have had seven pretty serious shocks .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Monica",
+      "text": "A $ 200 an hour electrician could not figure out what it did .",
+      "emotion": "sadness",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "4_I have had seven pretty serious shocks .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Monica",
+      "text": "I have had seven pretty serious shocks .",
+      "emotion": "sadness",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_I have had seven pretty serious shocks .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Monica",
+      "text": "I officially give up .",
+      "emotion": "sadness",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_I officially give up .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Thank God .",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "5_I officially give up .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Monica",
+      "text": "I guess Joey was right , it does nothing .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Phoebe",
+      "text": "See ? I am doing it . I am totally doing it . I lost it .",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_I am doing it . I am totally doing it .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 554,
+    "num_utterances": 8,
+    "num_emotion_pairs": 18
+  }
+}

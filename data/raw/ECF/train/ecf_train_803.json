@@ -1,0 +1,180 @@
+{
+  "conversation_id": "ecf_train_803",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Hey .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Hey ! Any good mail ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "Yes , you got something from the Screen Actor Guild .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "Ooh , it is probably a residual check , hey can you open it for me , I am kinda ...",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Chandler",
+      "text": "\" Benefits lapsed . \"",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "Hmm that is weird . I do not remember being in a move called benefits lapsed .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Chandler",
+      "text": "Okay , it is not a check . They are saying your health insurance expired because , you did not work enough last year .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Joey",
+      "text": "Let me see that !",
+      "emotion": "surprise",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "7_it is not a check . They are saying your health insurance expired because , you did not work enough last year .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Chandler",
+      "text": "All right .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Joey",
+      "text": "Oh , I can not believe this !",
+      "emotion": "surprise",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_this",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Joey",
+      "text": "This sucks !",
+      "emotion": "anger",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_This sucks !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Joey",
+      "text": "When I had insurance I could get hit by a bus or catch on fire , you know ?",
+      "emotion": "fear",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "7_your health insurance expired",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Joey",
+      "text": "And it would not matter .",
+      "emotion": "anger",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "7_your health insurance expired",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Joey",
+      "text": "Now I gotta be careful ?",
+      "emotion": "anger",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "7_your health insurance expired",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Chandler",
+      "text": "I am sorry man , there is never a good time to stop catching on fire .",
+      "emotion": "disgust",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "12_When I had insurance I could get hit by a bus or catch on fire",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Joey",
+      "text": "All right well , I guess I gotta go get a job . I am gonna go see my agent .",
+      "emotion": "sadness",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "7_your health insurance expired because , you did not work enough last year .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Chandler",
+      "text": "Okay , make sure you look both ways before you cross the street .",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Joey",
+      "text": "look both ways before you cross the street .",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 803,
+    "num_utterances": 18,
+    "num_emotion_pairs": 10
+  }
+}

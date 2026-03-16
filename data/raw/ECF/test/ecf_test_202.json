@@ -1,0 +1,75 @@
+{
+  "conversation_id": "ecf_test_202",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Pheobe",
+      "text": "Fine .",
+      "emotion": "anger",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Fine .",
+      "emotion": "sadness",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Fine .",
+      "emotion": "anger",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "Fine .",
+      "emotion": "anger",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "Fine .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Monica",
+      "text": "All right .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Monica",
+      "text": "We are gonna go .",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_We are gonna go .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Monica",
+      "text": "It is not for another six hours . We are gonna go then .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 202,
+    "num_utterances": 8,
+    "num_emotion_pairs": 1
+  }
+}

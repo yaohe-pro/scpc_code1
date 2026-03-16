@@ -1,0 +1,134 @@
+{
+  "conversation_id": "ecf_train_693",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Okay , then what happened ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "Ohh . Uh ... huh . Uh ... huh . You will get your turn !",
+      "emotion": "anger",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "Hey Pheebs , what going on ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Phoebe",
+      "text": "Nothing ! This is not over !",
+      "emotion": "anger",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "No ! No ! No !",
+      "emotion": "anger",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Phoebe",
+      "text": "What ? !",
+      "emotion": "surprise",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "5_No ! No ! No !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Ross",
+      "text": "I was up all night writing this really nasty letter to Emily ! It was perfect and now it is all covered in ... in ... Actually , thanks !",
+      "emotion": "sadness",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_I was up all night writing this really nasty letter to Emily ! It was perfect and now it is all covered in ... in ...",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Joey",
+      "text": "All right ! Everybody ready to go to the movies ?",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Ross",
+      "text": "Uh actually , I think I am gonna skip it .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Joey",
+      "text": "Really ?",
+      "emotion": "surprise",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "9_Uh actually , I think I am gonna skip it .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Ross",
+      "text": "Yeah , I am gonna stay and read my book . I just wanna be alone right now .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Joey",
+      "text": "Oh . Are you sure you do not want to come ? Tom Hanks , Meg Ryan , they get mail and stuff .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Ross",
+      "text": "That is okay , Joe .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Joey",
+      "text": "All right , let go Pheebs .",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Ross",
+      "text": "Oh God !",
+      "emotion": "surprise",
+      "timestamp": 35.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 693,
+    "num_utterances": 15,
+    "num_emotion_pairs": 4
+  }
+}

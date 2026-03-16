@@ -1,0 +1,154 @@
+{
+  "conversation_id": "ecf_test_1143",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Feel better ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Yeah !",
+      "emotion": "joy",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Much !",
+      "emotion": "joy",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "Listen uh , not that I am you know insecure about my manhood or anything you know , but I think I need to hook up with a woman like right now .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Phoebe",
+      "text": "Yeah , I understand .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "Yeah ! Okay ! Hey ! Hi !",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_Hey ! Hi !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Woman",
+      "text": "Hi !",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_Hi !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Joey",
+      "text": "You know , you look familiar . Do I know you from somewhere ?",
+      "emotion": "surprise",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_you look familiar . Do I know you from somewhere ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Woman",
+      "text": "I do not think so .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Joey",
+      "text": "Oh ! Maybe it is because I am on television . I am an actor on Days of Our Lives .",
+      "emotion": "joy",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_I am on television . I am an actor on Days of Our Lives .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Woman",
+      "text": "Wow !",
+      "emotion": "surprise",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "10_I am an actor on Days of Our Lives .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Joey",
+      "text": "Yeah .",
+      "emotion": "joy",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "11_Wow !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Woman",
+      "text": "Really ? !",
+      "emotion": "surprise",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "10_I am an actor on Days of Our Lives .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Waitress",
+      "text": "$ 4 . 50 please .",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Joey",
+      "text": "Oh , let me get this .",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 1143,
+    "num_utterances": 15,
+    "num_emotion_pairs": 10
+  }
+}

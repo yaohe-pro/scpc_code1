@@ -1,0 +1,186 @@
+{
+  "conversation_id": "ecf_train_791",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Russell",
+      "text": "You got married again .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Yes .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Russell",
+      "text": "So that is your second marriage in two years .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "Yes , second in two years . Third overall .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Russell",
+      "text": "Ross , I have been a divorce attorney for 23 years and never had I so much business from one client .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Russell",
+      "text": "Why do not you tell me what happened .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Ross",
+      "text": "Basically , Rachel and I were in Vegas and we got drunk",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Russell",
+      "text": "I am sorry , is this the same Rachel who name you said at the altar in the second marriage ?",
+      "emotion": "surprise",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_is this the same Rachel who name you said at the altar in the second marriage ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Ross",
+      "text": "Yes ... yes ... yes ! But , I ... I do",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Russell",
+      "text": "Oh , that is better then .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Ross",
+      "text": "This was just a drunken mistake and I need to get it annulled .",
+      "emotion": "sadness",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_This was just a drunken mistake and I need to get it annulled .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Russell",
+      "text": "I see . Have you considered therapy ?",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Ross",
+      "text": "I think just the annulment for today .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Russell",
+      "text": "There are a couple of forms to fill out .",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Ross",
+      "text": "Easy .",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Russell",
+      "text": "And we will need to have witnesses who can testify that you were not of uh , sound mind .",
+      "emotion": "neutral",
+      "timestamp": 37.5
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Ross",
+      "text": "No problem .",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Russell",
+      "text": "And we will need you and Rachel to testify before a judge .",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Ross",
+      "text": "Ooh !",
+      "emotion": "surprise",
+      "timestamp": 45.0,
+      "emotion_cause": {
+        "utterance_id": "u19",
+        "span": "18_And we will need you and Rachel to testify before a judge .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Ross",
+      "text": "There is no way to do this without her ?",
+      "emotion": "fear",
+      "timestamp": 47.5,
+      "emotion_cause": {
+        "utterance_id": "u20",
+        "span": "21_Cause I kinda all ready told her uh , it was , it was already taken care of .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "Ross",
+      "text": "Cause I kinda all ready told her uh , it was , it was already taken care of .",
+      "emotion": "fear",
+      "timestamp": 50.0,
+      "emotion_cause": {
+        "utterance_id": "u21",
+        "span": "21_Cause I kinda all ready told her uh , it was , it was already taken care of .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 791,
+    "num_utterances": 21,
+    "num_emotion_pairs": 9
+  }
+}

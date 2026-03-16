@@ -1,0 +1,81 @@
+{
+  "conversation_id": "ecf_train_1208",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Mona",
+      "text": "How could you have kept all of this from me ?",
+      "emotion": "anger",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_How could you have kept all of this from me ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "I was going to tell you , but",
+      "emotion": "sadness",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_How could you have kept all of this from me ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Dr. Green",
+      "text": "But what ? ! You figured you would get what you wanted and then dump her like you dumped Rachel !",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_You figured you would get what you wanted and then dump her like you dumped Rachel !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "Hey ! I did not dump Rachel ! Nor are we still together . Can I just ... Why do not we just let the machine get that ?",
+      "emotion": "anger",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_I did not dump Rachel !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "Hey Ross . It is Joey . There is a hooker over here and we thought maybe you would know something about it .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "No ! No ! No ! No ! No ! I ... I ... I ... I ... I need to , I need to lie down .",
+      "emotion": "surprise",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "5_There is a hooker over here and we thought maybe you would know something about it .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1208,
+    "num_utterances": 6,
+    "num_emotion_pairs": 6
+  }
+}

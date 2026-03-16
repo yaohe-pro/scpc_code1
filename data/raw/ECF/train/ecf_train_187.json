@@ -1,0 +1,68 @@
+{
+  "conversation_id": "ecf_train_187",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "Mr . Heckles .",
+      "emotion": "sadness",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "How did this happen ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Mr. Treeger",
+      "text": "He musta been sweeping . They found a broom in his hand .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Monica",
+      "text": "That is terrible .",
+      "emotion": "sadness",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_That is terrible .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Mr. Treeger",
+      "text": "I know . I was sweeping yesterday . It coulda been me .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "Sure , you coulda . You never know .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Mr. Treeger",
+      "text": "You never know .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 187,
+    "num_utterances": 7,
+    "num_emotion_pairs": 3
+  }
+}

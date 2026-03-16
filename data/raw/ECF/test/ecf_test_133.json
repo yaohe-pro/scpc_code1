@@ -1,0 +1,159 @@
+{
+  "conversation_id": "ecf_test_133",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Danielle",
+      "text": "Well , I have been calling you , but it turns out I had your number wrong . And when I finally got the right one from Information , there was no answer .",
+      "emotion": "sadness",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_I have been calling you , but it turns out I had your number wrong . And when I finally got the right one from Information , there was no answer .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Danielle",
+      "text": "So I thought I would just come down here , and make sure you were okay .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "Oh um ... I am , I am okay .",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_I thought I would just come down here , and make sure you were okay .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Danielle",
+      "text": "Listen , uh , maybe we could get together later ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Chandler",
+      "text": "That sounds good . I will call you ... or you call me , whatever ...",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Danielle",
+      "text": "You got it .",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "5_That sounds good . I will call you ... or you call me",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Chandler",
+      "text": "Okay .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Danielle",
+      "text": "Bye , everybody .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "All",
+      "text": "Bye .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Phoebe",
+      "text": "Whoo ... hoo !",
+      "emotion": "joy",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "4_maybe we could get together later ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Monica",
+      "text": "Yeah , there you go !",
+      "emotion": "joy",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "4_maybe we could get together later ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Ross",
+      "text": "Second date !",
+      "emotion": "joy",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "4_maybe we could get together later ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Chandler",
+      "text": "I do not know .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Rachel",
+      "text": "You do not know ? !",
+      "emotion": "surprise",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "14_You do not know ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Chandler",
+      "text": "Well , she seems very nice and everything , but that whole thing about her coming all the way down here , just to see if I was okay ? I mean , ... how needy is that ?",
+      "emotion": "disgust",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_that whole thing about her coming all the way down here , just to see if I was okay ? I mean , ... how needy is that ?",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 133,
+    "num_utterances": 15,
+    "num_emotion_pairs": 12
+  }
+}

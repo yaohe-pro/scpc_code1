@@ -1,0 +1,195 @@
+{
+  "conversation_id": "ecf_train_839",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "Dad , please do not pick your teeth out here !",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "Alright , and if you are gonna put your feet up , why do not you sit on the ...",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "Monica , leave him alone !",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_leave him alone !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "Will you hurry up ?",
+      "emotion": "sadness",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "8_you are whippin so slow ! Can not you do it any faster ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "Did you not hear me before when I told you that all of Janine friends are dancers ? !",
+      "emotion": "anger",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "8_you are whippin so slow ! Can not you do it any faster ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "And that they are going to be drinking a lot !",
+      "emotion": "anger",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "8_you are whippin so slow ! Can not you do it any faster ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Rachel",
+      "text": "No , I did , but tell me again , because it is so romantic .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Joey",
+      "text": "Well you are whippin so slow ! Can not you do it any faster ?",
+      "emotion": "anger",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_you are whippin so slow ! Can not you do it any faster ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Rachel",
+      "text": "Joey !",
+      "emotion": "anger",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "8_you are whippin so slow ! Can not you do it any faster ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Rachel",
+      "text": "Come on !",
+      "emotion": "anger",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "8_you are whippin so slow ! Can not you do it any faster ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Rachel",
+      "text": "I do not wanna make any mistakes , alright ?",
+      "emotion": "anger",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "8_you are whippin so slow ! Can not you do it any faster ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Rachel",
+      "text": "This is the only dessert and if I screw it up everybody gonna be like \" Oh , remember that Thanksgiving when Rachel screwed up the trifle ? \"",
+      "emotion": "fear",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_This is the only dessert and if I screw it up everybody gonna be like \" Oh , remember that Thanksgiving when Rachel screwed up the trifle ? \"",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Rachel",
+      "text": "So why do not you just let me worry about making the trifle and you just worry about eating it , alright ?",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Joey",
+      "text": "Oh I am !",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Monica",
+      "text": "Ross , if you do not tell them , then I will !",
+      "emotion": "anger",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_you do not tell them",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Ross",
+      "text": "Okay , fine !",
+      "emotion": "anger",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "15_if you do not tell them , then I will !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Joey",
+      "text": "Ross ! Can I talk to you for a second ?",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Ross",
+      "text": "Oh , uh , can it wait a second Joey ? I have to tell my parents something . No it can not ? Okay .",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 839,
+    "num_utterances": 18,
+    "num_emotion_pairs": 17
+  }
+}

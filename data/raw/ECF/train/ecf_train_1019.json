@@ -1,0 +1,21 @@
+{
+  "conversation_id": "ecf_train_1019",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Um , it is going to be a small ceremony .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1019,
+    "num_utterances": 1,
+    "num_emotion_pairs": 0
+  }
+}

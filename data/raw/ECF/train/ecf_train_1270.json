@@ -1,0 +1,173 @@
+{
+  "conversation_id": "ecf_train_1270",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "So umm , you are gonna stay with me as long as I need you ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Mrs. Green",
+      "text": "Of course I am !",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_Of course I am !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "Oh mom , I swear I am not an idiot .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "I have read all kinds of books on pregnancy and giving birth , but I ... I just did not think to read the part about what to do when the baby comes .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "And ... and then guess what ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "The baby coming and I do not know what to do .",
+      "emotion": "sadness",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_The baby coming and I do not know what to do .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Rachel",
+      "text": "Oh , can I throw up in my diaper genie ?",
+      "emotion": "sadness",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "6_The baby coming and I do not know what to do .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Mrs. Green",
+      "text": "No . Sweetie , you are gonna be fine .",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_you are gonna be fine .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Rachel",
+      "text": "Wait ... wait where are you going ? Where are you going ?",
+      "emotion": "fear",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_where are you going ? Where are you going ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Mrs. Green",
+      "text": "I am going to the bathroom .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Rachel",
+      "text": "Okay .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Mrs. Green",
+      "text": "Now do not worry ! Everything gonna be okay .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Monica",
+      "text": "It is going to be okay !",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Ross",
+      "text": "Hey !",
+      "emotion": "joy",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "14_Hey !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Phoebe",
+      "text": "Hey ! Why are you all red and sweaty ?",
+      "emotion": "surprise",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_Why are you all red and sweaty ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Ross",
+      "text": "I just Bamboozled Chandler ! Which is not uh sexual thing . That was a quick shower .",
+      "emotion": "joy",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "16_I just Bamboozled Chandler !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Phoebe",
+      "text": "Not if you were here .",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1270,
+    "num_utterances": 17,
+    "num_emotion_pairs": 9
+  }
+}

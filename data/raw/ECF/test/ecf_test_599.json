@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_test_599",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "I do not get it ! It was in my room all night ! If she did not take it , and I did not take it , and you did not take it , then who did ?",
+      "emotion": "anger",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_I do not get it ! It was in my room all night ! If she did not take it , and I did not take it , and you did not take it , then who did ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Shh ! We are trying to think !",
+      "emotion": "anger",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 599,
+    "num_utterances": 2,
+    "num_emotion_pairs": 1
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "conversation_id": "ecf_train_738",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Ross !",
+      "emotion": "anger",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "The Casting Director",
+      "text": "Okay , Raymond , Joey you are up .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Hi !",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_Hi !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "The Casting Director",
+      "text": "Okay , uh well , let try one . Whenever you guys are ready .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "Uh ... oh .",
+      "emotion": "fear",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "7_this is noodle soup and uh , I have been working with tomato .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "The Casting Director",
+      "text": "Is there a problem ?",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "Well this is noodle soup and uh , I have been working with tomato .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Joey",
+      "text": "But that is okay , no problem .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Joey",
+      "text": "No problem .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Joey",
+      "text": "Hmm , noodle soup .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "The Casting Director",
+      "text": "You know , that is ... that is fine , but the line is , \" Hmm , soup . \"",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Joey",
+      "text": "Oh , what did I say ?",
+      "emotion": "surprise",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_what did I say ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "The Casting Director",
+      "text": "Hmm , noodle soup .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Joey",
+      "text": "How that different ? Oh ! Yeah !",
+      "emotion": "surprise",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "14_How that different ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "The Casting Director",
+      "text": "All right , let try one .",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Joey",
+      "text": "Hmm , noodle soup .",
+      "emotion": "neutral",
+      "timestamp": 37.5
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "The Casting Director",
+      "text": "Okay . Let do it again .",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Joey",
+      "text": "Okay .",
+      "emotion": "joy",
+      "timestamp": 42.5,
+      "emotion_cause": {
+        "utterance_id": "u18",
+        "span": "17_Let do it again .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Joey",
+      "text": "Hmm , soup . I mean , noodle soup . I mean soup !",
+      "emotion": "anger",
+      "timestamp": 45.0
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Raymond",
+      "text": "COME ON ! ! ! !",
+      "emotion": "anger",
+      "timestamp": 47.5
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "The Casting Director",
+      "text": "You know what ? We need to move on .",
+      "emotion": "anger",
+      "timestamp": 50.0
+    },
+    {
+      "utterance_id": "u22",
+      "speaker": "Joey",
+      "text": "No ! No ! I ... I can do it one more time ! See ? Look ! Hmm , noodle soup . Damnit !",
+      "emotion": "anger",
+      "timestamp": 52.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 738,
+    "num_utterances": 22,
+    "num_emotion_pairs": 9
+  }
+}

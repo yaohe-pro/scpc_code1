@@ -1,0 +1,45 @@
+{
+  "conversation_id": "ecf_train_1106",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "Well you have to because maybe it is stupid .",
+      "emotion": "disgust",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_maybe it is stupid .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "Well it is just while Monica and I were dancing to them it was ... the first time I knew that ... you were the woman I wanted to dance all my dances with .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Monica",
+      "text": "Oh crap !",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_it is just while Monica and I were dancing to them it was ... the first time I knew that ... you were the woman I wanted to dance all my dances with .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1106,
+    "num_utterances": 3,
+    "num_emotion_pairs": 2
+  }
+}

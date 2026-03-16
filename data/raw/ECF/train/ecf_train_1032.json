@@ -1,0 +1,209 @@
+{
+  "conversation_id": "ecf_train_1032",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "Who is that ? !",
+      "emotion": "surprise",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Who is that ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "Don’t worry , I’m brave ! I am brave ! I ... I am brave !",
+      "emotion": "fear",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "No ... no ... no ... no ! !",
+      "emotion": "fear",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "Can you tell me who is there please ?",
+      "emotion": "fear",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_who is there",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Gary",
+      "text": "My name is Gary , I live upstairs .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Gary",
+      "text": "Hi !",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_Hi !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Monica",
+      "text": "Hi . Do you know what time it is ?",
+      "emotion": "anger",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_Do you know what time it is ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Gary",
+      "text": "It is candy time !",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_It is candy time !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Gary",
+      "text": "My roommate says that they taste like little drops of heaven .",
+      "emotion": "joy",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_My roommate says that they taste like little drops of heaven .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Monica",
+      "text": "Oh please ! Did you hear that ? Little drops of heaven .",
+      "emotion": "joy",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "9_My roommate says that they taste like little drops of heaven .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Chandler",
+      "text": "4 : 00 a . m .",
+      "emotion": "disgust",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "8_It is candy time !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Gary",
+      "text": "So , can I get some candy ?",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Chandler",
+      "text": "I am sorry , but some of us have to get up early and go to work !",
+      "emotion": "anger",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "12_can I get some candy ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Chandler",
+      "text": "He does not know that I am not \" some of us \" .",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Monica",
+      "text": "Um , listen , I am sorry , but I will put some out first thing in the morning .",
+      "emotion": "sadness",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_I am sorry , but I will put some out first thing in the morning .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Gary",
+      "text": "Well okay , I will swing by later .",
+      "emotion": "neutral",
+      "timestamp": 37.5
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Gary",
+      "text": "You live in this building ?",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Monica",
+      "text": "Um ... hmm .",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Gary",
+      "text": "Mm ! Seems like I would have remembered you !",
+      "emotion": "surprise",
+      "timestamp": 45.0,
+      "emotion_cause": {
+        "utterance_id": "u19",
+        "span": "19_Seems like I would have remembered you !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Chandler",
+      "text": "Mm ! Night Gar !",
+      "emotion": "neutral",
+      "timestamp": 47.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1032,
+    "num_utterances": 20,
+    "num_emotion_pairs": 18
+  }
+}

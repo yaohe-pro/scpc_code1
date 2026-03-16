@@ -1,0 +1,133 @@
+{
+  "conversation_id": "ecf_train_732",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Hey ! I am in , they are gonna let me audition !",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_I am in , they are gonna let me audition !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Really ? That is great !",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_That is great !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "I know ! I know ! It turns out that one of the casting ladies has actually seen me in a play , so I steered clear of her .",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "1_I am in , they are gonna let me audition !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Carol",
+      "text": "Hey , that kid looks familiar .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "Oh yeah , yeah ! He is done tons of commercials . I have seen him in like Sugar Smacks , Playstation , and that one for the phone company . In fact he was so good in that one , he actually convinced me to switch phone companies .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "Chandler was mad ...",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_Chandler was mad",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Ross",
+      "text": "Yeah well , he is not gonna get this one . Ben is way cuter than that kid .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ross",
+      "text": "I mean look at him , look at you ...",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "7_Ben is way cuter than that kid .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Joey",
+      "text": "That is great . Listen , would not it be great though if I got to play Ben dad ?",
+      "emotion": "joy",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_would not it be great though if I got to play Ben dad ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Ross",
+      "text": "Joey , you look nothing like Ben .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Joey",
+      "text": "I look more like him than you do !",
+      "emotion": "anger",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "10_you look nothing like Ben .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Carol",
+      "text": "You know , I really do not know you well enough for you to do that .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 732,
+    "num_utterances": 12,
+    "num_emotion_pairs": 11
+  }
+}

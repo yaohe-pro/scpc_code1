@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_train_1285",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "Oh , that is very ... Really very ... very okay .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Marc",
+      "text": "Julie cervix is dilated a seven centimeters , that is about four fingers . The doctor let me feel it myself .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_Julie cervix is dilated a seven centimeters , that is about four fingers . The doctor let me feel it myself .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1285,
+    "num_utterances": 2,
+    "num_emotion_pairs": 1
+  }
+}

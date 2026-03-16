@@ -1,0 +1,113 @@
+{
+  "conversation_id": "ecf_test_1151",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Hi ! Hi ! Hi . Has umm , anyone seen Chandler ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Mr. Geller",
+      "text": "I thought he was with you .",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_I thought he was with you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "He ... he was with me umm , we are playing a little game , you know ? Hide and seek .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Mr. Geller",
+      "text": "You can not ask us son , that is cheating .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "You are right , thanks for keeping me honest dad .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Mrs. Geller",
+      "text": "Well , he better not come by here . He can not see the bride in the wedding dress .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Mrs. Bing",
+      "text": "As I recall when we got married , I saw the groom in the wedding dress .",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_As I recall when we got married , I saw the groom in the wedding dress .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Mr. Bing",
+      "text": "But that was after the wedding , it is not bad luck then .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Mrs. Bing",
+      "text": "Honey , it is not good luck .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Ross",
+      "text": "Oh my God ! Monica !",
+      "emotion": "surprise",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Monica",
+      "text": "I know ! Hey , how Chandler doing ?",
+      "emotion": "joy",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "10_Oh my God ! Monica !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Ross",
+      "text": "Great . He is doing great . Do not you worry about Chandler .",
+      "emotion": "fear",
+      "timestamp": 27.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 1151,
+    "num_utterances": 12,
+    "num_emotion_pairs": 4
+  }
+}

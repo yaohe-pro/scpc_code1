@@ -1,0 +1,28 @@
+{
+  "conversation_id": "ecf_train_1326",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Man",
+      "text": "I am not your brother .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe/Waitress",
+      "text": "What about my children Drake ? ! Huh ! ? No ! ! No ! ! No ! God !",
+      "emotion": "anger",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1326,
+    "num_utterances": 2,
+    "num_emotion_pairs": 0
+  }
+}

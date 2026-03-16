@@ -1,0 +1,236 @@
+{
+  "conversation_id": "ecf_train_1203",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "I am sorry I will not be able to make it to your imaginary wedding , but I am really busy that day . Yeah , I already have a unicorn baptism and a leprechaun bar mitzvah .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "I know . I know . I panicked , I panicked . I did not want him to start yelling at me like I was some 74 Latour .",
+      "emotion": "fear",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_I did not want him to start yelling at me like I was some 74 Latour .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "It is Lafite . The 74 Latour is actually drinking quite nicely .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "All right here he comes . I am gonna do this , I am gonna tell him , I am gonna be strong .",
+      "emotion": "fear",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_here he comes .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Dr. Green",
+      "text": "I just called a friend of mine .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Yeah ?",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Dr. Green",
+      "text": "I think I may be able to book The Plaza on short notice .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Rachel",
+      "text": "Really ? !",
+      "emotion": "surprise",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "7_I think I may be able to book The Plaza on short notice .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Dr. Green",
+      "text": "What is it sweetie ?",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Rachel",
+      "text": "There is not gonna be a wedding . Ross and I are not getting married .",
+      "emotion": "sadness",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_There is not gonna be a wedding . Ross and I are not getting married .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Rachel",
+      "text": "I am sorry daddy .",
+      "emotion": "sadness",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "10_There is not gonna be a wedding . Ross and I are not getting married .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Dr. Green",
+      "text": "I do not believe this ! !",
+      "emotion": "anger",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_this",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Rachel",
+      "text": "Oh now daddy , stay calm . Please .",
+      "emotion": "fear",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "12_I do not believe this ! !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Dr. Green",
+      "text": "Stay calm ? ! !",
+      "emotion": "anger",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "10_There is not gonna be a wedding . Ross and I are not getting married .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Dr. Green",
+      "text": "How do you expect me to stay calm ? !",
+      "emotion": "anger",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "10_There is not gonna be a wedding . Ross and I are not getting married .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Dr. Green",
+      "text": "This is unacceptable Rachel !",
+      "emotion": "anger",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "10_There is not gonna be a wedding . Ross and I are not getting married .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Dr. Green",
+      "text": "And I wanna know why ? ! !",
+      "emotion": "anger",
+      "timestamp": 40.0,
+      "emotion_cause": {
+        "utterance_id": "u17",
+        "span": "10_There is not gonna be a wedding . Ross and I are not getting married .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Dr. Green",
+      "text": "Is it because that punk Ross will not marry you ? !",
+      "emotion": "anger",
+      "timestamp": 42.5,
+      "emotion_cause": {
+        "utterance_id": "u18",
+        "span": "18_Is it because that punk Ross will not marry you ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Dr. Green",
+      "text": "That is it !",
+      "emotion": "anger",
+      "timestamp": 45.0,
+      "emotion_cause": {
+        "utterance_id": "u19",
+        "span": "18_Is it because that punk Ross will not marry you ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Dr. Green",
+      "text": "Is that it ?",
+      "emotion": "anger",
+      "timestamp": 47.5,
+      "emotion_cause": {
+        "utterance_id": "u20",
+        "span": "18_Is it because that punk Ross will not marry you ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "Rachel",
+      "text": "Yes . Yes , he says I am damaged goods .",
+      "emotion": "fear",
+      "timestamp": 50.0,
+      "emotion_cause": {
+        "utterance_id": "u21",
+        "span": "20_Is that it ?",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1203,
+    "num_utterances": 21,
+    "num_emotion_pairs": 17
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "conversation_id": "ecf_train_1278",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "also I was the point person on my company transition from the KL ... 5 to GR ... 6 system .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "The Interviewer",
+      "text": "You must have had your hands full .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "That I did . That I did .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "The Interviewer",
+      "text": "So let talk a little bit about your duties .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Chandler",
+      "text": "My duties ? All right .",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_let talk a little bit about your duties .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "The Interviewer",
+      "text": "Now you will be heading a whole division , so you will have a lot of duties .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Chandler",
+      "text": "I see .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "The Interviewer",
+      "text": "But there will be perhaps 30 people under you so you can dump a certain amount on them .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Chandler",
+      "text": "Good to know .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "The Interviewer",
+      "text": "We can go into detail",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Chandler",
+      "text": "No do not I beg of you !",
+      "emotion": "fear",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "10_We can go into detail",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "The Interviewer",
+      "text": "All right then , we will have a definite answer for you on Monday , but I think I can say with some confidence , you will fit in well here .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Chandler",
+      "text": "Really ? !",
+      "emotion": "surprise",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "12_you will fit in well here .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "The Interviewer",
+      "text": "Absolutely . You can relax",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1278,
+    "num_utterances": 14,
+    "num_emotion_pairs": 3
+  }
+}

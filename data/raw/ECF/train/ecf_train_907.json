@@ -1,0 +1,213 @@
+{
+  "conversation_id": "ecf_train_907",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Well , not really .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "I mean technically it is ... it is not against the rules or anything , but it is frowned upon .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "Especially by that professor we ran into last night , Judgey von Holierthanthou .",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_Especially by that professor we ran into last night",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Monica",
+      "text": "Well Ross , you be careful now . You do not want to get a reputation as you know Professor McNails ... his ... students .",
+      "emotion": "joy",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_get a reputation as you know Professor McNails ... his ... students",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "Yeah . What ... what should I do ?",
+      "emotion": "fear",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_you be careful now . You do not want to get a reputation as you know Professor McNails ... his ... students .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "Well Ross , it seems pretty clear .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "I mean what more important ?",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Joey",
+      "text": "What people think or how you feel , huh ?",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Joey",
+      "text": "Ross , you gotta follow your heart .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Monica",
+      "text": "Joey that is so sweet .",
+      "emotion": "joy",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_that is so sweet .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Chandler",
+      "text": "Hey .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Joey",
+      "text": "Hey ... hey ... hey ! So , how did it go with Dana ? Any reason I should leave a block of time open say Thursday ?",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Chandler",
+      "text": "I could not do it .",
+      "emotion": "sadness",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_I could not do it .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Joey",
+      "text": "You could not do it ? !",
+      "emotion": "surprise",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "14_You could not do it ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Chandler",
+      "text": "Hey , relax I just need more time . We are going to dinner tonight .",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Monica",
+      "text": "What ? ! You are going out with her again !",
+      "emotion": "surprise",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "16_You are going out with her again !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Ross",
+      "text": "Going out with who ?",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Chandler",
+      "text": "Uh , Dana Keystone from college .",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Ross",
+      "text": "Oh yeah ! Was not she uh",
+      "emotion": "surprise",
+      "timestamp": 45.0,
+      "emotion_cause": {
+        "utterance_id": "u19",
+        "span": "18_Dana Keystone from college .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Chandler",
+      "text": "No , that was Dana Caplin .",
+      "emotion": "neutral",
+      "timestamp": 47.5
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "Monica",
+      "text": "Joey ! You did not even know her !",
+      "emotion": "surprise",
+      "timestamp": 50.0
+    },
+    {
+      "utterance_id": "u22",
+      "speaker": "Joey",
+      "text": "Ah whatever !",
+      "emotion": "anger",
+      "timestamp": 52.5,
+      "emotion_cause": {
+        "utterance_id": "u22",
+        "span": "21_You did not even know her !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 907,
+    "num_utterances": 22,
+    "num_emotion_pairs": 14
+  }
+}

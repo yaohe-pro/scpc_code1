@@ -1,0 +1,143 @@
+{
+  "conversation_id": "ecf_train_489",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "I just walked in the bathroom and saw Kathy naked ! It was like torture !",
+      "emotion": "anger",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_I just walked in the bathroom and saw Kathy naked ! It was like torture !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "You know if we ever go to war and you are captured , you are in for a big surprise .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "It just keeps getting worse and worse !",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "5_every time we are in the room together there is this weird like energy between us .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "I mean it is bad enough that I am in love with my roommates girlfriend ... which by the way , I think she knows .",
+      "emotion": "anger",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "5_every time we are in the room together there is this weird like energy between us .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Chandler",
+      "text": "Because every time we are in the room together there is this weird like energy between us .",
+      "emotion": "anger",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_every time we are in the room together there is this weird like energy between us .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Chandler",
+      "text": "And call me crazy , but I think she likes me too .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Chandler",
+      "text": "And now I have seen her naked .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Chandler",
+      "text": "I mean at least when I have seen her with clothes on , I could imagine her body was like covered in boles or something .",
+      "emotion": "disgust",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_I could imagine her body was like covered in boles or something .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Chandler",
+      "text": "But there are no boles , she is smooth !",
+      "emotion": "anger",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_But there are no boles , she is smooth !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Chandler",
+      "text": "Smooth !",
+      "emotion": "anger",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "9_But there are no boles , she is smooth !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Phoebe",
+      "text": "Wow ! Could everyone totally see up his robe ?",
+      "emotion": "surprise",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_Could everyone totally see up his robe ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "All",
+      "text": "Yeah ! Oh my God !",
+      "emotion": "surprise",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "11_Could everyone totally see up his robe ?",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 489,
+    "num_utterances": 12,
+    "num_emotion_pairs": 19
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "conversation_id": "ecf_train_1015",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "The Head Librarian",
+      "text": "But as far as increasing security , I am afraid the library is very understaffed .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "The Head Librarian",
+      "text": "I , I can not help you .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "Well , fine .",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_I can not help you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "Fine !",
+      "emotion": "anger",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "2_I can not help you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "If ... if I am the only person with any appreciation of the sanctity of the written word , I will go up there and defend it myself !",
+      "emotion": "anger",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "2_I can not help you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "And do not you follow me !",
+      "emotion": "anger",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_do not you follow me !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1015,
+    "num_utterances": 6,
+    "num_emotion_pairs": 4
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "conversation_id": "ecf_train_184",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "I just thought the two of us should hang out for a bit .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "I mean , you know , we have never really talked .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "I guess you would know that , being one of the two of us , though , right ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Julie",
+      "text": "I know , I probably should not even tell you this , but I am pretty much totally intimidated by you .",
+      "emotion": "sadness",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_I am pretty much totally intimidated by you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "Really ? Me ?",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_I am pretty much totally intimidated by you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Julie",
+      "text": "Oh my god , are you kidding ?",
+      "emotion": "surprise",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "5_Really ? Me ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Julie",
+      "text": "Ross is so crazy about you , and I really wanted you to like me , and , it is probably me being totally paranoid , but I kinda got the feeling that maybe you do not .",
+      "emotion": "sadness",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_I really wanted you to like me , and , it is probably me being totally paranoid , but I kinda got the feeling that maybe you do not .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Rachel",
+      "text": "Well , you are not totally paranoid .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Julie",
+      "text": "Oy .",
+      "emotion": "sadness",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "8_you are not totally paranoid .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Rachel",
+      "text": "Um , ok , uh , oh god , um , when you and uh Ross first started going out , it was really hard for me , um , for many reasons , which I am not gonna bore you with now , but um ...",
+      "emotion": "sadness",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_when you and uh Ross first started going out , it was really hard for me",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Rachel",
+      "text": "I just , I see how happy he is , you know , and how good you guys are together , and um , Monica always saying how nice you are , and god I hate it when she is right .",
+      "emotion": "sadness",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_I see how happy he is , you know , and how good you guys are together , and um , Monica always saying how nice you are",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Julie",
+      "text": "Thanks .",
+      "emotion": "joy",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "11_Monica always saying how nice you are , and god I hate it when she is right .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Julie",
+      "text": "Hey , listen , would you like to go to a movie sometime or something ?",
+      "emotion": "joy",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_would you like to go to a movie sometime or something ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Rachel",
+      "text": "Yeah , that would be great . I would love it .",
+      "emotion": "joy",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "14_that would be great . I would love it .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Julie",
+      "text": "I would love it too .",
+      "emotion": "joy",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "14_Yeah , that would be great . I would love it .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Julie",
+      "text": "Shoot , I gotta go . So , I will talk to you later .",
+      "emotion": "neutral",
+      "timestamp": 37.5
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Rachel",
+      "text": "All right , Julie .",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Julie",
+      "text": "Bye .",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Rachel",
+      "text": "Bye .",
+      "emotion": "neutral",
+      "timestamp": 45.0
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Rachel",
+      "text": "What a manipulative bitch .",
+      "emotion": "disgust",
+      "timestamp": 47.5,
+      "emotion_cause": {
+        "utterance_id": "u20",
+        "span": "20_What a manipulative bitch .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 184,
+    "num_utterances": 20,
+    "num_emotion_pairs": 19
+  }
+}

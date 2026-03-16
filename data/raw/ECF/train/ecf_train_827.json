@@ -1,0 +1,138 @@
+{
+  "conversation_id": "ecf_train_827",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Yeah , I think it was better when you guys were sad . Hey , uh , remember the roller blades ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "You know what else I am not gonna miss ?",
+      "emotion": "anger",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "\" I am Monica .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "I wash the toilet 17 times a day .",
+      "emotion": "anger",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "5_Even if people are on it !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "Even if people are on it ! \"",
+      "emotion": "anger",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_Even if people are on it !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Monica",
+      "text": "\" Hi I am Rachel , is my sweater too tight ? No ? Oh , I would better wash it and shrink it ! \"",
+      "emotion": "anger",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "5_Even if people are on it !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Rachel",
+      "text": "\" I am Monica , I do not get phone messages from interesting people . Ever ! \"",
+      "emotion": "anger",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "6_Hi I am Rachel , is my sweater too tight ? No ? Oh , I would better wash it and shrink it !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Phoebe",
+      "text": "Hey ! I call her !",
+      "emotion": "anger",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "7_I am Monica , I do not get phone messages from interesting people . Ever !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Monica",
+      "text": "\" Oh my God , I love Ross ! I hate Ross ! I love Ross ! I hate Ross ! \"",
+      "emotion": "anger",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "7_I am Monica , I do not get phone messages from interesting people . Ever !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Rachel",
+      "text": "\" Oh my God , I can not find a boyfriend !",
+      "emotion": "anger",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "9_Oh my God , I love Ross ! I hate Ross ! I love Ross ! I hate Ross !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Rachel",
+      "text": "So I guess I will just stumble across the hall and sleep with the first guy I find in there ! \"",
+      "emotion": "anger",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "9_Oh my God , I love Ross ! I hate Ross ! I love Ross ! I hate Ross !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Phoebe",
+      "text": "Yeah , we should get a move on if we wanna make those dinner reservations .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 827,
+    "num_utterances": 12,
+    "num_emotion_pairs": 14
+  }
+}

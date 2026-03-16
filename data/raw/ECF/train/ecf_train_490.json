@@ -1,0 +1,195 @@
+{
+  "conversation_id": "ecf_train_490",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Casey",
+      "text": "Here you go .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Great ! All right , so I will call you later .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_I will call you later .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Casey",
+      "text": "Great !",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_I will call you later .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "Hey ... Hey ... Hey ! Who was that ?",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_Who was that ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "That would be Casey . We are going out tonight .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Chandler",
+      "text": "going out , huh ? Wow ! Wow ! So things did not work out with Kathy , huh ? Bummer .",
+      "emotion": "surprise",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "5_We are going out tonight .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "No , things are fine with Kathy . I am having a late dinner with her tonight , right after my early dinner with Casey .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Chandler",
+      "text": "What ?",
+      "emotion": "surprise",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "7_things are fine with Kathy . I am having a late dinner with her tonight , right after my early dinner with Casey .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Joey",
+      "text": "Yeah ... yeah . And the craziest thing is that I just ate a whole pizza by myself !",
+      "emotion": "joy",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_the craziest thing is that I just ate a whole pizza by myself !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Chandler",
+      "text": "Wait ! You are going out with Kathy !",
+      "emotion": "surprise",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_You are going out with Kathy !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Joey",
+      "text": "Yeah . Why are you getting so upset ?",
+      "emotion": "surprise",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_Why are you getting so upset ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Chandler",
+      "text": "Well , I am upset ... for you . I mean , having sex with an endless line of beautiful women must be very unfulfilling for you .",
+      "emotion": "sadness",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_having sex with an endless line of beautiful women must be very unfulfilling for you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Joey",
+      "text": "What is the big deal ? It is not like we are exclusive .",
+      "emotion": "surprise",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "12_having sex with an endless line of beautiful women must be very unfulfilling for you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Chandler",
+      "text": "Look , Joey , Kathy is clearly not fulfilling your emotional needs .",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Chandler",
+      "text": "But Casey , I mean granted I only saw the back of her head , but I got this sense that she is ... she is smart , and funny , and gets you .",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Joey",
+      "text": "You got all that from the back of her head ?",
+      "emotion": "surprise",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "16_You got all that from the back of her head ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Chandler",
+      "text": "All right look , I think it is time for you to settle down . You know ? Make a choice , pick a lane .",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Joey",
+      "text": "Who Elaine ?",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 490,
+    "num_utterances": 18,
+    "num_emotion_pairs": 15
+  }
+}

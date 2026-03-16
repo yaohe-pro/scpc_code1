@@ -1,0 +1,47 @@
+{
+  "conversation_id": "ecf_train_539",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Charlton Heston",
+      "text": "Hello ! Who in there ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "How you doing ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Charlton Heston",
+      "text": "Who in the hell are you ?",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_Who in the hell are you ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "I guess you would not believe me if I said I was Kurt Douglas , huh ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 539,
+    "num_utterances": 4,
+    "num_emotion_pairs": 1
+  }
+}

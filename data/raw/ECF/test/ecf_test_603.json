@@ -1,0 +1,66 @@
+{
+  "conversation_id": "ecf_test_603",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Emily",
+      "text": "and that was all before 10 o clock .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Emily",
+      "text": "The caterer rang and said it was going to be Chicken Kiev instead of Chicken Tarragon .",
+      "emotion": "anger",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "4_and the chilliest has carpel ... tunel syndrome .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Emily",
+      "text": "And then the florist phoned to say there are not any tulips .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Emily",
+      "text": "Oh , and the chilliest has carpel ... tunel syndrome .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "Whoa ... whoa ... whoa ! Emily , honey , okay ?",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_and the chilliest has carpel ... tunel syndrome .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Emily",
+      "text": "Well , up yours too !",
+      "emotion": "anger",
+      "timestamp": 12.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 603,
+    "num_utterances": 6,
+    "num_emotion_pairs": 6
+  }
+}

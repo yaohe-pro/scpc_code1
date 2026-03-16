@@ -1,0 +1,116 @@
+{
+  "conversation_id": "ecf_train_610",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Emily",
+      "text": "Monica , why have you brought me here of all places ? !",
+      "emotion": "surprise",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_why have you brought me here of all places ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "You will see .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Emily",
+      "text": "I tell you , this wedding is not going to happen .",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_this wedding is not going to happen .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "Okay ? But ... but imagine a lot more lights , okay ? And ... and you know fewer bricks , and ... and ... and flowers , and candles",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Monica",
+      "text": "And the musicians , look , they can go over here , okay ? And the chairs can face this way , and ... You go .",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_the musicians , look , they can go over here , okay ? And the chairs can face this way",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "But ... but , if you do not love this , we will do it in any other place at any other time .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Ross",
+      "text": "Really , it is fine , whatever you want .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Emily",
+      "text": "It is perfect .",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_It is perfect .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Ross",
+      "text": "And , I do not know , if it starts to rain",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Emily",
+      "text": "Well then we will get wet .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Monica",
+      "text": "Ohh . And I do not even have a date .",
+      "emotion": "sadness",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_I do not even have a date .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 610,
+    "num_utterances": 11,
+    "num_emotion_pairs": 5
+  }
+}

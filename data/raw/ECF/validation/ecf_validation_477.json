@@ -1,0 +1,26 @@
+{
+  "conversation_id": "ecf_validation_477",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Dude , you do not have to brag ! We got nothing here ! !",
+      "emotion": "anger",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_you do not have to brag ! We got nothing here ! !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 477,
+    "num_utterances": 1,
+    "num_emotion_pairs": 1
+  }
+}

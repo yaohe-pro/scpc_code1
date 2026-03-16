@@ -1,0 +1,61 @@
+{
+  "conversation_id": "ecf_train_292",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "The Guys",
+      "text": "Yes ! Yes ! Yes ! Yes ! Awww !",
+      "emotion": "anger",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "Hey , it is your Thanksgiving too , you know , instead of watching football , you could help .",
+      "emotion": "anger",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_it is your Thanksgiving too , you know , instead of watching football , you could help .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "The Guys",
+      "text": "We will .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Monica",
+      "text": "Okay , Rachel , you wanna put the marshmellows in concentric circles .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "No Mon , you want to put them in concentric circles . I want to do this .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Monica",
+      "text": "Every year .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 292,
+    "num_utterances": 6,
+    "num_emotion_pairs": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "conversation_id": "ecf_train_507",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Are you seeing anybody right now ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "Og ... ee ... op , I am not asking for me , I am ... I mean ... No , I am ... I am not gay , I am not asking you out .",
+      "emotion": "fear",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "I am not ... I am not ... I am not gay !",
+      "emotion": "fear",
+      "timestamp": 5.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 507,
+    "num_utterances": 3,
+    "num_emotion_pairs": 0
+  }
+}

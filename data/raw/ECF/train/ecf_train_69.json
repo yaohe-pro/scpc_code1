@@ -1,0 +1,133 @@
+{
+  "conversation_id": "ecf_train_69",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "We did ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "You owe me 20 bucks .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_You owe me 20 bucks .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "Thank you . Thank you so much !",
+      "emotion": "joy",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Monica",
+      "text": "Chandler , here you go , got your traditional Thanksgiving feast , you got your tomato soup , your grilled cheese fixin , and your family size bag of Funyuns .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "Wait , wait , Chandler , this is what you are havin for Thanksgiving dinner ?",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_this is what you are havin for Thanksgiving dinner ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "What , what , what is it with you and this holiday ?",
+      "emotion": "anger",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "5_this is what you are havin for Thanksgiving dinner ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Chandler",
+      "text": "All right , I am nine years old .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ross",
+      "text": "Oh , I hate this story .",
+      "emotion": "sadness",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_I hate this story .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Chandler",
+      "text": "We just finished this magnificent Thanksgiving dinner .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Chandler",
+      "text": "I have ... and I remember this part vividly ... a mouthful of pumpkin pie , and this is the moment my parents choose to tell me they are getting divorced .",
+      "emotion": "sadness",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_this is the moment my parents choose to tell me they are getting divorced .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Rachel",
+      "text": "Oh my god .",
+      "emotion": "surprise",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "10_this is the moment my parents choose to tell me they are getting divorced .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Chandler",
+      "text": "Yes . It is very difficult to appreciate a Thanksgiving dinner once you have seen it in reverse .",
+      "emotion": "sadness",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_It is very difficult to appreciate a Thanksgiving dinner once you have seen it in reverse .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 69,
+    "num_utterances": 12,
+    "num_emotion_pairs": 9
+  }
+}

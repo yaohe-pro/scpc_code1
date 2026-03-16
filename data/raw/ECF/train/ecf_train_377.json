@@ -1,0 +1,100 @@
+{
+  "conversation_id": "ecf_train_377",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Umm , candles , champagne , yeah anniversaries are great .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_candles , champagne , yeah anniversaries are great .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Cause you know love lasts forever , you know .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_love lasts forever",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "Nothing like it in this lifetime , money in the bank , so Rachel and I broke up .",
+      "emotion": "sadness",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_Rachel and I broke up .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Carol",
+      "text": "Oh God , Ross I am so sorry .",
+      "emotion": "sadness",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_Rachel and I broke up .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Carol",
+      "text": "You know what , I want to talk to you about this so much , but we should probably do it when we could really get into it , are you free for dinner tomorrow night ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "Oh yeah , I would love that .",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_I would love that .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Carol",
+      "text": "Oh , great ! Me too .",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "6_Oh yeah , I would love that .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ross",
+      "text": "I guess it all started when Rachel got this new job .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 377,
+    "num_utterances": 8,
+    "num_emotion_pairs": 8
+  }
+}

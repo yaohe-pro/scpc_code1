@@ -1,0 +1,194 @@
+{
+  "conversation_id": "ecf_train_370",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Exactly . So you did not , did not mention anything to Issac right ?",
+      "emotion": "fear",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_you did not , did not mention anything to Issac right ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chloe",
+      "text": "Oh , well I tell Issac everything .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "You tell , of course you do . Issac . Issac . Hey , Issac . Issac , hi ! You know we have not actually met ...",
+      "emotion": "sadness",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_I tell Issac everything .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Issac",
+      "text": "You dog !",
+      "emotion": "joy",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_You dog !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "Yes , I suppose I am a dog . But Issac , see I ... I happen to have a girlfriend .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Issac",
+      "text": "Oh right , that Rachel chick from the coffee place .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Ross",
+      "text": "Yeah , that is the one . Listen , I do not want to hurt her .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Issac",
+      "text": "Oh , hey , man I know , does not matter how much we love em , monogamy is too cruel a rule .",
+      "emotion": "sadness",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_monogamy is too cruel a rule .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Ross",
+      "text": "Yeah . Listen , can you keep this information to yourself ?",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Issac",
+      "text": "Aw , no problem dude . You know we got to look out for each other . We are the same , you and me .",
+      "emotion": "joy",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_We are the same , you and me .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Ross",
+      "text": "Actually , no , we are not .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Issac",
+      "text": "Yeah , we are .",
+      "emotion": "joy",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "10_We are the same , you and me .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Ross",
+      "text": "No , we are not .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Issac",
+      "text": "Yeah , we are .",
+      "emotion": "joy",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "10_We are the same , you and me .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Ross",
+      "text": "No , we are not ! !",
+      "emotion": "anger",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "10_We are the same , you and me .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Issac",
+      "text": "Okay , we are not .",
+      "emotion": "neutral",
+      "timestamp": 37.5
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Ross",
+      "text": "Right .",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Issac",
+      "text": "But , we are .",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Ross",
+      "text": "Fine . I just need to know that you are not gonna tell your sister .",
+      "emotion": "neutral",
+      "timestamp": 45.0
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Issac",
+      "text": "I can promise not to tell her again .",
+      "emotion": "neutral",
+      "timestamp": 47.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 370,
+    "num_utterances": 20,
+    "num_emotion_pairs": 8
+  }
+}

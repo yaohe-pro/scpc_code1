@@ -1,0 +1,164 @@
+{
+  "conversation_id": "ecf_test_1059",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Yes , yes it is . It is uh ... Every time on the lips ! Why ? ! Why on lips ? !",
+      "emotion": "anger",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Every time on the lips ! Why ? ! Why on lips ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "Here is Frannie . Hmm , will not she be happy to see me ?",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_Here is Frannie . Hmm , will not she be happy to see me ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "Now wait a minute , you be nice ! All right ? I did not bring you here so you can ambush her .",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_I did not bring you here so you can ambush her .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Monica",
+      "text": "Frannie was the one who found your Playboys and showed them to mom .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "That bitch !",
+      "emotion": "anger",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_That bitch !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Frannie",
+      "text": "Monica ! What",
+      "emotion": "surprise",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Monica",
+      "text": "Am I doing here ? Why ? Surprised to see me ? Ross brought me . How do you like that ? !",
+      "emotion": "anger",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "9_You invite my brother , you invite my whole family , and not me ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ross",
+      "text": "Hi Frannie , congratulations .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Monica",
+      "text": "You invite my brother , you invite my whole family , and not me ? !",
+      "emotion": "anger",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_You invite my brother , you invite my whole family , and not me ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Monica",
+      "text": "Why ? !",
+      "emotion": "surprise",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "9_You invite my brother , you invite my whole family , and not me ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Monica",
+      "text": "What ... Why would not you want me at your wedding ?",
+      "emotion": "anger",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_Why would not you want me at your wedding ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Monica",
+      "text": "What could I have possibly done ? !",
+      "emotion": "anger",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "11_Why would not you want me at your wedding ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Monica",
+      "text": "Stuart !",
+      "emotion": "surprise",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Frannie",
+      "text": "I believe you know my husband .",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Ross",
+      "text": "So it is really a question of who could you have possibly done .",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 1059,
+    "num_utterances": 15,
+    "num_emotion_pairs": 12
+  }
+}

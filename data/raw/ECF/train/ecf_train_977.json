@@ -1,0 +1,152 @@
+{
+  "conversation_id": "ecf_train_977",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Mrs. Geller",
+      "text": "So Chandler , your parents must have been thrilled when you told them you were engaged .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_your parents must have been thrilled when you told them you were engaged .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "Oh yeah , I should probably call them .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Mr. Geller",
+      "text": "I remember when we first got engaged .",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_I remember when we first got engaged .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "Oh , I do not think I ever heard that story .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Mr. Geller",
+      "text": "Well , I would gotten Judy pregnant . I still do not know how that happened .",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_I would gotten Judy pregnant .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Mrs. Geller",
+      "text": "You do not know how that happened ? ! Your dog thought my diaphragm was a chew toy !",
+      "emotion": "anger",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_You do not know how that happened ? ! Your dog thought my diaphragm was a chew toy !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Chandler",
+      "text": "What a sweet story .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Monica",
+      "text": "Well , at least you are not hearing it for the first time at your fifth grade Halloween party .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Mr. Geller",
+      "text": "What ? ! They wanted a scary story !",
+      "emotion": "surprise",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "8_at least you are not hearing it for the first time at your fifth grade Halloween party .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Monica",
+      "text": "Anyway , we are really excited about our wedding plans , and well I guess pretty soon we will be making a big withdrawal from the Monica wedding fund .",
+      "emotion": "joy",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_our wedding plans , and well I guess pretty soon we will be making a big withdrawal from the Monica wedding fund .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Monica",
+      "text": "What ?",
+      "emotion": "surprise",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Mrs. Geller",
+      "text": "You tell her Jack , I can not do it .",
+      "emotion": "fear",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "14_We have it . Only now , we call it the beach house .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Monica",
+      "text": "What happened ? You still have the Monica wedding fund do not you ?",
+      "emotion": "surprise",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_What happened ? You still have the Monica wedding fund do not you ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Mr. Geller",
+      "text": "We have it . Only now , we call it the beach house .",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 977,
+    "num_utterances": 14,
+    "num_emotion_pairs": 11
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "conversation_id": "ecf_train_378",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Okay , yeah . Triple A can pick us up .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 378,
+    "num_utterances": 1,
+    "num_emotion_pairs": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "conversation_id": "ecf_train_1018",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Well actually uh , there was something we wanted to tell you about the wedding .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1018,
+    "num_utterances": 1,
+    "num_emotion_pairs": 0
+  }
+}

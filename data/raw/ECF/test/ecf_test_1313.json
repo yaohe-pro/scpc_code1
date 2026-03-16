@@ -1,0 +1,40 @@
+{
+  "conversation_id": "ecf_test_1313",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Oh and I need to talk to you .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "About what ?",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_I need to talk to you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "To see if know what these guys are talking about .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 1313,
+    "num_utterances": 3,
+    "num_emotion_pairs": 1
+  }
+}

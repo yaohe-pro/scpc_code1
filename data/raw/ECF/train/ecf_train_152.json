@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_train_152",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Carol",
+      "text": "Are they here yet ?",
+      "emotion": "sadness",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Are they here yet ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "No , honey , they are not , but do not worry , because we are going to find them , and until we do , we are all here for you , ok ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 152,
+    "num_utterances": 2,
+    "num_emotion_pairs": 1
+  }
+}

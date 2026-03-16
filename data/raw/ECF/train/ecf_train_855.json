@@ -1,0 +1,28 @@
+{
+  "conversation_id": "ecf_train_855",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Dude , you have got to turn on Behind the Music .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Let go watch it at your place .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 855,
+    "num_utterances": 2,
+    "num_emotion_pairs": 0
+  }
+}

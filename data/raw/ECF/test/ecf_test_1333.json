@@ -1,0 +1,85 @@
+{
+  "conversation_id": "ecf_test_1333",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Look at you , all sweet and innocent , sleeping like an angel ... with Emma chubby little hands wrapped around you .",
+      "emotion": "disgust",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_with Emma chubby little hands wrapped around you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "It is okay , Emma , you stay asleep .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "Step away from the crib , I have a weapon !",
+      "emotion": "anger",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "It is okay , it is okay Rach , it is me . Put down the scrunchy .",
+      "emotion": "fear",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_Step away from the crib , I have a weapon !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "What are you doing ?",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_What are you doing ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "Well , I heard Emma stirring , so I came to make sure she could reach Hugsy .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Rachel",
+      "text": "Oh , oh thanks . Alright well , now that I am up I am going to go to the bathroom .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Joey",
+      "text": "There you go sweetie ... This is not over .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 1333,
+    "num_utterances": 8,
+    "num_emotion_pairs": 3
+  }
+}

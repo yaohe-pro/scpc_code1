@@ -1,0 +1,215 @@
+{
+  "conversation_id": "ecf_train_207",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "You know , I do not think we brought enough stuff . Did you forget to pack the baby anvil ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "It is gonna be worth it .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "It is a known fact that women love babies , all right ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "Women love guys who love babies .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "It is that whole sensitive thing .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "Quick , aim him at that pack o babes over there .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "Maybe one of them will break away .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Joey",
+      "text": "No , no wait , forget them , we got one , hard left .",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_we got one , hard left .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Joey",
+      "text": "All right , gimme the baby .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Chandler",
+      "text": "No , I got him .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Joey",
+      "text": "Come on , seriously .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Chandler",
+      "text": "Oh , seriously you want him ?",
+      "emotion": "surprise",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "11_Come on , seriously .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Woman",
+      "text": "Hello .",
+      "emotion": "joy",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Chandler and Joey",
+      "text": "Hello .",
+      "emotion": "joy",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "14_Hello .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Woman",
+      "text": "Who is this little cutie ... pie ?",
+      "emotion": "joy",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_this little cutie ... pie",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Chandler",
+      "text": "Well , do not , do not think me immodest , but , me ?",
+      "emotion": "neutral",
+      "timestamp": 37.5
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Joey",
+      "text": "You wanna smell him ?",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Woman",
+      "text": "I assume we are talking about the baby now .",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Joey",
+      "text": "Oh , yeah . He is got that great baby smell . Get a whiff of his head .",
+      "emotion": "joy",
+      "timestamp": 45.0,
+      "emotion_cause": {
+        "utterance_id": "u19",
+        "span": "19_He is got that great baby smell .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Woman",
+      "text": "I think my uterus just skipped a beat .",
+      "emotion": "neutral",
+      "timestamp": 47.5
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "Joey",
+      "text": "What would I tell you ? What would I tell you ?",
+      "emotion": "joy",
+      "timestamp": 50.0,
+      "emotion_cause": {
+        "utterance_id": "u21",
+        "span": "20_I think my uterus just skipped a beat .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u22",
+      "speaker": "Woman",
+      "text": "I think it is great you guys are doing this .",
+      "emotion": "joy",
+      "timestamp": 52.5,
+      "emotion_cause": {
+        "utterance_id": "u22",
+        "span": "22_it is great you guys are doing this .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u23",
+      "speaker": "Chandler",
+      "text": "Well , we are great guys .",
+      "emotion": "joy",
+      "timestamp": 55.0,
+      "emotion_cause": {
+        "utterance_id": "u23",
+        "span": "22_it is great you guys are doing this .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 207,
+    "num_utterances": 23,
+    "num_emotion_pairs": 12
+  }
+}

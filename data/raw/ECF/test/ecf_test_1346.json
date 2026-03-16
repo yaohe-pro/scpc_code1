@@ -1,0 +1,28 @@
+{
+  "conversation_id": "ecf_test_1346",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Hey Ross , this is one of my co ... stars , Dirk . Dirk , this is my good friend Ross .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Nice to meet you .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 1346,
+    "num_utterances": 2,
+    "num_emotion_pairs": 0
+  }
+}

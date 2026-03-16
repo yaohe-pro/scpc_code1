@@ -1,0 +1,47 @@
+{
+  "conversation_id": "ecf_test_289",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "Okay , Ben , I will not tell your daddy that you had ice cream for dinner , if you do not tell about our little bonking incident .",
+      "emotion": "fear",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_tell about our little bonking incident .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Monica , number one , I do not think Ben understands the concept of bribery , and number two , I ... What ? !",
+      "emotion": "surprise",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "You said number two .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "I also said number one .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 289,
+    "num_utterances": 4,
+    "num_emotion_pairs": 1
+  }
+}

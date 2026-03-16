@@ -1,0 +1,255 @@
+{
+  "conversation_id": "ecf_train_382",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "... right ?",
+      "emotion": "anger",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "3_they just took off , took off without even looking back",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Right ?",
+      "emotion": "anger",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "3_they just took off , took off without even looking back",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "I mean it is pretty unbelievable you know , I mean they just took off , took off without even looking back .",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_they just took off , took off without even looking back .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "You know I do not , I do not need them , huh , I have got you guys now as friends , you and Susan .",
+      "emotion": "anger",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_they just took off , took off without even looking back .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Carol",
+      "text": "Ah , Susan will be so pleased .",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_Susan will be so pleased .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "717 ? Where is 717 ?",
+      "emotion": "surprise",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_717 ? Where is 717 ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Ross",
+      "text": "Hey , you have have more of these for Susan right ?",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Carol",
+      "text": "No . But it is okay , I will just put out pickles or something .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Phoebe",
+      "text": "Ross , thank God .",
+      "emotion": "joy",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Ross",
+      "text": "Pheebs ? What , why are you whispering ?",
+      "emotion": "surprise",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_you whispering",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Phoebe",
+      "text": "I ate a bug .",
+      "emotion": "sadness",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_I ate a bug .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Monica",
+      "text": "Hey Rach , the tampons here are only a penny . Let stock up .",
+      "emotion": "joy",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_the tampons here are only a penny . Let stock up .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Phoebe",
+      "text": "Listen Ross , we ran out of gas , and we do not know where we are , so we can not get a tow truck .",
+      "emotion": "fear",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_we ran out of gas , and we do not know where we are , so we can not get a tow truck .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Ross",
+      "text": "Oh , now you want a favour ?",
+      "emotion": "joy",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "14_now you want a favour",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Phoebe",
+      "text": "Yes , please .",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Ross",
+      "text": "Well , oh , I am sorry your car broke down Pheebs , but I am a little too busy with some of my real friends right now , but please call to let me know you got home safely okay ?",
+      "emotion": "anger",
+      "timestamp": 37.5
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Carol",
+      "text": "Phoebe , hang on a second . Here , take my car , go pick up your friends .",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Ross",
+      "text": "No , I am not gonna pick them up .",
+      "emotion": "anger",
+      "timestamp": 42.5,
+      "emotion_cause": {
+        "utterance_id": "u18",
+        "span": "17_take my car , go pick up your friends .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Carol",
+      "text": "Listen , we both know you are gonna do it cause you are not a jerk .",
+      "emotion": "anger",
+      "timestamp": 45.0,
+      "emotion_cause": {
+        "utterance_id": "u19",
+        "span": "18_I am not gonna pick them up .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Carol",
+      "text": "So you can either sulk here for a half hour and then go pick them up , or save us both time and sulk in the car .",
+      "emotion": "anger",
+      "timestamp": 47.5,
+      "emotion_cause": {
+        "utterance_id": "u20",
+        "span": "18_I am not gonna pick them up .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "Ross",
+      "text": "No , Rachel does not want me to ...",
+      "emotion": "anger",
+      "timestamp": 50.0,
+      "emotion_cause": {
+        "utterance_id": "u21",
+        "span": "21_Rachel does not want me to ...",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u22",
+      "speaker": "Carol",
+      "text": "Look , I ... I ... I am sorry that Rachel dumped you cause she fell in love with that Mark guy , and you are the innocent victim in all of this , but do not punish your friends for what Rachel did to you .",
+      "emotion": "anger",
+      "timestamp": 52.5,
+      "emotion_cause": {
+        "utterance_id": "u22",
+        "span": "22_punish your friends for what Rachel did to you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u23",
+      "speaker": "Ross",
+      "text": "Yeah , you are right .",
+      "emotion": "neutral",
+      "timestamp": 55.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 382,
+    "num_utterances": 23,
+    "num_emotion_pairs": 18
+  }
+}

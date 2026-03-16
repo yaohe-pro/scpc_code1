@@ -1,0 +1,240 @@
+{
+  "conversation_id": "ecf_train_1372",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Get Out !",
+      "emotion": "anger",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Charlie",
+      "text": "Ross , can I talk to you for a minute ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "Yes , please ! So , what going on ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Charlie",
+      "text": "Uh , well ... Joey and I broke up .",
+      "emotion": "sadness",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_Joey and I broke up .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "Oh my God , wh ... what happened ?",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_Joey and I broke up .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Charlie",
+      "text": "Joey is a great guy , but we are just ... so different ! I mean , during your speech he kept laughing at homo erectus !",
+      "emotion": "sadness",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_we are just ... so different !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Ross",
+      "text": "I knew that was him !",
+      "emotion": "anger",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "6_during your speech he kept laughing at homo erectus !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Charlie",
+      "text": "Anyway I just , uh , I think it is for the best .",
+      "emotion": "sadness",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "4_Joey and I broke up .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Ross",
+      "text": "Hey , you ok ?",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Charlie",
+      "text": "I guess .",
+      "emotion": "sadness",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "4_Joey and I broke up .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Charlie",
+      "text": "There was hum ... there was another reason that I thought it was time to end it with Joey .",
+      "emotion": "sadness",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "12_I started to realize that I was having feelings for someone else .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Charlie",
+      "text": "I started to realize that I was having feelings for someone else .",
+      "emotion": "sadness",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_I started to realize that I was having feelings for someone else .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Paleontologist",
+      "text": "Ok Geller . Last day of the conference , you know what happens to the keynote speaker .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Ross",
+      "text": "Oh , professor Clerk we are kind of in the middle of a conversation , here .",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Charlie",
+      "text": "Yeah , can you guys just throw him in the pool later ?",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Professore Clerk",
+      "text": "Or we could throw you both in now !",
+      "emotion": "joy",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "16_we could throw you both in",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Ross",
+      "text": "Ok , gentlemen !",
+      "emotion": "anger",
+      "timestamp": 40.0,
+      "emotion_cause": {
+        "utterance_id": "u17",
+        "span": "16_we could throw you both in",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Ross",
+      "text": "Please !",
+      "emotion": "anger",
+      "timestamp": 42.5,
+      "emotion_cause": {
+        "utterance_id": "u18",
+        "span": "16_we could throw you both in",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Ross",
+      "text": "Are not we a little old for this ?",
+      "emotion": "anger",
+      "timestamp": 45.0,
+      "emotion_cause": {
+        "utterance_id": "u19",
+        "span": "16_we could throw you both in",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Ross",
+      "text": "I mean , we are scientists , right ?",
+      "emotion": "neutral",
+      "timestamp": 47.5
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "Ross",
+      "text": "We are academics .",
+      "emotion": "anger",
+      "timestamp": 50.0,
+      "emotion_cause": {
+        "utterance_id": "u21",
+        "span": "16_we could throw you both in",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u22",
+      "speaker": "Ross",
+      "text": "And most importantly I ... you ... you will have to catch us first .",
+      "emotion": "neutral",
+      "timestamp": 52.5
+    },
+    {
+      "utterance_id": "u23",
+      "speaker": "Ross",
+      "text": "GO , GO , GO !",
+      "emotion": "fear",
+      "timestamp": 55.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1372,
+    "num_utterances": 23,
+    "num_emotion_pairs": 15
+  }
+}

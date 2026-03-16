@@ -1,0 +1,97 @@
+{
+  "conversation_id": "ecf_test_122",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "I am telling you , she said she is looking for a relationship with someone exactly like me .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "She really said that ?",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_she said she is looking for a relationship with someone exactly like me .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "Well , I added the exactly like me part ...",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "But she said she is looking for someone , and someone is gonna be there tonight .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "Tonight tonight ?",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_she said she is looking for someone , and someone is gonna be there tonight .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "Well , I think it is perfect . You know , it is just gonna be the two of us , she spent all day taking care of my monkey ...",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Chandler",
+      "text": "I can not remember the last time I got a girl to take care of my monkey .",
+      "emotion": "sadness",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_I can not remember the last time I got a girl to take care of my monkey .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ross",
+      "text": "Anyway , I figured after work I would go pick up a bottle of wine , go over there and , uh , try to woo her .",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_I figured after work I would go pick up a bottle of wine , go over there and , uh , try to woo her .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Chandler",
+      "text": "Hey , you know what you should do ? You should take her back to the 1890 s , when that phrase was last used .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 122,
+    "num_utterances": 9,
+    "num_emotion_pairs": 5
+  }
+}

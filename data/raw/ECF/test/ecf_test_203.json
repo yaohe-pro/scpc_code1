@@ -1,0 +1,78 @@
+{
+  "conversation_id": "ecf_test_203",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Jade",
+      "text": "Oh , Bob , he was nothing compared to you .",
+      "emotion": "sadness",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_he was nothing compared to you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Jade",
+      "text": "I had to bite my lip to keep from screaming your name .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "Well , that makes me feel so good .",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_that makes me feel so good .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Jade",
+      "text": "It was just so awkward and bumpy .",
+      "emotion": "disgust",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_It was just so awkward and bumpy .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Chandler",
+      "text": "Well , maybe he had some kind of uh , new , cool style , that you are not familiar with .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Chandler",
+      "text": "And uh maybe you have to get used to it .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Jade",
+      "text": "Well there really was not much time to get used to it , you know what I mean ?",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 203,
+    "num_utterances": 7,
+    "num_emotion_pairs": 4
+  }
+}

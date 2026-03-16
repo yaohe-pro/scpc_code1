@@ -1,0 +1,47 @@
+{
+  "conversation_id": "ecf_train_556",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joshua",
+      "text": "Okay !",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Oh , here is that trench ... coat that you wanted .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joshua",
+      "text": "Oh great ! Wow ! Yeah , it is comfortable .",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_it is comfortable .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "Yeah .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 556,
+    "num_utterances": 4,
+    "num_emotion_pairs": 1
+  }
+}

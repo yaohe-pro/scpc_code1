@@ -1,0 +1,71 @@
+{
+  "conversation_id": "ecf_test_801",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "All right , well the place was closed . I will just copy it later .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Or not . Uh , Rach , why do not you just move in with me ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "Whoa ! Whoa ! Whoa , Joey !",
+      "emotion": "surprise",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_Rach , why do not you just move in with me ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "No ... no ... no ... no ... no ... no ... no ... no ... It is okay , I mean I ... look Rach , I know I scared you off with that whole Naked Thursday thing , but we do not have to do that !",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "Well , it would be easier to move just right across the hall . Wait a minute , unless you are thinking about Naked Wednesday .",
+      "emotion": "disgust",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_you are thinking about Naked Wednesday .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "Thursday clearly not good for you , pick a day !",
+      "emotion": "anger",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_Thursday clearly not good for you , pick a day !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 801,
+    "num_utterances": 6,
+    "num_emotion_pairs": 4
+  }
+}

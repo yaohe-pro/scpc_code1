@@ -1,0 +1,197 @@
+{
+  "conversation_id": "ecf_train_389",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Kate",
+      "text": "Happy ? ! Is that what I am supposed to be Vic ? Happy ?",
+      "emotion": "anger",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Well , why do not you tell me what you are supposed to be !",
+      "emotion": "anger",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_Happy ? ! Is that what I am supposed to be Vic ? Happy ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Huh ?",
+      "emotion": "surprise",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "Because I sure as hell can not figure it out !",
+      "emotion": "anger",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "6_You look at me , and it is nothin .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "I talk to you and nothin .",
+      "emotion": "anger",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "6_You look at me , and it is nothin .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "You look at me , and it is nothin .",
+      "emotion": "anger",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_You look at me , and it is nothin .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "Nothing .",
+      "emotion": "anger",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "6_You look at me , and it is nothin .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "The Director",
+      "text": "Tasty ! I am really starting to feel like you guys have a history , it is ... it is nice .",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_Tasty ! I am really starting to feel like you guys have a history , it is ... it is nice .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Kate",
+      "text": "I have a question about this scene .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "The Director",
+      "text": "Yes ?",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Kate",
+      "text": "Well , I do not understand why Adrienne attracted to Victor .",
+      "emotion": "disgust",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_Adrienne attracted to Victor",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "The Director",
+      "text": "Peel the onion . First of all , he is good looking .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Joey",
+      "text": "Yeah .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Kate",
+      "text": "I think my character gonna need a little bit more of reason than that .",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Joey",
+      "text": "Oh , hey , how about this one .",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Joey",
+      "text": "Ah , it is says so in the script !",
+      "emotion": "anger",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "14_I think my character gonna need a little bit more of reason than that .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Joey",
+      "text": "You know ah , I ... I do not know why my character likes you either , I mean it says in the script here that you are a bitch .",
+      "emotion": "anger",
+      "timestamp": 40.0,
+      "emotion_cause": {
+        "utterance_id": "u17",
+        "span": "14_I think my character gonna need a little bit more of reason than that .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Kate",
+      "text": "It does not say that in the script .",
+      "emotion": "anger",
+      "timestamp": 42.5,
+      "emotion_cause": {
+        "utterance_id": "u18",
+        "span": "17_it says in the script here that you are a bitch .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Joey",
+      "text": "It does in mine !",
+      "emotion": "neutral",
+      "timestamp": 45.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 389,
+    "num_utterances": 19,
+    "num_emotion_pairs": 20
+  }
+}

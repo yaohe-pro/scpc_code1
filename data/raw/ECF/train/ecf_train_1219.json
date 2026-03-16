@@ -1,0 +1,247 @@
+{
+  "conversation_id": "ecf_train_1219",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "One pregnant woman at a time , please ! I just want you to be okay .",
+      "emotion": "disgust",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "So forcing her to marry Bobby is gonna make that happen ?",
+      "emotion": "anger",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_forcing her to marry Bobby",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Maybe ! Well ! Well ... so ... so uh , what kind of music does Numb Nuts ... Oh forget it ! I can not !",
+      "emotion": "anger",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Dina",
+      "text": "Joey , I am scared to death about this .",
+      "emotion": "fear",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_this",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Dina",
+      "text": "But I really think I can do it , I am just gonna need some help .",
+      "emotion": "fear",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_this",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Dina",
+      "text": "And Bobby gonna be here the whole time .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Bobby",
+      "text": "You bet I am ! And to answer your earlier question , we are straight ... up gangster rap .",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_we are straight ... up gangster rap .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Dina",
+      "text": "Look , Rachel told me how much easier you have made all this on her . Why can not you do that for me ?",
+      "emotion": "anger",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_Rachel told me how much easier you have made all this on her . Why can not you do that for me ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Joey",
+      "text": "Because ! Cause ... Cause you are my baby sister !",
+      "emotion": "anger",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Dina",
+      "text": "And you are my big brother !",
+      "emotion": "anger",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "8_Rachel told me how much easier you have made all this on her . Why can not you do that for me ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Dina",
+      "text": "I mean , you are my favorite guy in the whole world .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Dina",
+      "text": "I am not even scared to tell mom and dad .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Dina",
+      "text": "I was scared of telling you .",
+      "emotion": "fear",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Joey",
+      "text": "Well I would be scared of them , but all right .",
+      "emotion": "fear",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Dina",
+      "text": "Joey , I can not stand the thought of having this baby with you mad at me .",
+      "emotion": "sadness",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_I can not stand the thought of having this baby with you mad at me .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Dina",
+      "text": "I want him to have his uncle .",
+      "emotion": "sadness",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "15_I can not stand the thought of having this baby with you mad at me .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Dina",
+      "text": "Is my baby gonna have his Uncle Joey ?",
+      "emotion": "sadness",
+      "timestamp": 40.0,
+      "emotion_cause": {
+        "utterance_id": "u17",
+        "span": "15_I can not stand the thought of having this baby with you mad at me .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Joey",
+      "text": "Of course he is gonna have his Uncle Joey !",
+      "emotion": "surprise",
+      "timestamp": 42.5,
+      "emotion_cause": {
+        "utterance_id": "u18",
+        "span": "17_Is my baby gonna have his Uncle Joey ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Dina",
+      "text": "We are gonna be all right . I mean , even if we are not married this baby is gonna be so loved . Not just by us .",
+      "emotion": "joy",
+      "timestamp": 45.0,
+      "emotion_cause": {
+        "utterance_id": "u19",
+        "span": "19_We are gonna be all right . I mean , even if we are not married this baby is gonna be so loved . Not just by us .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Joey",
+      "text": "That is right ! By his uncle too !",
+      "emotion": "joy",
+      "timestamp": 47.5,
+      "emotion_cause": {
+        "utterance_id": "u20",
+        "span": "20_By his uncle too !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "Bobby",
+      "text": "And by you .",
+      "emotion": "joy",
+      "timestamp": 50.0,
+      "emotion_cause": {
+        "utterance_id": "u21",
+        "span": "21_And by you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u22",
+      "speaker": "Rachel",
+      "text": "Okay Bobby , why do not we just come over here and let them have a little moment .",
+      "emotion": "neutral",
+      "timestamp": 52.5
+    },
+    {
+      "utterance_id": "u23",
+      "speaker": "Joey",
+      "text": "Come here !",
+      "emotion": "joy",
+      "timestamp": 55.0
+    },
+    {
+      "utterance_id": "u24",
+      "speaker": "Rachel",
+      "text": "No ! Seriously ! What wrong with you ? !",
+      "emotion": "anger",
+      "timestamp": 57.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1219,
+    "num_utterances": 24,
+    "num_emotion_pairs": 17
+  }
+}

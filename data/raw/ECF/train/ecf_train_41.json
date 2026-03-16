@@ -1,0 +1,207 @@
+{
+  "conversation_id": "ecf_train_41",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "Something went wrong with Underdog , and they could not get his head to inflate .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "2_his head is like flopping down Broadway",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "So anyway , um , his head is like flopping down Broadway , right , and I am just thinking ... how inappropriate this is .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_his head is like flopping down Broadway",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Monica",
+      "text": "Um , I have got something in my eye , uh , Joey , could we check it in the light , please ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Monica",
+      "text": "Oh my god .",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "6_It is like ... cocktails in Appalachia .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "What ?",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_Oh my god .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Monica",
+      "text": "Hello ! Were we at the same table ? It is like ... cocktails in Appalachia .",
+      "emotion": "anger",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_Were we at the same table ? It is like ... cocktails in Appalachia .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "Come on , they are close .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Monica",
+      "text": "Close ? She is got her tongue in his ear .",
+      "emotion": "disgust",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_She is got her tongue in his ear .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Joey",
+      "text": "Oh , like you have never gotten a little rambunctious with Ross .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Monica",
+      "text": "Joey , this is sick , it is disgusting , it is , it is ... not really true , is it ?",
+      "emotion": "disgust",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_this is sick , it is disgusting",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Joey",
+      "text": "Well , who to say what true ? I mean ...",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Monica",
+      "text": "Oh my god , what were you thinking ?",
+      "emotion": "disgust",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "11_who to say what true ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Joey",
+      "text": "All right , look , I am not proud of this , ok ? Well , maybe I am a little .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Monica",
+      "text": "Oh !",
+      "emotion": "surprise",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "13_I am not proud of this , ok ? Well , maybe I am a little .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Joey",
+      "text": "Ow !",
+      "emotion": "surprise",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Monica",
+      "text": "I am outta here .",
+      "emotion": "disgust",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "11_who to say what true ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Joey",
+      "text": "Wait , wait , wait . Come on . You want him , I want her . He likes you .",
+      "emotion": "sadness",
+      "timestamp": 40.0,
+      "emotion_cause": {
+        "utterance_id": "u17",
+        "span": "16_I am outta here .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Monica",
+      "text": "Really ?",
+      "emotion": "surprise",
+      "timestamp": 42.5,
+      "emotion_cause": {
+        "utterance_id": "u18",
+        "span": "17_He likes you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Joey",
+      "text": "Yeah . I am thinking , if we put our heads together , between the two of us , we can break them up .",
+      "emotion": "neutral",
+      "timestamp": 45.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 41,
+    "num_utterances": 19,
+    "num_emotion_pairs": 18
+  }
+}

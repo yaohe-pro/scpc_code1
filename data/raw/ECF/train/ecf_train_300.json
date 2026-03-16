@@ -1,0 +1,85 @@
+{
+  "conversation_id": "ecf_train_300",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "So , this must be kinda neat for you , huh ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "I mean , your Dad tells me that you get a couple of days off school , and you , you ah , do not have to sell those cookies anymore .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Sarah",
+      "text": "Well , I kinda wanted to sell the cookies . The girl who sells the most wins a trip to Spacecamp , and gets to sit in a real space shuttle .",
+      "emotion": "sadness",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_I kinda wanted to sell the cookies . The girl who sells the most wins a trip to Spacecamp , and gets to sit in a real space shuttle .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "Wow , you ah , you really like all this space stuff , huh ?",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_you really like all this space stuff",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Sarah",
+      "text": "Yeah .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Sarah",
+      "text": "My Dad says if I spend as much time helping him clean apartments , as I do daydreaming about outer space , he would be able to afford a trip to the Taj Mahal .",
+      "emotion": "sadness",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_My Dad says if I spend as much time helping him clean apartments , as I do daydreaming about outer space , he would be able to afford a trip to the Taj Mahal .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Ross",
+      "text": "I think you would have to clean a whole lot of apartments to go all the way to India .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Sarah",
+      "text": "No . The one in Atlantic City , Dad loves the slots . He says he is gonna double the college money my Grandma left me .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 300,
+    "num_utterances": 8,
+    "num_emotion_pairs": 4
+  }
+}

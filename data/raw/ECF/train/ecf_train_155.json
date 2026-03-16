@@ -1,0 +1,78 @@
+{
+  "conversation_id": "ecf_train_155",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Lydia",
+      "text": "So how did you know I was even here ?",
+      "emotion": "surprise",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_how did you know I was even here ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Guy",
+      "text": "Your mom called me . So is this her ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Lydia",
+      "text": "No , this is a loaner .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Guy",
+      "text": "I am sorry you had to do this by yourself .",
+      "emotion": "sadness",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_you had to do this by yourself .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Lydia",
+      "text": "I was not by myself . I had a doctor , a nurse , and a helper guy . So , did you see who won the game ?",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_I was not by myself . I had a doctor , a nurse , and a helper guy .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Guy",
+      "text": "Yeah , the Knicks by 10 . They suck .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Lydia",
+      "text": "Yeah , they are not so bad .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 155,
+    "num_utterances": 7,
+    "num_emotion_pairs": 3
+  }
+}

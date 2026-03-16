@@ -1,0 +1,35 @@
+{
+  "conversation_id": "ecf_train_488",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "You got me .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "Yeah . Right .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Good , and hey ! My treat . But that is only because you are not eating anything , right ?",
+      "emotion": "joy",
+      "timestamp": 5.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 488,
+    "num_utterances": 3,
+    "num_emotion_pairs": 0
+  }
+}

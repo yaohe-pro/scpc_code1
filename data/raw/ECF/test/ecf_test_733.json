@@ -1,0 +1,92 @@
+{
+  "conversation_id": "ecf_test_733",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Kim",
+      "text": "So it is down to these two , Nancy I know you like this one and I think I agree . Rachel , what do you think ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Well umm , that one is pretty but uh , I just , I just love this fabric Sorry .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Kim",
+      "text": "Oh do not be sorry , that is part of your job here to give your opinions and then I take credit for them ... I am kidding .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Nancy",
+      "text": "She is kidding , but do not ever disagree with her again . Okay , now I am kidding !",
+      "emotion": "joy",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_now I am kidding !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "Oh , what a fun office .",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_what a fun office .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Kim",
+      "text": "I do not know which one , but I do know I need a cigarette .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Kim",
+      "text": "So what do you say we take a break , we go outside , and we will figure this out when we come back ?",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Kim",
+      "text": "Rachel ? Do you smoke ?",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Rachel",
+      "text": "Oh no , my dad a doctor and he would always tell me just horror stories ... about ghosts and goblins who totally supported the princess right to smoke .",
+      "emotion": "sadness",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_he would always tell me just horror stories",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 733,
+    "num_utterances": 9,
+    "num_emotion_pairs": 8
+  }
+}

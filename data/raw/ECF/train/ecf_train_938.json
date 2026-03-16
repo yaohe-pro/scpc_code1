@@ -1,0 +1,99 @@
+{
+  "conversation_id": "ecf_train_938",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "Hi , honey .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Hi , honey .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "See you later .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Monica",
+      "text": "What ? I ... I bought groceries , I was gonna make you dinner !",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_I ... I bought groceries , I was gonna make you dinner !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "Well next time ask ! Or at least wait for me to ask !",
+      "emotion": "anger",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "The Museum Official",
+      "text": "Hi , this is Heldi from the Morgan Chase museum . I am calling for Monica Geller .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Monica",
+      "text": "Oh no !",
+      "emotion": "fear",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "The Museum Official",
+      "text": "I want to let her know that there was a cancellation and if she is still interested in having the Bing ... Geller wedding at our facility , it is available",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Monica",
+      "text": "Oh please , he did not hear it ! He did not hear it ! !",
+      "emotion": "fear",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Chandler",
+      "text": "This is Chandler Bing ! This is Chandler Bing !",
+      "emotion": "surprise",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "7_if she is still interested in having the Bing ... Geller wedding at our facility , it is available",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Monica",
+      "text": "NOOOO ! ! ! ! ! ! ! !",
+      "emotion": "anger",
+      "timestamp": 22.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 938,
+    "num_utterances": 10,
+    "num_emotion_pairs": 3
+  }
+}

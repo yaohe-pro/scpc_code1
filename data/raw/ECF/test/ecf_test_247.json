@@ -1,0 +1,28 @@
+{
+  "conversation_id": "ecf_test_247",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Does anyone else think David Copperfield is cute ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "No , but he told me , he thinks your a fox .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 247,
+    "num_utterances": 2,
+    "num_emotion_pairs": 0
+  }
+}

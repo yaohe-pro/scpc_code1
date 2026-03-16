@@ -1,0 +1,45 @@
+{
+  "conversation_id": "ecf_test_1297",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Excellent ! Excellent ! And uh , finally , are you into any weird stuff you know , sexually ?",
+      "emotion": "joy",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Cliff",
+      "text": "No !",
+      "emotion": "disgust",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_are you into any weird stuff you know , sexually ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Oooh , wrong answer .",
+      "emotion": "sadness",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_wrong answer .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 1297,
+    "num_utterances": 3,
+    "num_emotion_pairs": 4
+  }
+}

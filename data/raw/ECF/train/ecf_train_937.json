@@ -1,0 +1,38 @@
+{
+  "conversation_id": "ecf_train_937",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Paul",
+      "text": "Why are you yelling ?",
+      "emotion": "surprise",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Why are you yelling ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Whoa , that Diet Coke I think just went straight to my head ! Woo !",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_that Diet Coke I think just went straight to my head !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 937,
+    "num_utterances": 2,
+    "num_emotion_pairs": 2
+  }
+}

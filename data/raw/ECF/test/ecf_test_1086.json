@@ -1,0 +1,183 @@
+{
+  "conversation_id": "ecf_test_1086",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Dina",
+      "text": "I am going to keep dating him Mother , and there is nothing you can do about it !",
+      "emotion": "anger",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Jessica Lockhart",
+      "text": "Oh yes there is !",
+      "emotion": "anger",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_I am going to keep dating him Mother , and there is nothing you can do about it !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Dina",
+      "text": "What are you going to do ? Kill him ? Like you did with Charles ? !",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_What are you going to do ? Kill him ? Like you did with Charles ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Jessica Lockhart",
+      "text": "Oh , my baby !",
+      "emotion": "sadness",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "That was a great scene ! And ... and ... and that slap looks so real ! How do you do that ?",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_That was a great scene ! And ... and ... and that slap looks so real ! How do you do that ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Cecilia",
+      "text": "Oh , just years of experience .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Dina",
+      "text": "Can I get some ice here ? !",
+      "emotion": "sadness",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Joey",
+      "text": "Oh anyway , I just wanted to say how wonderful I think you are .",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_how wonderful I think you are .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Cecilia",
+      "text": "You are not the fan who dying are you ?",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Joey",
+      "text": "No . No , I am Joey Tribbiani ; we did a scene together yesterday . I ... I am the guy in the coma !",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Cecilia",
+      "text": "Oh that was a real person ? !",
+      "emotion": "surprise",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_that was a real person ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Joey",
+      "text": "An ... an ... anyway I ... I just wanted to say that since I am getting your brain when you leave the show , I was wondering if there was any tips you can give me",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Cecilia",
+      "text": "I ... I ... I am leaving the show ?",
+      "emotion": "surprise",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_I ... I ... I am leaving the show ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Joey",
+      "text": "I do not know . Why ? Did you hear something ?",
+      "emotion": "fear",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "13_I ... I ... I am leaving the show ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Cecilia",
+      "text": "Who told you that ?",
+      "emotion": "anger",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_Who told you that ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Joey",
+      "text": "Oh uh , one of the writers .",
+      "emotion": "sadness",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "15_Who told you that ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Cecilia",
+      "text": "Which one ? Was it bald or was it tall ?",
+      "emotion": "anger",
+      "timestamp": 40.0,
+      "emotion_cause": {
+        "utterance_id": "u17",
+        "span": "16_one of the writers .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 1086,
+    "num_utterances": 17,
+    "num_emotion_pairs": 17
+  }
+}

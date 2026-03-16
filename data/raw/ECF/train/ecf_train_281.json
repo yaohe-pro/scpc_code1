@@ -1,0 +1,83 @@
+{
+  "conversation_id": "ecf_train_281",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "There will come a time in each of your careers when you will have a chance to screw over another soap opera actor .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "I had such an opportunity in the recent , present .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "And I am ashamed to say that I took it , I advised a fellow actor to play a role , homosexually .",
+      "emotion": "sadness",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_I took it , I advised a fellow actor to play a role , homosexually .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "Yeah , we both auditioned for the part , and uh , as it turned out , they ah , they liked the stupid gay thing and cast him .",
+      "emotion": "sadness",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_we both auditioned for the part , and uh , as it turned out , they ah , they liked the stupid gay thing and cast him .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "And now , he is got a two year contract opposite Susan Luchhi , the first lady of daytime television , and me , me I am stuck here teaching a bunch of people , most of whom are too ugly to even be on TV .",
+      "emotion": "sadness",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_And now , he is got a two year contract opposite Susan Luchhi , the first lady of daytime television , and me , me I am stuck here teaching a bunch of people , most of whom are too ugly to even be on TV .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "I am sorry , I am sorry , I am sorry .",
+      "emotion": "sadness",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "5_I am stuck here teaching a bunch of people , most of whom are too ugly to even be on TV .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "Thank you .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 281,
+    "num_utterances": 7,
+    "num_emotion_pairs": 5
+  }
+}

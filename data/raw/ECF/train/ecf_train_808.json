@@ -1,0 +1,57 @@
+{
+  "conversation_id": "ecf_train_808",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Chandler , I am scared .",
+      "emotion": "fear",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "3_I do not wanna die !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "No , we can go together ! Just do not wait too long though , okay ? Cause I am outta here sometime before Friday .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Yeah , but I do not wanna die !",
+      "emotion": "fear",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_I do not wanna die !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Phoebe",
+      "text": "No ... no , it will be fun ! We can come back and we can haunt these guys !",
+      "emotion": "joy",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_it will be fun ! We can come back and we can haunt these guys !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 808,
+    "num_utterances": 4,
+    "num_emotion_pairs": 3
+  }
+}

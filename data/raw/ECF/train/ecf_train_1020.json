@@ -1,0 +1,28 @@
+{
+  "conversation_id": "ecf_train_1020",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Uh , tiny !",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "We are not even sure why we are having it .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1020,
+    "num_utterances": 2,
+    "num_emotion_pairs": 0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_train_1021",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "It is actually going to be just family .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Janice",
+      "text": "Oh ... wait ... you two think of me as family ? ! Oh , I have to ask you something now and be honest ; do you want me to sing Careless Whisper or Lady In Red ?",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_you two think of me as family ? !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1021,
+    "num_utterances": 2,
+    "num_emotion_pairs": 1
+  }
+}

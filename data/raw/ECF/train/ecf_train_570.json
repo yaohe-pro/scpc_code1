@@ -1,0 +1,158 @@
+{
+  "conversation_id": "ecf_train_570",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joshua",
+      "text": "Uhh , Rachel , my parents",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Ohh ! It is so nice to meet you . Hello .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_It is so nice to meet you . Hello .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Mrs. Burgin",
+      "text": "Hello . Well , Joshua , that $ 500 was for groceries .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "What ?",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_that $ 500 was for groceries .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "This ... this , no , oh no , no ... no ... no , this is not ... that is ... that is not what it is .",
+      "emotion": "fear",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "See , see , okay , I work in fashion , see and ... and , this is a real dress actually .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Rachel",
+      "text": "It is ... it is , they are ... they are wearing it in Milan , so part of my job is too wear the clothes , and then I see how people respond , and then I report back to my superiors at Bloomingdale’s .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Mrs. Burgin",
+      "text": "Maybe in L . A ?",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Rachel",
+      "text": "Yes !",
+      "emotion": "joy",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_Yes !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Joshua",
+      "text": "There you go .",
+      "emotion": "joy",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_There you go .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Mr. Burgin",
+      "text": "So , have you kids eaten yet ?",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Rachel",
+      "text": "Well , we were going to do that after ... I mean umm , next .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Mr. Burgin",
+      "text": "Well , we are starving , why do not we all go get something to eat ?",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Rachel",
+      "text": "Oh , yeah , well ... Yeah , no use wasting this baby , just lyin around the house .",
+      "emotion": "joy",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "13_why do not we all go get something to eat ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Mr. Burgin",
+      "text": "So ... We go eat .",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Rachel",
+      "text": "Yes .",
+      "emotion": "neutral",
+      "timestamp": 37.5
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Mr. Burgin",
+      "text": "You will wear that . We will be eating , and of course , you will be wearing that .",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 570,
+    "num_utterances": 17,
+    "num_emotion_pairs": 7
+  }
+}

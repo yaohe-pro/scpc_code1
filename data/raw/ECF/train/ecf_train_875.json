@@ -1,0 +1,35 @@
+{
+  "conversation_id": "ecf_train_875",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Come on !",
+      "emotion": "joy",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Oh wait , do not you have to pay for your , Busty Ladies ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "No , it is okay . Some ... some kid asked me to pick it up for him , but I do not",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 875,
+    "num_utterances": 3,
+    "num_emotion_pairs": 0
+  }
+}

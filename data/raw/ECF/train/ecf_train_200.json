@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_train_200",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Yeah , yeah , everybody here . Hey , everybody , say hi to Julie in New Mexico .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "All",
+      "text": "Hi , Julie !",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_Hi , Julie !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 200,
+    "num_utterances": 2,
+    "num_emotion_pairs": 1
+  }
+}

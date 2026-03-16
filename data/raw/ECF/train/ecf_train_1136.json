@@ -1,0 +1,21 @@
+{
+  "conversation_id": "ecf_train_1136",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "You have seen my huge stack of porn , right ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1136,
+    "num_utterances": 1,
+    "num_emotion_pairs": 0
+  }
+}

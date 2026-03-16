@@ -1,0 +1,130 @@
+{
+  "conversation_id": "ecf_train_206",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Hey Rach , wanna hear the new song I am thinkin of singing this afternoon ? I wrote it this morning in the shower .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_the new song I am thinkin of singing this afternoon ? I wrote it this morning in the shower .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Ok .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Terry",
+      "text": "Uh , Rachel , sweetheart , could I see you for a minute ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "What up ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Terry",
+      "text": "F . Y . I ...",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Terry",
+      "text": "I have decided to pay a professional musician to play in here on Sunday afternoons .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Terry",
+      "text": "Her name is Stephanie ... something .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Terry",
+      "text": "She is supposed to be very good .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Rachel",
+      "text": "But what about Phoebe ?",
+      "emotion": "surprise",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "6_I have decided to pay a professional musician to play in here on Sunday afternoons .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Terry",
+      "text": "Rachel , it is not that your friend is bad , it is that she is so bad , she makes me want to put my finger through my eye into my brain and swirl it around .",
+      "emotion": "disgust",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_she is so bad , she makes me want to put my finger through my eye into my brain and swirl it around .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Rachel",
+      "text": "Ok , ok , so you are not a fan , but I mean , come on , you cannot do this to her .",
+      "emotion": "sadness",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_do this to her .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Terry",
+      "text": "Uh ...",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Rachel",
+      "text": "Oh , no no no no . Oh no no no no . I have to do this to her ?",
+      "emotion": "fear",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_I have to do this to her",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 206,
+    "num_utterances": 13,
+    "num_emotion_pairs": 6
+  }
+}

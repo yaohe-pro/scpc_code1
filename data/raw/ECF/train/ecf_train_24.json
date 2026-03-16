@@ -1,0 +1,35 @@
+{
+  "conversation_id": "ecf_train_24",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Receptionist",
+      "text": "Well , you will have to wait your turn .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Well , how long do you think it will be ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Receptionist",
+      "text": "Any minute now .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 24,
+    "num_utterances": 3,
+    "num_emotion_pairs": 0
+  }
+}

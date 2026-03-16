@@ -1,0 +1,42 @@
+{
+  "conversation_id": "ecf_train_933",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Oh well , it is not on TV yet .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "The Dry Cleaner",
+      "text": "Well , then it is not on the wall yet .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Okay , fine , I will bring you a tape , huh ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Phoebe",
+      "text": "So umm , now do you have any of Matt Lauer clothes here ? Maybe ? Just ones that have not been cleaned yet ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 933,
+    "num_utterances": 4,
+    "num_emotion_pairs": 0
+  }
+}

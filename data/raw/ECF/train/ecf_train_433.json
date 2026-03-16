@@ -1,0 +1,47 @@
+{
+  "conversation_id": "ecf_train_433",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Hoshi",
+      "text": "You are iron .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Hoshi",
+      "text": "You are steel !",
+      "emotion": "joy",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Hoshi",
+      "text": "Let me ask you something , how come when I call your computer support line , I have to wait an hour and a half ?",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_when I call your computer support line , I have to wait an hour and a half",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Pete",
+      "text": "I told you , we are adding new operators all the time . Could we concentrate on my training ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 433,
+    "num_utterances": 4,
+    "num_emotion_pairs": 1
+  }
+}

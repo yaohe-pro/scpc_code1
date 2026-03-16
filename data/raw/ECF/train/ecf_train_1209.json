@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_train_1209",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "Oh my God Stu ! I ... I can not believe you did this ! Now are you absolutely sure she is a hooker ?",
+      "emotion": "surprise",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_I ... I can not believe you did this ! Now are you absolutely sure she is a hooker ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Stu",
+      "text": "Either that or she is just the best , most expensive date I ever had .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1209,
+    "num_utterances": 2,
+    "num_emotion_pairs": 1
+  }
+}

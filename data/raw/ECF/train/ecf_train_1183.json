@@ -1,0 +1,104 @@
+{
+  "conversation_id": "ecf_train_1183",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Bob",
+      "text": "Hey ! How my pal Toby doing today ?",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Hey ! How my pal Toby doing today ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "If I see him , I will ask .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Bob",
+      "text": "Toby !",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_If I see him , I will ask .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "Yeah !",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Mr. Franklin",
+      "text": "Oh then you know each other .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Chandler",
+      "text": "We are on a semi ... first name basis .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Mr. Franklin",
+      "text": "What do you think of adding him to our team ?",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Chandler",
+      "text": "Bob ? Ooh , working here with us ? Everyday ? Yeah , I do not know if he has what it takes .",
+      "emotion": "surprise",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_Bob ? Ooh , working here with us ? Everyday ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Mr. Franklin",
+      "text": "Really ? They love him down on six .",
+      "emotion": "surprise",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "8_I do not know if he has what it takes .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Chandler",
+      "text": "But this is eleven . It is almost twice as hard up here .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1183,
+    "num_utterances": 10,
+    "num_emotion_pairs": 6
+  }
+}

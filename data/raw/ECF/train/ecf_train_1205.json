@@ -1,0 +1,52 @@
+{
+  "conversation_id": "ecf_train_1205",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Mona",
+      "text": "Oh my God ! Oh my God ! I am so sorry !",
+      "emotion": "sadness",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Aw forget it , it is from Pier One .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Dr. Green",
+      "text": "You think you can knock up my daughter and then not marry her ? ! I am gonna kill you ! !",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_You think you can knock up my daughter and then not marry her ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "You know this is actually not a great time for me .",
+      "emotion": "sadness",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_this is actually not a great time for me .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1205,
+    "num_utterances": 4,
+    "num_emotion_pairs": 3
+  }
+}

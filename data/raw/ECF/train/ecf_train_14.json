@@ -1,0 +1,245 @@
+{
+  "conversation_id": "ecf_train_14",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Well , maybe it is a contest , you know ? Like , collect all five ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "Does , um , anyone wanna see ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "All",
+      "text": "Nooo ...",
+      "emotion": "disgust",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "All",
+      "text": "Oh , hey , do not do that ! Cut it out !",
+      "emotion": "anger",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_do that",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "It is worse than the thumb !",
+      "emotion": "disgust",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_It is worse than the thumb !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Chandler",
+      "text": "Hey , this is so unfair !",
+      "emotion": "anger",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "14_... I accept all those flaws , why can not you accept me for this ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Monica",
+      "text": "Oh , why is it unfair ?",
+      "emotion": "surprise",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_why is it unfair ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Chandler",
+      "text": "So I have a flaw !",
+      "emotion": "anger",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "14_... I accept all those flaws , why can not you accept me for this ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Chandler",
+      "text": "Big deal !",
+      "emotion": "anger",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "14_... I accept all those flaws , why can not you accept me for this ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Chandler",
+      "text": "Like Joey constant knuckle ... cracking is not annoying ?",
+      "emotion": "anger",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "14_... I accept all those flaws , why can not you accept me for this ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Chandler",
+      "text": "And Ross , with his over ... pronouncing every single word ?",
+      "emotion": "anger",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "14_... I accept all those flaws , why can not you accept me for this ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Chandler",
+      "text": "And Monica , with that snort when she laughs ?",
+      "emotion": "anger",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "14_... I accept all those flaws , why can not you accept me for this ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Chandler",
+      "text": "I mean , what the hell is that thing ?",
+      "emotion": "disgust",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "14_... I accept all those flaws , why can not you accept me for this ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Chandler",
+      "text": "... I accept all those flaws , why can not you accept me for this ?",
+      "emotion": "anger",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "14_... I accept all those flaws , why can not you accept me for this ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Joey",
+      "text": "... Does the knuckle ... cracking bother everybody ?",
+      "emotion": "anger",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_... Does the knuckle ... cracking bother everybody ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Rachel",
+      "text": "Well , I ... I could live without it .",
+      "emotion": "neutral",
+      "timestamp": 37.5
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Joey",
+      "text": "Well , is it , like , a little annoying , or is it like when Phoebe chews her hair ?",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Ross",
+      "text": "Oh , now , do not listen to him , Pheebs , I think it is endearing .",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Joey",
+      "text": "Oh , \" you do , do you \" ?",
+      "emotion": "anger",
+      "timestamp": 45.0,
+      "emotion_cause": {
+        "utterance_id": "u19",
+        "span": "18_do not listen to him , Pheebs , I think it is endearing .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Ross",
+      "text": "You know , there is nothing wrong with speaking correctly .",
+      "emotion": "neutral",
+      "timestamp": 47.5
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "Rachel",
+      "text": "\" Indeed there is not \" ... I should really get back to work .",
+      "emotion": "neutral",
+      "timestamp": 50.0
+    },
+    {
+      "utterance_id": "u22",
+      "speaker": "Phoebe",
+      "text": "Yeah , cause otherwise someone might get what they actually ordered .",
+      "emotion": "neutral",
+      "timestamp": 52.5
+    },
+    {
+      "utterance_id": "u23",
+      "speaker": "Rachel",
+      "text": "Ohh ... ho ... hooohhh . The hair comes out , and the gloves come on .",
+      "emotion": "anger",
+      "timestamp": 55.0,
+      "emotion_cause": {
+        "utterance_id": "u23",
+        "span": "22_Yeah , cause otherwise someone might get what they actually ordered .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 14,
+    "num_utterances": 23,
+    "num_emotion_pairs": 41
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "conversation_id": "ecf_validation_804",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Hey Estelle , listen",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Estelle",
+      "text": "Well ! Well ! Well ! Joey Tribbiani ! So you came back huh ? They",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_Joey Tribbiani ! So you came back huh ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "What are you talkin about ? I never left you ! You have always been my agent !",
+      "emotion": "surprise",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Estelle",
+      "text": "Really ? !",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_I never left you ! You have always been my agent !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "Yeah !",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Estelle",
+      "text": "Oh well , no harm , no foul .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 804,
+    "num_utterances": 6,
+    "num_emotion_pairs": 2
+  }
+}

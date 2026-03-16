@@ -1,0 +1,64 @@
+{
+  "conversation_id": "ecf_train_908",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Great story again ! The yarns that you weave ! Woo ... hoo ... hoo !",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Great story again ! The yarns that you weave !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Dana",
+      "text": "You know uh , actually I ... I ... I should get going .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "Oh no ... no ... no ! Stay ! Stay ! Because you ... you should you ... you ... you should stay !",
+      "emotion": "fear",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_actually I ... I ... I should get going .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Dana",
+      "text": "Wow . Oh , I am really flattered , but I just I do not feel that way about you .",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_Stay ! Stay ! Because you ... you should you ... you ... you should stay !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Chandler",
+      "text": "Oh no ... no ... no , that is not ... No ... no ... no !",
+      "emotion": "fear",
+      "timestamp": 10.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 908,
+    "num_utterances": 5,
+    "num_emotion_pairs": 3
+  }
+}

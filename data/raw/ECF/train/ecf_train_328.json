@@ -1,0 +1,21 @@
+{
+  "conversation_id": "ecf_train_328",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Remember how you said you were really dense about poetry ? Oh .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 328,
+    "num_utterances": 1,
+    "num_emotion_pairs": 0
+  }
+}

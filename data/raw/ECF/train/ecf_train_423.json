@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_train_423",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Okay , and then this is the coffee house . This is where I play my music .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Vince",
+      "text": "Good deal .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_Good deal .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 423,
+    "num_utterances": 2,
+    "num_emotion_pairs": 2
+  }
+}

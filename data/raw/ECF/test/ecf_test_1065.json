@@ -1,0 +1,66 @@
+{
+  "conversation_id": "ecf_test_1065",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Tag",
+      "text": "Okay ! Feel free to look , but I am telling you those contracts are not on this desk .",
+      "emotion": "anger",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Oh how can you possibly know ? Look at this mess , Tag ! I mean , this is what I’m talking about ! You have to be organized ! You’ve got newspapers ! You’ve got magazines ! You got ... Ohh !",
+      "emotion": "anger",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_Look at this mess",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Tag",
+      "text": "It is my sister .",
+      "emotion": "joy",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "Okay , very cute braces . Anyway you know what , the point is Tag , start looking because you are going to find those contracts on your desk .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Tag",
+      "text": "So when do you imagine you gave them to me ? In the morning or in the afternoon ?",
+      "emotion": "anger",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_So when do you imagine you gave them to me ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "In the afternoon . Mr . Zelner came into my office after lunch . He put them on my desk , and then I put a Post ... It on it .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 1065,
+    "num_utterances": 6,
+    "num_emotion_pairs": 3
+  }
+}

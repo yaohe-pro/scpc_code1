@@ -1,0 +1,40 @@
+{
+  "conversation_id": "ecf_train_117",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Yes , Fran . I know what time it is , but I am looking at the WENUS and I am not happy !",
+      "emotion": "anger",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_the WENUS",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "Oh , really , really , really ? Well , let me tell you something ... you will care about it , because I care about it ! You got it ? Good !",
+      "emotion": "anger",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "Whooooaaaa ...",
+      "emotion": "disgust",
+      "timestamp": 5.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 117,
+    "num_utterances": 3,
+    "num_emotion_pairs": 1
+  }
+}

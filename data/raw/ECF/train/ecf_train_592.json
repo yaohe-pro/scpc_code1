@@ -1,0 +1,38 @@
+{
+  "conversation_id": "ecf_train_592",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "What the hell is this ? !",
+      "emotion": "surprise",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_What the hell is this ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "What , did you actually thought it would make me feel better to give me stuff that I can not use for another two months ? !",
+      "emotion": "anger",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_did you actually thought it would make me feel better to give me stuff that I can not use for another two months ? !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 592,
+    "num_utterances": 2,
+    "num_emotion_pairs": 2
+  }
+}

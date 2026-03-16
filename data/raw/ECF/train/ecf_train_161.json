@@ -1,0 +1,40 @@
+{
+  "conversation_id": "ecf_train_161",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "OK , we got the cole slaw , we got the buns ...",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "We have got the ground ... up flesh of formerly cute cows and turkeys , ew ...",
+      "emotion": "disgust",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_the ground ... up flesh of formerly cute cows and turkeys",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "Men are here .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 161,
+    "num_utterances": 3,
+    "num_emotion_pairs": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "conversation_id": "ecf_train_991",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Tag",
+      "text": "But I am not gay . And I especially would not want you to think I was gay .",
+      "emotion": "sadness",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_I especially would not want you to think I was gay .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 991,
+    "num_utterances": 1,
+    "num_emotion_pairs": 1
+  }
+}

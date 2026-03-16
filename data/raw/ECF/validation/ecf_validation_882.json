@@ -1,0 +1,76 @@
+{
+  "conversation_id": "ecf_validation_882",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "So honey this uh , this threesome thing umm , I mean how ... how are you gonna start to find",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Carol",
+      "text": "Ooh , actually I have been making a list of all the women I know who might be into doing this !",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_actually I have been making a list of all the women I know who might be into doing this !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "Oh . Wow ! Huh . Boy ! Well , someone been doing their homework .",
+      "emotion": "surprise",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_someone been doing their homework .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Carol",
+      "text": "Yeah . Ooh , and I know Gail Rosten is in there twice , but she is so ...",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "Oh , I know . You know , just ... just talking about it is getting me kinda",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_talking about it",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Carol",
+      "text": "Oh , me too .",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "5_talking about it",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 882,
+    "num_utterances": 6,
+    "num_emotion_pairs": 5
+  }
+}

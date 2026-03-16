@@ -1,0 +1,64 @@
+{
+  "conversation_id": "ecf_train_106",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Fireman No. 3",
+      "text": "We get off around midnight , why do not we pick you up then ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Okay . Great !",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_We get off around midnight , why do not we pick you up then ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "So , um , will you bring the truck ?",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_will you bring the truck ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Fireman No. 3",
+      "text": "I will even let you ring the bell .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "Whoa whoa !",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_I will even let you ring the bell .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 106,
+    "num_utterances": 5,
+    "num_emotion_pairs": 5
+  }
+}

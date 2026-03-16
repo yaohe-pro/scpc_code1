@@ -1,0 +1,77 @@
+{
+  "conversation_id": "ecf_test_348",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Leslie",
+      "text": "My best shoes , so good to me .",
+      "emotion": "joy",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Leslie",
+      "text": "I wear them everyday .",
+      "emotion": "joy",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Leslie",
+      "text": "Down at the heel , holes in the toes .",
+      "emotion": "joy",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Leslie",
+      "text": "Do not care what people say .",
+      "emotion": "joy",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Leslie",
+      "text": "My feet best friends , pals to the end .",
+      "emotion": "joy",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Leslie",
+      "text": "With them I am one hot chicky .",
+      "emotion": "joy",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Leslie",
+      "text": "Though late one night , not much light , I ...",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Phoebe",
+      "text": "I stepped in something icky .",
+      "emotion": "joy",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Phoebe and Leslie",
+      "text": "Sticky shoes , sticky shoes , always make me smile . Sticky shoes , sticky shoes , next time I will ... avoid the ... pillleeeee .",
+      "emotion": "joy",
+      "timestamp": 20.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 348,
+    "num_utterances": 9,
+    "num_emotion_pairs": 0
+  }
+}

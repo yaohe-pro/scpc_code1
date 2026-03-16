@@ -1,0 +1,76 @@
+{
+  "conversation_id": "ecf_train_1126",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Melissa",
+      "text": "anyway , his name is Allan and we have been going out for three years .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_we have been going out for three years .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Melissa",
+      "text": "He was my first client when I became a party planner .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Melissa",
+      "text": "He was planning a party for his girlfriend at the time .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Melissa",
+      "text": "Oh well .",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_He was planning a party for his girlfriend at the time .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Melissa",
+      "text": "And he was Theta Beta Pi at Syracuse .",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_he was Theta Beta Pi at Syracuse .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Oh . Oh , that is great !",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_that is great !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1126,
+    "num_utterances": 6,
+    "num_emotion_pairs": 5
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "conversation_id": "ecf_train_615",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Hey , Pheebs ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 615,
+    "num_utterances": 1,
+    "num_emotion_pairs": 0
+  }
+}

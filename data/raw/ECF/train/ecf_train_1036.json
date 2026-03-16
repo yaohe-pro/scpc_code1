@@ -1,0 +1,94 @@
+{
+  "conversation_id": "ecf_train_1036",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "Okay , I think we can get the evaluation back before they see it , but we are gonna have to get into Mr . Zelner office .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Now , he does not get in until 10 , so he is no problem , but his assistant , Betty , she comes in early to eat her breakfast at her desk .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Tag",
+      "text": "That is kinda sad .",
+      "emotion": "sadness",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_That is kinda sad .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "Yeah , well Betty is kinda sad . Which is why I believe I can lure her away with these chocolates . Now , while I distract her , you get in the office .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Tag",
+      "text": "Got it !",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_while I distract her , you get in the office .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Let roll !",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Mr. Zelner",
+      "text": "Hello Rachel , you uh , got a minute ?",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Rachel",
+      "text": "Yeah , sure Mr . Zelner , for you anything ... minute . Okay . Fine . Abort the plan , abort the plan .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Mr. Zelner",
+      "text": "Uh actually , I would like to speak with both of you .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Rachel",
+      "text": "Okay . Uh , well can we , can we get you anything Mr . Zelner ? Maybe some chocolates ?",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1036,
+    "num_utterances": 10,
+    "num_emotion_pairs": 3
+  }
+}

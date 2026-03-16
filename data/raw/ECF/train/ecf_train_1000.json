@@ -1,0 +1,61 @@
+{
+  "conversation_id": "ecf_train_1000",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Tag",
+      "text": "Hey Joey , you wanted to talk to me ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "I do not know . You uh , you got something for me ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Tag",
+      "text": "Oh , yeah , this is from Rachel .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "Ten . Okay . Now Tag there is such a thing as too many women .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Tag",
+      "text": "Really ?",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_there is such a thing as too many women .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "Yeah , for you !",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1000,
+    "num_utterances": 6,
+    "num_emotion_pairs": 1
+  }
+}

@@ -1,0 +1,35 @@
+# 模型配置
+model:
+  name: "gpt-4o"  # 或 "gemini-1.5-pro"
+  temperature_extraction: 0.0  # 提取阶段温度
+  temperature_critique: 0.7    # 批判阶段温度
+  max_tokens: 2000
+  context_window: 128000
+
+# 数据配置
+data:
+  dataset_path: "data/raw/ECF"
+  processed_path: "data/processed"
+  video_fps: 1  # 视频采样帧率
+  enable_audio: true
+  enable_video: true
+  max_conversation_length: 50  # 最大对话长度
+
+# 提示链配置
+scpc:
+  max_iterations: 2  # 最大反思迭代轮次（论文设定）
+  enable_critique: true  # 是否启用批判阶段
+  enable_refinement: true  # 是否启用精炼阶段
+
+# 运行模式配置
+runtime:
+  test_mode: true  # 默认测试模式，适合 GitHub 演示
+  force_mock: true  # 测试模式下强制使用 mock，不访问真实 API
+  test_max_conversations: 5  # 测试模式最多处理的对话数
+
+# 评估配置
+evaluation:
+  metrics: ["f1_weighted", "accuracy", "pair_f1"]
+  output_dir: "results"
+
+

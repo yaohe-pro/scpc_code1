@@ -1,0 +1,250 @@
+{
+  "conversation_id": "ecf_test_1064",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "You wanna go in the bedroom ? It is a little more comfortable .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_You wanna go in the bedroom ? It is a little more comfortable .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Tag",
+      "text": "Sure .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_You wanna go in the bedroom ? It is a little more comfortable .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "Okay . Oh wait ! Umm , did you send those contracts to Milan ?",
+      "emotion": "surprise",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_Sure .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Tag",
+      "text": "If this is your idea of sexy talk ?",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_If this is your idea of sexy talk ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "No seriously , you know the contracts I gave you , did you overnight them ?",
+      "emotion": "fear",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Tag",
+      "text": "What contracts ?",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Rachel",
+      "text": "Okay please tell me that this is just one of your jokes that you do that I do not get .",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_this is just one of your jokes that you do that I do not get .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Tag",
+      "text": "Like what ?",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Rachel",
+      "text": "You know , like the thing when you put the phone in your pants ?",
+      "emotion": "disgust",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_you put the phone in your pants",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Rachel",
+      "text": "Tag !",
+      "emotion": "anger",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "12_This is not funny !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Rachel",
+      "text": "I am serious !",
+      "emotion": "anger",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "12_This is not funny !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Rachel",
+      "text": "This is not funny !",
+      "emotion": "anger",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_This is not funny !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Rachel",
+      "text": "Those contracts absolutely had to go out today !",
+      "emotion": "fear",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Tag",
+      "text": "Rach , I am sorry , but you did not give me any contracts !",
+      "emotion": "surprise",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "14_you did not give me any contracts !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Rachel",
+      "text": "Yes I did ! And I put a little Post ... It on it that said , \" Must go out today , \" and underlined today three times and , and then I put a little heart in the corner because I didn’t want to seem too bossy .",
+      "emotion": "anger",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_Yes I did ! And I put a little Post ... It on it that said , \" Must go out today , \" and underlined today three times",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Tag",
+      "text": "I am telling you , you never gave them to me .",
+      "emotion": "neutral",
+      "timestamp": 37.5
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Rachel",
+      "text": "You know what Tag , if we went down to the office you would see those contracts sitting on your desk .",
+      "emotion": "anger",
+      "timestamp": 40.0,
+      "emotion_cause": {
+        "utterance_id": "u17",
+        "span": "17_if we went down to the office you would see those contracts sitting on your desk .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Tag",
+      "text": "No , I would see you looking embarrassed because they are not on my desk !",
+      "emotion": "anger",
+      "timestamp": 42.5,
+      "emotion_cause": {
+        "utterance_id": "u18",
+        "span": "18_they are not on my desk !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Rachel",
+      "text": "Or maybe you would see me looking embarrassed because you are talking on the phone with your crotch !",
+      "emotion": "disgust",
+      "timestamp": 45.0,
+      "emotion_cause": {
+        "utterance_id": "u19",
+        "span": "19_maybe you would see me looking embarrassed because you are talking on the phone with your crotch !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Tag",
+      "text": "You wanna go down to the office right now ?",
+      "emotion": "neutral",
+      "timestamp": 47.5
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "Rachel",
+      "text": "No ! Come on its late , we are not gonna go down to the office .",
+      "emotion": "neutral",
+      "timestamp": 50.0
+    },
+    {
+      "utterance_id": "u22",
+      "speaker": "Tag",
+      "text": "Okay I understand . I would not want to be proved wrong either .",
+      "emotion": "neutral",
+      "timestamp": 52.5
+    },
+    {
+      "utterance_id": "u23",
+      "speaker": "Rachel",
+      "text": "Okay get your coat ! Oh ! When did you unhook this ? Nice work !",
+      "emotion": "joy",
+      "timestamp": 55.0,
+      "emotion_cause": {
+        "utterance_id": "u23",
+        "span": "23_When did you unhook this ? Nice work !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 1064,
+    "num_utterances": 23,
+    "num_emotion_pairs": 26
+  }
+}

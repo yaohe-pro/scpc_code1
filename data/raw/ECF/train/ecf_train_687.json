@@ -1,0 +1,76 @@
+{
+  "conversation_id": "ecf_train_687",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Elizabeth",
+      "text": "Ross , umm , you have been in there for a long time . I am starting to get kinda freaked out .",
+      "emotion": "fear",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_you have been in there for a long time .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "All right , I am coming out .",
+      "emotion": "sadness",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_I am coming out .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "Hey , can you turn the lights off ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Elizabeth",
+      "text": "No , let just leave the lights on .",
+      "emotion": "fear",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_can you turn the lights off ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Elizabeth",
+      "text": "Oh my God !",
+      "emotion": "surprise",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "I had a problem .",
+      "emotion": "sadness",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_I had a problem .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 687,
+    "num_utterances": 6,
+    "num_emotion_pairs": 5
+  }
+}

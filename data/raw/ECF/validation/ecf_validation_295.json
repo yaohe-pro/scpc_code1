@@ -1,0 +1,21 @@
+{
+  "conversation_id": "ecf_validation_295",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "We should defiantly play football more often . Maybe there is a like league we could join or something .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 295,
+    "num_utterances": 1,
+    "num_emotion_pairs": 0
+  }
+}

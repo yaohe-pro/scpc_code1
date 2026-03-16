@@ -1,0 +1,92 @@
+{
+  "conversation_id": "ecf_validation_1186",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Bob",
+      "text": "Hey Toby !",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "Hey Bobby .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Bob",
+      "text": "It is Bob actually . Hey , you work up here , can you tell me where this Chandler",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "Uhh yeah . Yeah , it is right , right down there . Right there , yeah . Can I ask you why ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Bob",
+      "text": "I want to talk to that bastard , see what his problem is .",
+      "emotion": "anger",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Chandler",
+      "text": "Okay Bob listen uhh , I am the reason you did not get the job up here .",
+      "emotion": "sadness",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_I am the reason you did not get the job up here .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Bob",
+      "text": "Toby do not .",
+      "emotion": "sadness",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "6_I am the reason you did not get the job up here .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Chandler",
+      "text": "Bob !",
+      "emotion": "sadness",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "6_I am the reason you did not get the job up here .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Bob",
+      "text": "Toby ! I am not gonna let you cover for him . Anything you say right now will just get me more upset with Chandler !",
+      "emotion": "anger",
+      "timestamp": 20.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 1186,
+    "num_utterances": 9,
+    "num_emotion_pairs": 3
+  }
+}

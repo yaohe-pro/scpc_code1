@@ -1,0 +1,26 @@
+{
+  "conversation_id": "ecf_train_1274",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "All this stuff takes up a lot of room . Hey how uh , how serious are you about keeping Ben in your life ?",
+      "emotion": "disgust",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_All this stuff takes up a lot of room .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1274,
+    "num_utterances": 1,
+    "num_emotion_pairs": 1
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "conversation_id": "ecf_train_673",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Danny",
+      "text": "I had a really nice time tonight .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_I had a really nice time tonight .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "So did I . I am really glad Monica asked us out .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_Monica asked us out .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Danny",
+      "text": "I would love to ask you in , but uh , my sister visiting and I think she is asleep on the couch .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "You are sister ? You are sister asleep on the couch ? Ohhh ! I saw her with you on the subway and now she is asleep on the couch !",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_You are sister asleep on the couch ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Danny",
+      "text": "Oh hey , great , you are up . Rachel , this is my sister Krista . Krista , this is Rachel .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Hi !",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_Hi !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Krista",
+      "text": "Nice to meet you . I wish you would told me we were having company , I would fix myself up !",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_I wish you would told me we were having company , I would fix myself up !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Danny",
+      "text": "Like it would help .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 673,
+    "num_utterances": 8,
+    "num_emotion_pairs": 7
+  }
+}

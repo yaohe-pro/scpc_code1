@@ -1,0 +1,78 @@
+{
+  "conversation_id": "ecf_train_476",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chip",
+      "text": "You know where I work !",
+      "emotion": "surprise",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "I do ?",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_You know where I work !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chip",
+      "text": "The movie theatre , you used to come in all the time .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Monica",
+      "text": "You still work at the multiplex ?",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_You still work at the multiplex ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Chip",
+      "text": "Oh , like I would give up that job ! Free popcorn and candy , anytime I want . I can get you free posters for your room .",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_Free popcorn and candy , anytime I want .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Monica",
+      "text": "Thanks , I am set . Do you still live with your parents ?",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Chip",
+      "text": "Oh yeah , but I can stay out as late as I want .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 476,
+    "num_utterances": 7,
+    "num_emotion_pairs": 3
+  }
+}

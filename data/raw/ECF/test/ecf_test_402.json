@@ -1,0 +1,38 @@
+{
+  "conversation_id": "ecf_test_402",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joanna",
+      "text": "The only person that should feel awkward is you , and you did not tell him not to call me , did you ?",
+      "emotion": "anger",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_you did not tell him not to call me , did you ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joanna",
+      "text": "Because if you feel uncomfortable with your friend dating someone you work for , there are always ways to fix ... that .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_there are always ways to fix ... that .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 402,
+    "num_utterances": 2,
+    "num_emotion_pairs": 2
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "conversation_id": "ecf_train_179",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Bijan for men ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Bijan for ... Hey , Annabelle , Uh , listen , I was wondering if maybe after work you and I could go maybe grab a cup of coffee .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Annabelle",
+      "text": "Oh , actually I sorta have plans .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Hombre Man",
+      "text": "Ready , Annabelle ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Annabelle",
+      "text": "You bet . Maybe some other time ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "Hey , it is not the first time I lost a girl to a cowboy spraying cologne . Bijan for men ? Bijan for men ? !",
+      "emotion": "sadness",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_it is not the first time I lost a girl to a cowboy spraying cologne .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 179,
+    "num_utterances": 6,
+    "num_emotion_pairs": 1
+  }
+}

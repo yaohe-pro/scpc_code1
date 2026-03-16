@@ -1,0 +1,90 @@
+{
+  "conversation_id": "ecf_train_1074",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "No ... no wait ... wait ! I can not just let you hang up ! Just please talk to me .",
+      "emotion": "fear",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "3_you want to kill yourself",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Earl",
+      "text": "Well ... I only have one thing to do today . I guess I could push it back .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "Yeah ! Now , why do you want to kill yourself ?",
+      "emotion": "sadness",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_you want to kill yourself",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Earl",
+      "text": "It is just that I uh , have been working for ten years now at this meaningless , dead ... end job and nobody here even knows I exist !",
+      "emotion": "sadness",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_I uh , have been working for ten years now at this meaningless , dead ... end job and nobody here even knows I exist !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Phoebe",
+      "text": "Chandler ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Earl",
+      "text": "I ... I am sorry ?",
+      "emotion": "surprise",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Phoebe",
+      "text": "No look , I ... I am sure that people know you exist !",
+      "emotion": "sadness",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Earl",
+      "text": "Oh yeah ?",
+      "emotion": "sadness",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "7_I ... I am sure that people know you exist !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1074,
+    "num_utterances": 8,
+    "num_emotion_pairs": 4
+  }
+}

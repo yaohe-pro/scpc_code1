@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_test_166",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "C mon up .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "Behind my brother back ? ... is exactly the kind of crazy thing you will not be hearing from me .",
+      "emotion": "anger",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_Behind my brother back",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 166,
+    "num_utterances": 2,
+    "num_emotion_pairs": 1
+  }
+}

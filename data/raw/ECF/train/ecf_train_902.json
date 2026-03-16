@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_train_902",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "All right , well why do not I go out with an ex ... boyfriend and do Joey a favor ? !",
+      "emotion": "anger",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Hey , you wanna do Joey a favor , maybe you go out with Joey .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_you wanna do Joey a favor , maybe you go out with Joey .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 902,
+    "num_utterances": 2,
+    "num_emotion_pairs": 2
+  }
+}

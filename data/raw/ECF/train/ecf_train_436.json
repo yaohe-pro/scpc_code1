@@ -1,0 +1,52 @@
+{
+  "conversation_id": "ecf_train_436",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Pete",
+      "text": "Oh , one other thing . Hoshi thinks that you being ringside may have affected my concentration .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "Yeah . That ... that was the problem .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "Excuse me , Doug ? Hey there sports fan ! !",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_Hey there sports fan ! !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Doug",
+      "text": "Bing ! You got those numbers for me ?",
+      "emotion": "joy",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_You got those numbers for me",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 436,
+    "num_utterances": 4,
+    "num_emotion_pairs": 2
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "conversation_id": "ecf_train_333",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "Oh , um , I do not know if that is a good idea .",
+      "emotion": "joy",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Richard",
+      "text": "Oh . Look , just friends , I will not grope you . I promise .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Monica",
+      "text": "No , I just I think that it is too soon .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Richard",
+      "text": "No it is not too soon , I had lunch at a eleven .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 333,
+    "num_utterances": 4,
+    "num_emotion_pairs": 0
+  }
+}

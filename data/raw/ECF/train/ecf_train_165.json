@@ -1,0 +1,139 @@
+{
+  "conversation_id": "ecf_train_165",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "Hi .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Flight Attendant",
+      "text": "May I see your boarding pass ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "Oh , no , no , I do not have one . I just need to talk to my friend .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Flight Attendant",
+      "text": "Oh , oooh . I am sorry . You are not allowed on the jetway unless you have a boarding pass .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "No , I know , but I ... he just went on . He is right there , he is got the blue jacket on , I ... can I j ... just ...",
+      "emotion": "sadness",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_You are not allowed on the jetway unless you have a boarding pass .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Flight Attendant",
+      "text": "No no no ! Federal regulations !",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Rachel",
+      "text": "OK , alright , OK , um ... then could you please , uh ... just give him a message for me ? Please ? This is very important .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Flight Attendant",
+      "text": "Alright . What the message ?",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Rachel",
+      "text": "Uh ... I do not know .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Flight Attendant",
+      "text": "Sir ? Sir ? Excuse me , sir ? Uh ... I have a message for you .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Man",
+      "text": "What ?",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Flight Attendant",
+      "text": "It is from Rachel . She said that she loved the present , and she will see you when you get back .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Man",
+      "text": "What ?",
+      "emotion": "surprise",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "14_I do not know what she is talking about ! There is no Rachel !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Man",
+      "text": "Toby ... Oh , for God sake , I do not know what she is talking about ! There is no Rachel !",
+      "emotion": "surprise",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "14_I do not know what she is talking about ! There is no Rachel !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Man",
+      "text": "Do not give me that deep freeze .",
+      "emotion": "anger",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_give me that deep freeze .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 165,
+    "num_utterances": 15,
+    "num_emotion_pairs": 8
+  }
+}

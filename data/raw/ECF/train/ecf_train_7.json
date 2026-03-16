@@ -1,0 +1,99 @@
+{
+  "conversation_id": "ecf_train_7",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Mrs. Geller",
+      "text": "What that Rachel did to her life ... We ran into her parents at the club , they were not playing very well .",
+      "emotion": "sadness",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_What that Rachel did to her life ... We ran into her parents at the club , they were not playing very well .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Mr. Geller",
+      "text": "I am not gonna tell you what they spent on that wedding ... but forty thousand dollars is a lot of money !",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_what they spent on that wedding ... but forty thousand dollars is a lot of money !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Mrs. Geller",
+      "text": "Well , at least she had the chance to leave a man at the altar ...",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Monica",
+      "text": "What that supposed to mean ?",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_What that supposed to mean ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Mrs. Geller",
+      "text": "Nothing ! It is an expression .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Monica",
+      "text": "No it is not .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Mr. Geller",
+      "text": "Do not listen to your mother .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Mr. Geller",
+      "text": "You are independent , and you always have been !",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Mr. Geller",
+      "text": "Even when you were a kid ... and you were chubby , and you had no friends , you were just fine !",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Mr. Geller",
+      "text": "And you would read alone in your room , and your puzzles ...",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 7,
+    "num_utterances": 10,
+    "num_emotion_pairs": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "conversation_id": "ecf_train_178",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Bijan for men ? Bijan for men ? Bijan for men ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Annabelle",
+      "text": "Hey , Joey . So did you hear about the new guy ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 178,
+    "num_utterances": 2,
+    "num_emotion_pairs": 0
+  }
+}

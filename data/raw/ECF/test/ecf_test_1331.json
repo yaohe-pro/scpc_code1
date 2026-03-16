@@ -1,0 +1,235 @@
+{
+  "conversation_id": "ecf_test_1331",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "So you see , Molly , what people do not understand is that acting is a discipline . It takes a lot of hard work .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Molly",
+      "text": "So where did you study ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Oh , I did not go to college .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Molly",
+      "text": "No , where did you study acting ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "Molly ... people do not study acting ...",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "Molly , ah , do you mind giving us just a minute ?",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Molly",
+      "text": "Sure , I will go check on Emma .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ross",
+      "text": "Thanx .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Joey",
+      "text": "Will the stable boy never get the princess ? ?",
+      "emotion": "anger",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_Will the stable boy never get the princess ? ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Ross",
+      "text": "What do you think you are gonna do , have sex with her right here on my couch ?",
+      "emotion": "disgust",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_have sex with her right here on my couch ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Joey",
+      "text": "No ... the leather sticks to my ass .",
+      "emotion": "disgust",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_the leather sticks to my ass .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Joey",
+      "text": "You know , this is not fair .",
+      "emotion": "anger",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "13_What makes you think that I am just gonna sleep with her and then blow her off ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Joey",
+      "text": "What makes you think that I am just gonna sleep with her and then blow her off ?",
+      "emotion": "anger",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_What makes you think that I am just gonna sleep with her and then blow her off ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Joey",
+      "text": "Huh ?",
+      "emotion": "anger",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "13_What makes you think that I am just gonna sleep with her and then blow her off ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Joey",
+      "text": "Can not you guys open your minds to the possibility that I actally like her , and might want something real ?",
+      "emotion": "anger",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_Can not you guys open your minds to the possibility that I actally like her , and might want something real ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Joey",
+      "text": "Look , the truth is , I have not felt this way about anyone since Rachel , ok ?",
+      "emotion": "sadness",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "16_I have not felt this way about anyone since Rachel",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Joey",
+      "text": "I did not think I could ever love again .",
+      "emotion": "sadness",
+      "timestamp": 40.0,
+      "emotion_cause": {
+        "utterance_id": "u17",
+        "span": "17_I did not think I could ever love again .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Ross and Chandler",
+      "text": "Come on ! Joe !",
+      "emotion": "disgust",
+      "timestamp": 42.5,
+      "emotion_cause": {
+        "utterance_id": "u18",
+        "span": "17_I did not think I could ever love again .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Woman",
+      "text": "Hi , is Molly here ?",
+      "emotion": "neutral",
+      "timestamp": 45.0
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Ross",
+      "text": "Yeah , come on in . Molly ?",
+      "emotion": "neutral",
+      "timestamp": 47.5
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "Molly",
+      "text": "Hey ! Guys , this is Tabatha . I will see you tomorrow .",
+      "emotion": "joy",
+      "timestamp": 50.0,
+      "emotion_cause": {
+        "utterance_id": "u21",
+        "span": "21_Hey ! Guys , this is Tabatha .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u22",
+      "speaker": "Ross",
+      "text": "Ok ... Well , uh , Joey , I guess we have no problem .",
+      "emotion": "neutral",
+      "timestamp": 52.5
+    },
+    {
+      "utterance_id": "u23",
+      "speaker": "Joey",
+      "text": "It is like my favorite fairy tale come true ! The princess , the stable boy and the lesbian !",
+      "emotion": "surprise",
+      "timestamp": 55.0,
+      "emotion_cause": {
+        "utterance_id": "u23",
+        "span": "23_It is like my favorite fairy tale come true ! The princess , the stable boy and the lesbian !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 1331,
+    "num_utterances": 23,
+    "num_emotion_pairs": 15
+  }
+}

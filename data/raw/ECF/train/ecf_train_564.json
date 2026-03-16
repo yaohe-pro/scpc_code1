@@ -1,0 +1,87 @@
+{
+  "conversation_id": "ecf_train_564",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Emily",
+      "text": "I left a bra drying on the shower rod , you do not think your son will think it is yours and be horribly traumatised ?",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_I left a bra drying on the shower rod , you do not think your son will think it is yours and be horribly traumatised ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Hey , if mommy can have a wife , daddy can have a bra .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Emily",
+      "text": "Ohh , it is time to go .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "Oh , no ... no ... no , see , that ... that clock a little fast , uh , we have 17 minutes .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "Huh , what can we do in 17 minutes ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "Twice ?",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Emily",
+      "text": "Well that is ambitious .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ross",
+      "text": "Hey , uh , you can ignore that .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Emily",
+      "text": "That is Carol with your son !",
+      "emotion": "surprise",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_That is Carol with your son !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 564,
+    "num_utterances": 9,
+    "num_emotion_pairs": 3
+  }
+}

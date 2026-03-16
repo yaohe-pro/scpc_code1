@@ -1,0 +1,45 @@
+{
+  "conversation_id": "ecf_train_1228",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Yeah , okay let leave these two alone .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "No ! I do not care what my hormones are doing , I am not going to just do it with some random guy !",
+      "emotion": "disgust",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_do it with some random guy",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "Fine ! Then you tell Roger because he was really looking forward to this !",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_I do not care what my hormones are doing , I am not going to just do it with some random guy !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1228,
+    "num_utterances": 3,
+    "num_emotion_pairs": 2
+  }
+}

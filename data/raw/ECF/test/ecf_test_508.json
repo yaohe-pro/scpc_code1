@@ -1,0 +1,135 @@
+{
+  "conversation_id": "ecf_test_508",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Drew",
+      "text": "I did not think you were gay . I do now .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "See my friend ... my friend , Rachel , she wants to be set up .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Drew",
+      "text": "Ahh , I just got out of a big relationship , I am not looking for anything serious .",
+      "emotion": "sadness",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_I just got out of a big relationship",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "Oh , you know what , that might be okay even if it was just kind of a fling , that might be all right with Rachel .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Mike",
+      "text": "Whoa ... whoa ... whoa ... whoa ! Is this , hot Rachel , that you took to the Christmas party , Rachel ?",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_Is this , hot Rachel , that you took to the Christmas party , Rachel ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Chandler",
+      "text": "Oh , by the way , that is her full name .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Mike",
+      "text": "Oh wow ! I am free for her !",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_I am free for her !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Drew",
+      "text": "Oh , wait a second ! I did not say I was not free !",
+      "emotion": "surprise",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_I did not say I was not free !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Mike",
+      "text": "Hey , Chandler , why do not we talk this over at the Ranger game tomorrow ?",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Drew",
+      "text": "Hold on , you know I just got a box of Cubans , maybe I bring them by your office around uh , five ?",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Chandler",
+      "text": "Oh well , that is uh , a little later than I uh , generally care to stay , but sure !",
+      "emotion": "joy",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "10_I just got a box of Cubans , maybe I bring them by your office around uh , five ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Mike",
+      "text": "Maybe , before the game we could enjoy some eight year old some small batch Basel Hadens .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Chandler",
+      "text": "Well , I do not really know what that is , but let’s ! !",
+      "emotion": "joy",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "12_before the game we could enjoy some eight year old some small batch Basel Hadens .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 508,
+    "num_utterances": 13,
+    "num_emotion_pairs": 12
+  }
+}

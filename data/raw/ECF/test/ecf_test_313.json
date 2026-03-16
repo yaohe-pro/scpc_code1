@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_test_313",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "So , he is just a nice guy . You really think this Mark does not want anything in exchange for helping him ?",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_he is just a nice guy .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Well , I assume I will have to take showers with him , but you know , that is true of any job .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 313,
+    "num_utterances": 2,
+    "num_emotion_pairs": 1
+  }
+}

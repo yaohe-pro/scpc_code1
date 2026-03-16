@@ -1,0 +1,68 @@
+{
+  "conversation_id": "ecf_test_197",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "So , um , have you told your parents ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Duncan",
+      "text": "No , but it will be OK , they are pretty cool , my brother straight so ...",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "Here you go .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Phoebe",
+      "text": "You know what , I just have one more question , um , if you had figured this out sooner and um , I had been around , do you think that I would have been the one who ... ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Phoebe",
+      "text": "No , no . That is all right . Do not tell me , I do not think either answer would make me feel better . Here .",
+      "emotion": "sadness",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_I do not think either answer would make me feel better .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Duncan",
+      "text": "I love you Phoebe .",
+      "emotion": "joy",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Phoebe",
+      "text": "So your brother straight , huh ?",
+      "emotion": "joy",
+      "timestamp": 15.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 197,
+    "num_utterances": 7,
+    "num_emotion_pairs": 1
+  }
+}

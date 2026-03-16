@@ -1,0 +1,176 @@
+{
+  "conversation_id": "ecf_train_131",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Barry",
+      "text": "Sweetheart , just gimme ... gimme another chance , okay , we will start all over again . We will go back to Aruba .",
+      "emotion": "fear",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Bernice",
+      "text": "Dr . Farber , we have got a bit of an emergency here ... Jason Costalano is choking on his retainer .",
+      "emotion": "fear",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_we have got a bit of an emergency here ... Jason Costalano is choking on his retainer .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Barry",
+      "text": "Oh God ... I will be right there , Bernice .",
+      "emotion": "sadness",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_we have got a bit of an emergency here ... Jason Costalano is choking on his retainer .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Barry",
+      "text": "Look , please , please do not go anywhere , okay ?",
+      "emotion": "fear",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_please do not go anywhere",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "Okay .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Okay , we will be here ! Hating you !",
+      "emotion": "anger",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Rachel",
+      "text": "Did you see how he was sweating when he walked out of there ?",
+      "emotion": "surprise",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_he was sweating when he walked out of there",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Rachel",
+      "text": "Listen honey , if I am hogging the ball too much you just jump right in there and take a couple punches because I am telling you , this feels great .",
+      "emotion": "anger",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Mindy",
+      "text": "Yeah ... I am pretty sure I am still gonna marry him .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Rachel",
+      "text": "What are you talking about ? !",
+      "emotion": "surprise",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "11_the guy is the devil ! He is Satan in a smock !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Rachel",
+      "text": "Mindy , the guy is the devil ! He is Satan in a smock !",
+      "emotion": "disgust",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_the guy is the devil ! He is Satan in a smock !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Mindy",
+      "text": "Look , I know he is not perfect .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Mindy",
+      "text": "But the truth is , at the end of the day , I still really wanna be Mrs . Dr . Barry Farber , D . D . S .",
+      "emotion": "joy",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_I still really wanna be Mrs . Dr . Barry Farber , D . D . S .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Rachel",
+      "text": "Oh God .",
+      "emotion": "surprise",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "13_I still really wanna be Mrs . Dr . Barry Farber , D . D . S .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Mindy",
+      "text": "I hope you can find some way to be happy for me . And I hope you will still be my maid of honor .",
+      "emotion": "sadness",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "14_Oh God .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Rachel",
+      "text": "And I hope Barry does not kill you and eat you in Aruba .",
+      "emotion": "sadness",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "13_I still really wanna be Mrs . Dr . Barry Farber , D . D . S .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 131,
+    "num_utterances": 16,
+    "num_emotion_pairs": 15
+  }
+}

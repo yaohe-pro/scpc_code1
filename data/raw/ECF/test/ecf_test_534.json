@@ -1,0 +1,28 @@
+{
+  "conversation_id": "ecf_test_534",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Kathy",
+      "text": "Yeah .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "Yeah . Well , I think our second fight is going to be a big one !",
+      "emotion": "anger",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 534,
+    "num_utterances": 2,
+    "num_emotion_pairs": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "conversation_id": "ecf_train_1017",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Janice",
+      "text": "Oh . Oh I just cannot believe Clark stood me up !",
+      "emotion": "sadness",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Clark stood me up !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "He might still show up .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Janice",
+      "text": "Oh , what are you , stupid ? It is been three hours .",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_what are you , stupid ? It is been three hours .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Monica",
+      "text": "Is that all ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Janice",
+      "text": "I should just go on to happier things , okay ? Umm , why do not you tell about your lovely wedding ?",
+      "emotion": "sadness",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "1_Clark stood me up !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1017,
+    "num_utterances": 5,
+    "num_emotion_pairs": 5
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "conversation_id": "ecf_train_480",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "I have actually not heard of that .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Mr. Treeger",
+      "text": "Yeah , well your friends are in violation of it .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Mr. Treeger",
+      "text": "I have been a nice guy up until now , but uh , I do not need this grief .",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_I do not need this grief .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Mr. Treeger",
+      "text": "I am gonna call the landlord and tell him that Monica is illegally subletting here grandmother apartment .",
+      "emotion": "anger",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_Monica is illegally subletting here grandmother apartment .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Mr. Treeger",
+      "text": "Your friends are outta here pal .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "Why do not you tell me something I do not know !",
+      "emotion": "anger",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_Why do not you tell me something I do not know !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 480,
+    "num_utterances": 6,
+    "num_emotion_pairs": 5
+  }
+}

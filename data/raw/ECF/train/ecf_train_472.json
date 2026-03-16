@@ -1,0 +1,83 @@
+{
+  "conversation_id": "ecf_train_472",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "Not yet ! Not yet ! Not yet ! Not yet ! Not yet ! Not yet ! Not yet ! Not yet !",
+      "emotion": "fear",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Not yet ! Not yet ! Not yet ! Not yet ! Not yet ! Not yet ! Not yet ! Not yet !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Hello , Chip .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chip",
+      "text": "Hey , Rach ! How you doing ?",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_Hey , Rach !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "I am great ! I am great . I have got a great job at Bloomingdale’s , have wonderful friends , and even though I’m not seeing anyone right now , I’ve never felt better about myself .",
+      "emotion": "joy",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_I am great ! I am great . I have got a great job at Bloomingdale’s , have wonderful friends , and even though I’m not seeing anyone right now , I’ve never felt better about myself .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Chip",
+      "text": "So ah , Monica ready yet ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "She will be out in a second . So , Chip , how umm , Amy Welch ?",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Chip",
+      "text": "Amy Welch ? Wow ! I have not seen her since ... So , Monica about ready ?",
+      "emotion": "surprise",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_Amy Welch ? Wow ! I have not seen her since ...",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 472,
+    "num_utterances": 7,
+    "num_emotion_pairs": 5
+  }
+}

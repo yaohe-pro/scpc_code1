@@ -1,0 +1,28 @@
+{
+  "conversation_id": "ecf_train_430",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Everything gonna be all right . Okay , Dick ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Guru Saj",
+      "text": "Hello , I am Guru Saj ... Whoa ! ! That is supposed to be a duck right ? Cause otherwise , this is waaay out of my league .",
+      "emotion": "surprise",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 430,
+    "num_utterances": 2,
+    "num_emotion_pairs": 0
+  }
+}

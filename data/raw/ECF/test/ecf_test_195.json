@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_test_195",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "So um , so what up , you came to see me yesterday .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_you came to see me yesterday .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Duncan",
+      "text": "Oh , yeah , um , alright , I kinda need a divorce .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 195,
+    "num_utterances": 2,
+    "num_emotion_pairs": 1
+  }
+}

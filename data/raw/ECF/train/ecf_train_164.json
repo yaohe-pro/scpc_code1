@@ -1,0 +1,28 @@
+{
+  "conversation_id": "ecf_train_164",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Ni ... chou chi ... ma !",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Ross ! Excuse me , pardon me , excuse me ...",
+      "emotion": "surprise",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 164,
+    "num_utterances": 2,
+    "num_emotion_pairs": 0
+  }
+}

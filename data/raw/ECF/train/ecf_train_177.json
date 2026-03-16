@@ -1,0 +1,35 @@
+{
+  "conversation_id": "ecf_train_177",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Julie",
+      "text": "Rachel , do you have any muffins left ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Yeah , I forget which ones .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Julie",
+      "text": "Oh , you are busy , that is ok , I will get it . Anybody else want one ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 177,
+    "num_utterances": 3,
+    "num_emotion_pairs": 0
+  }
+}

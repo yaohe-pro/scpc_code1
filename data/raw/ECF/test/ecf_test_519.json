@@ -1,0 +1,130 @@
+{
+  "conversation_id": "ecf_test_519",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Well , how ... how come ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Tour Guide",
+      "text": "That is just the way it is .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "That is crazy .",
+      "emotion": "surprise",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_That is crazy .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Tour Guide",
+      "text": "Maybe it is crazy in a perfect world , a world without lab coats and blazers , but you not in a perfect world , you in a museum now .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Tour Guide",
+      "text": "See that scientist in the classes , he and I used to play together all the time in grade school , but now ...",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Tour Guide",
+      "text": "Peter ! Hey , Peter ! It’s me Rhonda ! From PS ... 129 !",
+      "emotion": "anger",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "5_he and I used to play together all the time in grade school , but now ...",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Tour Guide",
+      "text": "I shared my pudding with you , man !",
+      "emotion": "anger",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "5_he and I used to play together all the time in grade school , but now ...",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Tour Guide",
+      "text": "I gave you my Snack Pack !",
+      "emotion": "anger",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "5_he and I used to play together all the time in grade school , but now ...",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Tour Guide",
+      "text": "See , he pretend he don’t even hear me !",
+      "emotion": "anger",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "5_he and I used to play together all the time in grade school , but now ...",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Joey",
+      "text": "I ... I think everybody pretending they do not hear you .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Joey",
+      "text": "Anyway , look , I do not know about you and your jackets and your separate tables , but Ross is one of my best friends , and if I save him a seat , I am telling you , he will sit in it !",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Joey",
+      "text": "Ross ! Ross ! Over here , man ! I ... I saved you seat .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Ross",
+      "text": "That is okay , I am cool over here . I will catch up with you later , Joey .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 519,
+    "num_utterances": 13,
+    "num_emotion_pairs": 14
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "conversation_id": "ecf_train_68",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Susan",
+      "text": "Yeah , all the time . I want the baby to know my voice .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Do you uh , do you talk about me ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Susan",
+      "text": "Yeah , yeah , all the time .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "Really ?",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_Yeah , yeah , all the time .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Susan",
+      "text": "But um , we just refer to you as Bobo the Sperm Guy .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 68,
+    "num_utterances": 5,
+    "num_emotion_pairs": 2
+  }
+}

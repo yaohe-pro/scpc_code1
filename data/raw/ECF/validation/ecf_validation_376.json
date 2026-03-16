@@ -1,0 +1,106 @@
+{
+  "conversation_id": "ecf_validation_376",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Carol",
+      "text": "Hey , what are you doing here ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Well , oh just ah , I was just wondering , when you and I split up , did you get the tape that was half the last episode of",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Carol",
+      "text": "Ah yeah , but now it is Susan and me in Mexico and the hostages coming home .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "Where is Ben ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Carol",
+      "text": "He is sleeping .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "Ahh . Ooh , is this a ah , is this a bad time ?",
+      "emotion": "surprise",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Carol",
+      "text": "Umm , yeah , actually , Susan gonna be home any minute , it is kinda an anniversary .",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_Susan gonna be home any minute , it is kinda an anniversary .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ross",
+      "text": "Oh ! I thought you guys got married in uh , January ?",
+      "emotion": "surprise",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "7_it is kinda an anniversary .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Carol",
+      "text": "It is not that kind of anniversary .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Ross",
+      "text": "Ah ! Oh .",
+      "emotion": "surprise",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "9_It is not that kind of anniversary .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Carol",
+      "text": "Sooo ! ! Anyway ...",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 376,
+    "num_utterances": 11,
+    "num_emotion_pairs": 3
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "conversation_id": "ecf_train_1279",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Well I had a great time ! Learned how to bake , ate great food , that is the first A I have gotten since seventh grade , and I didn’t have to sleep with the teacher this time .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_I had a great time ! Learned how to bake , ate great food , that is the first A I have gotten since seventh grade , and I didn’t have to sleep with the teacher this time .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "Oh , look ! Acting for Beginners ! Want to feel good about yourself ?",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_look ! Acting for Beginners ! Want to feel good about yourself ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "What the hell !",
+      "emotion": "surprise",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_Want to feel good about yourself ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Monica",
+      "text": "Okay .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "The Acting Teacher",
+      "text": "All right , let start with some basics . Can anybody tell me what the difference between upstage and downstage is ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "Yeah , this was a stupid idea .",
+      "emotion": "sadness",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_this was a stupid idea .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1279,
+    "num_utterances": 6,
+    "num_emotion_pairs": 4
+  }
+}

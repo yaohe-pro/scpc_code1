@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_test_170",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "But we have not seen each other since then . Well I land in China , guess who in charge of the dig .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Julie ! Julie , is not that great ? I mean , is not that just kick ... you ... in ... the ... crotch , spit ... on ... your ... neck fantastic ?",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_Julie ! Julie , is not that great ?",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 170,
+    "num_utterances": 2,
+    "num_emotion_pairs": 2
+  }
+}

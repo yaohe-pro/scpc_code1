@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_train_221",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Listen , I am sorry I had to work tonight .",
+      "emotion": "sadness",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_I had to work tonight .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Oh , that is OK . You were worth the wait , and I do not just mean tonight .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 221,
+    "num_utterances": 2,
+    "num_emotion_pairs": 1
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "conversation_id": "ecf_train_1275",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Katie",
+      "text": "Well , the delivery went out to you and I realized they forgot this .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Ah , must have been fairly obvious since it was the only thing left in your store .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Katie",
+      "text": "Listen , to be honest , home deliveries are really a part of my job description .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "Oh .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Katie",
+      "text": "Oh uh ... I actually came here to ask you out .",
+      "emotion": "fear",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "Oh ! Wow ! Uh , yeah ! That sounds great . I am just gonna put this back in my pocket , pretend that didn’t happen .",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_That sounds great .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Katie",
+      "text": "Sure !",
+      "emotion": "joy",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Rachel",
+      "text": "Horny bitch . No ! You are a horny bitch ! Noooo ! You are the horny bitch ! No ! You are a horny bitch !",
+      "emotion": "anger",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_Horny bitch . No ! You are a horny bitch ! Noooo ! You are the horny bitch ! No ! You are a horny bitch !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1275,
+    "num_utterances": 8,
+    "num_emotion_pairs": 3
+  }
+}

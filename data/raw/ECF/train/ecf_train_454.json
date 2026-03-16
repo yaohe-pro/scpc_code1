@@ -1,0 +1,75 @@
+{
+  "conversation_id": "ecf_train_454",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe Sr.",
+      "text": "I am your mother .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "Ehh ?",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_I am your mother .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Oh , and then Monica joked that she would not go out with a guy like Chandler ...",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "Hi there .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "... and he could not let it go , and ... I do not really know what happened with that either .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "And then Ross new girlfriend , Bonnie , shows up and Rachel convinced her to save her head .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "And then Ross and Rachel kiss , and now Ross has to choose between Rachel and the bald girl and I do not know what happened there either ...",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Joey",
+      "text": "You know what , hold on , let me go get Chandler .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 454,
+    "num_utterances": 8,
+    "num_emotion_pairs": 1
+  }
+}

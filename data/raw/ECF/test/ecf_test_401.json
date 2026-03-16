@@ -1,0 +1,88 @@
+{
+  "conversation_id": "ecf_test_401",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joanna",
+      "text": "Did he call ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "No . Sorry .",
+      "emotion": "sadness",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_No",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joanna",
+      "text": "Why ? ! Why ? ! He said he would call . Why has not he called ?",
+      "emotion": "surprise",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_He said he would call . Why has not he called ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Sophie",
+      "text": "Maybe he is intimated by really smart , strong , successful women .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joanna",
+      "text": "Sophie , would you please climb out of my butt . Why has not he called , Rachel ? Why ?",
+      "emotion": "anger",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_would you please climb out of my butt . Why has not he called",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Okay , okay . Umm , well ah , maybe he , maybe he feels awkward because you are my boss .",
+      "emotion": "fear",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "5_Why has not he called , Rachel ? Why ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joanna",
+      "text": "Awkward ? Why should he feel awkward ?",
+      "emotion": "surprise",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_Why should he feel awkward ?",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 401,
+    "num_utterances": 7,
+    "num_emotion_pairs": 10
+  }
+}

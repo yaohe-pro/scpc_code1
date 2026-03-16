@@ -1,0 +1,215 @@
+{
+  "conversation_id": "ecf_train_429",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Pete",
+      "text": "Lights . Uh , romantic lights .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "Ooh , nice .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_romantic lights .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Pete",
+      "text": "So ah , there was this thing I wanted to talk to you about .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Monica",
+      "text": "Oh , right ! I completely forgot about that .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Pete",
+      "text": "Well ah , I have been doing a lot of thinking , and I look at my life",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Monica",
+      "text": "Yeah ?",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Pete",
+      "text": "And I feel like I have conquered the business world , and I feel like I have conquered the intellectual world , and now I ... I have the most beautiful woman in the world .",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_I feel like I have conquered the business world , and I feel like I have conquered the intellectual world , and now I ... I have the most beautiful woman in the world .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Monica",
+      "text": "Wow .",
+      "emotion": "surprise",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "7_now I ... I have the most beautiful woman in the world .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Pete",
+      "text": "There is one thing missing .",
+      "emotion": "sadness",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_There is one thing missing .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Monica",
+      "text": "What that ?",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Pete",
+      "text": "It is time for me to conquer the physical world .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Monica",
+      "text": "Okay .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Pete",
+      "text": "Monica , I want to become the Ultimate Fighting Champion .",
+      "emotion": "neutral",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Monica",
+      "text": "You wanna what ? !",
+      "emotion": "surprise",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "13_I want to become the Ultimate Fighting Champion .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Pete",
+      "text": "I want to become the Ultimate Fighting Champion ! It is the most intense physical competition in the world , it is banned in 49 states !",
+      "emotion": "joy",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_I want to become the Ultimate Fighting Champion ! It is the most intense physical competition in the world , it is banned in 49 states !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Monica",
+      "text": "What are you talking about ?",
+      "emotion": "surprise",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "15_I want to become the Ultimate Fighting Champion ! It is the most intense physical competition in the world , it is banned in 49 states !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Pete",
+      "text": "Okay , my trainer , Ho Chi , is teaching me a combination of Gee Koon Doe and Brazilian street fighting , I have even had my own octagon training ring designed .",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Monica",
+      "text": "And I suppose you used a ring designer for that .",
+      "emotion": "sadness",
+      "timestamp": 42.5,
+      "emotion_cause": {
+        "utterance_id": "u18",
+        "span": "18_you used a ring designer for that .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Pete",
+      "text": "Yeah .",
+      "emotion": "neutral",
+      "timestamp": 45.0
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Pete",
+      "text": "Monica , I want you there in the front row when I win .",
+      "emotion": "neutral",
+      "timestamp": 47.5
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "Pete",
+      "text": "I want you close enough to smell the blood .",
+      "emotion": "neutral",
+      "timestamp": 50.0
+    },
+    {
+      "utterance_id": "u22",
+      "speaker": "Pete",
+      "text": "What do you think ?",
+      "emotion": "neutral",
+      "timestamp": 52.5
+    },
+    {
+      "utterance_id": "u23",
+      "speaker": "Monica",
+      "text": "My parents will be so happy .",
+      "emotion": "joy",
+      "timestamp": 55.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 429,
+    "num_utterances": 23,
+    "num_emotion_pairs": 8
+  }
+}

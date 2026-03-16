@@ -1,0 +1,40 @@
+{
+  "conversation_id": "ecf_test_1262",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Mike",
+      "text": "Go ahead .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Mike",
+      "text": "This works with any milk carton .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Wow , it is easy . Now , I can have milk everyday .",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_it is easy . Now , I can have milk everyday .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 1262,
+    "num_utterances": 3,
+    "num_emotion_pairs": 1
+  }
+}

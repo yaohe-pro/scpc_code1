@@ -1,0 +1,21 @@
+{
+  "conversation_id": "ecf_train_950",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "You know I gotta tell you , sometimes I just ... I do not get Chandler .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 950,
+    "num_utterances": 1,
+    "num_emotion_pairs": 0
+  }
+}

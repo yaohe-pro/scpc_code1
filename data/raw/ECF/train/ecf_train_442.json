@@ -1,0 +1,26 @@
+{
+  "conversation_id": "ecf_train_442",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "Would you look at them . Am I ever gonna find a boyfriend again ? I gonna die an old maid .",
+      "emotion": "sadness",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Am I ever gonna find a boyfriend again ? I gonna die an old maid",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 442,
+    "num_utterances": 1,
+    "num_emotion_pairs": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_train_680",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Oh hey ! There is some kids playing in the street , you wanna go down there and give them a project , ruin their day ?",
+      "emotion": "anger",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_There is some kids playing in the street , you wanna go down there and give them a project , ruin their day ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Hey , if they have a ball maybe you can stick razor blades in it and teach them a new game , Gonna Need Stitches Ball .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 680,
+    "num_utterances": 2,
+    "num_emotion_pairs": 1
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "conversation_id": "ecf_train_94",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Ma ! What are you doing here ?",
+      "emotion": "surprise",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Ma ! What are you doing here ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Mrs. Tribbiani",
+      "text": "I came to give you this and this .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Oww ! Big ring !",
+      "emotion": "surprise",
+      "timestamp": 5.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 94,
+    "num_utterances": 3,
+    "num_emotion_pairs": 1
+  }
+}

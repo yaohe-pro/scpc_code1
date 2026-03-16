@@ -1,0 +1,222 @@
+{
+  "conversation_id": "ecf_train_453",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "I am sorry .",
+      "emotion": "sadness",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe Sr",
+      "text": "What are you doing here ? !",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_What are you doing here ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "I ... I , came to fill your ice cube trays .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Phoebe Sr",
+      "text": "What ? !",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_I ... I , came to fill your ice cube trays .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Phoebe",
+      "text": "Umm , okay , okay , look .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Phoebe",
+      "text": "I took this picture from your fridge .",
+      "emotion": "anger",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Phoebe",
+      "text": "Okay , because I know that this is my Father .",
+      "emotion": "anger",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Phoebe",
+      "text": "Yeah , this is Frank Buffay and you are standing right there next to him .",
+      "emotion": "anger",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Phoebe",
+      "text": "Now , look I deserve to know where I came from .",
+      "emotion": "anger",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Phoebe",
+      "text": "All right ?",
+      "emotion": "anger",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Phoebe",
+      "text": "So if you can help me find my Father then you should !",
+      "emotion": "anger",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Phoebe",
+      "text": "Otherwise , you are just mean !",
+      "emotion": "anger",
+      "timestamp": 27.5
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Phoebe",
+      "text": "So , just tell me the truth !",
+      "emotion": "anger",
+      "timestamp": 30.0
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Phoebe Sr",
+      "text": "All right , the man in the picture is Chuck Magioni .",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Phoebe",
+      "text": "My Father is Chuck Magioni ?",
+      "emotion": "surprise",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_My Father is Chuck Magioni",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Phoebe Sr",
+      "text": "No , no , that is just Chuck Magioni , I ... I sold him a house last year !",
+      "emotion": "surprise",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "16_No , no , that is just Chuck Magioni",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Phoebe Sr",
+      "text": "And I am very sorry , but I do not know where your Father is , and that is the truth .",
+      "emotion": "sadness",
+      "timestamp": 40.0,
+      "emotion_cause": {
+        "utterance_id": "u17",
+        "span": "17_I do not know where your Father is",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Phoebe",
+      "text": "Oh .",
+      "emotion": "sadness",
+      "timestamp": 42.5,
+      "emotion_cause": {
+        "utterance_id": "u18",
+        "span": "17_I do not know where your Father is",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Phoebe Sr",
+      "text": "But umm , you are right .",
+      "emotion": "neutral",
+      "timestamp": 45.0
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Phoebe Sr",
+      "text": "I think that a person should know where they come from .",
+      "emotion": "neutral",
+      "timestamp": 47.5
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "Phoebe Sr",
+      "text": "Wh ... which is why I ah , ahh , okay .",
+      "emotion": "neutral",
+      "timestamp": 50.0
+    },
+    {
+      "utterance_id": "u22",
+      "speaker": "Phoebe Sr",
+      "text": "I am your mother .",
+      "emotion": "neutral",
+      "timestamp": 52.5
+    },
+    {
+      "utterance_id": "u23",
+      "speaker": "Phoebe",
+      "text": "Heh ?",
+      "emotion": "surprise",
+      "timestamp": 55.0,
+      "emotion_cause": {
+        "utterance_id": "u23",
+        "span": "22_I am your mother .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u24",
+      "speaker": "Phoebe Sr",
+      "text": "You know I wanted to tell you yesterday , but I just , I kinda felt all floopy , and ...",
+      "emotion": "sadness",
+      "timestamp": 57.5,
+      "emotion_cause": {
+        "utterance_id": "u24",
+        "span": "24_I wanted to tell you yesterday , but I just , I kinda felt all floopy",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 453,
+    "num_utterances": 24,
+    "num_emotion_pairs": 9
+  }
+}

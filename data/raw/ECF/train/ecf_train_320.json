@@ -1,0 +1,26 @@
+{
+  "conversation_id": "ecf_train_320",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Well , if the magician can open my beer with his but cheeks , then all right .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_if the magician can open my beer with his but cheeks",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 320,
+    "num_utterances": 1,
+    "num_emotion_pairs": 1
+  }
+}

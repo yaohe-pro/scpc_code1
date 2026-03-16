@@ -1,0 +1,21 @@
+{
+  "conversation_id": "ecf_train_810",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "The Director",
+      "text": "Action !",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 810,
+    "num_utterances": 1,
+    "num_emotion_pairs": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "conversation_id": "ecf_validation_322",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Jeannine",
+      "text": "All right , I just got changed in thirty seconds so you can be alone with him . You would better go for it .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "Please , I am not going for anything .",
+      "emotion": "disgust",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_You would better go for it .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Jeannine",
+      "text": "Well , if you do not , I will .",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_I am not going for anything .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Monica",
+      "text": "Would you please go ?",
+      "emotion": "joy",
+      "timestamp": 7.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 322,
+    "num_utterances": 4,
+    "num_emotion_pairs": 2
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "conversation_id": "ecf_test_512",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "Hey , Joey , could you pass the cheese ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Listen uh , I would prefer it if you did not call me Joey .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Since I do not know anyone here , I thought it might be fun to try out a cool work nickname .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "A Waiter",
+      "text": "Hey , dragon ! Here is your tips from Monday and Tuesday .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "There is like ... there is like 300 bucks in this one !",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_There is like ... there is like 300 bucks in this one !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "The Waiter",
+      "text": "Yeah , people get pretty generous around the holidays . And it never hurts to wear tight trousers .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Monica",
+      "text": "Could the waiters gather around to hear tonight specials ?",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Monica",
+      "text": "Okay , first there is a Chilean Sea Bass prepared with a Mango relish on a bag ... Why is nobody writing these down ?",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "The Waiter",
+      "text": "Because we can remember them .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Monica",
+      "text": "Because your all gonna make up fake specials and make me cook them like you did the other night ?",
+      "emotion": "anger",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_your all gonna make up fake specials and make me cook them like you did the other night ?",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 512,
+    "num_utterances": 10,
+    "num_emotion_pairs": 4
+  }
+}

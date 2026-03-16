@@ -1,0 +1,40 @@
+{
+  "conversation_id": "ecf_test_452",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Ow ! My ass . Okay . Okay . Oh , shhh !",
+      "emotion": "anger",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "No ! No ! ! It is me ! It is me ! I ... I did not want to make any noise !",
+      "emotion": "fear",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe Sr",
+      "text": "Then do not break in ! !",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_break in",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 452,
+    "num_utterances": 3,
+    "num_emotion_pairs": 1
+  }
+}

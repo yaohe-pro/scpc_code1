@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_train_1138",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Helena",
+      "text": "Hello darlings .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "And there is daddy !",
+      "emotion": "disgust",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_And there is daddy !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1138,
+    "num_utterances": 2,
+    "num_emotion_pairs": 1
+  }
+}

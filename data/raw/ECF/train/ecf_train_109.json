@@ -1,0 +1,47 @@
+{
+  "conversation_id": "ecf_train_109",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Woman",
+      "text": "Chandler .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "Mrs . Tedlock . You are looking lovely today . And may I say , that is a very flattering sleeve length on you .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Mrs. Tedlock",
+      "text": "Yes . Well , Mr . Kostelick wants you to stop by his office at the end of the day .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "Oh , listen . If this is about those prank memos , I had nothing to do with them . Really . Nothing at all . Really . Nothing .",
+      "emotion": "fear",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_If this is about those prank memos",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 109,
+    "num_utterances": 4,
+    "num_emotion_pairs": 2
+  }
+}

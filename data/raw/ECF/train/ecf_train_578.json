@@ -1,0 +1,40 @@
+{
+  "conversation_id": "ecf_train_578",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Are you kidding me ? ! Joey . Joey ! Joey ! Joey ! Joey ! Joey ! Joey ! Joey ! Joey ! Joey ! !",
+      "emotion": "anger",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Joey . Joey . Joey . Joey ! Joey ! !",
+      "emotion": "joy",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "Oh . Oh , did ... did ... did I wake you ?",
+      "emotion": "surprise",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_did ... did ... did I wake you ?",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 578,
+    "num_utterances": 3,
+    "num_emotion_pairs": 1
+  }
+}

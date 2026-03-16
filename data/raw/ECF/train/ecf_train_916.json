@@ -1,0 +1,95 @@
+{
+  "conversation_id": "ecf_train_916",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Elizabeth",
+      "text": "Oh good .",
+      "emotion": "joy",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Look , I ... Look , I am having a great time with you and I just do not want us to move to fast or put to much pressure on us .",
+      "emotion": "fear",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_I just do not want us to move to fast or put to much pressure on us .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "So , I am sorry I just do not think we should go away together yet .",
+      "emotion": "sadness",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_I just do not think we should go away together yet .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "It is ... it is too soon .",
+      "emotion": "sadness",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_It is ... it is too soon .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Elizabeth",
+      "text": "Ross , I think you misunderstood what I was saying . I just wanted to tell you that I am going to Florida for a couple weeks .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "No . I think you misunderstood what I was saying .",
+      "emotion": "surprise",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "5_I think you misunderstood what I was saying . I just wanted to tell you that I am going to Florida for a couple weeks .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Elizabeth",
+      "text": "You are so adorable .",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_You are so adorable .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ross",
+      "text": "That ! Let talk about that .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 916,
+    "num_utterances": 8,
+    "num_emotion_pairs": 6
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "conversation_id": "ecf_train_1252",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Oh hello .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Oh hello .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Guy",
+      "text": "Oh , it is you . I see you everywhere . I am Jim , Jim Nelson .",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_it is you . I see you everywhere .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "Oh Jim , Jim Nelson I am Phoebe , Phoebe Buffay . We certainly have been seeing a lot of each other lately .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Jim",
+      "text": "We have . Maybe we will be seeing each other at dinner tomorrow night , say around 8 o clock ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Phoebe",
+      "text": "Well , maybe we will . Oh !",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_Maybe we will be seeing each other at dinner tomorrow night , say around 8 o clock ?",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1252,
+    "num_utterances": 5,
+    "num_emotion_pairs": 3
+  }
+}

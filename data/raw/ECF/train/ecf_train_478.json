@@ -1,0 +1,134 @@
+{
+  "conversation_id": "ecf_train_478",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "Oh ! Hey , Mr . Treeger .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Hey , Mr . Treeger .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Mr. Treeger",
+      "text": "What are you doing ?",
+      "emotion": "anger",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "4_You are clogging up the chute that I spent a half ... hour unclogging !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "Ummm . Oh ! I am sorry . It is a little old but ...",
+      "emotion": "fear",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_What are you doing ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Mr. Treeger",
+      "text": "No ! You are clogging up the chute that I spent a half ... hour unclogging !",
+      "emotion": "anger",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_You are clogging up the chute that I spent a half ... hour unclogging !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "I am sorry . I did not ... I do not come in here a lot .",
+      "emotion": "sadness",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_You are clogging up the chute that I spent a half ... hour unclogging !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Mr. Treeger",
+      "text": "Oh yeah , of course you do not !",
+      "emotion": "anger",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "4_You are clogging up the chute that I spent a half ... hour unclogging !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Mr. Treeger",
+      "text": "Cause you are a little princess ! \" Daddy , buy me a pizza . Daddy , buy me a candy factory . Daddy , make the cast of Cats sing Happy Birthday to me ... \"",
+      "emotion": "disgust",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "4_You are clogging up the chute that I spent a half ... hour unclogging !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Mr. Treeger",
+      "text": "You think you could come here make a mess and the big man in coveralls will come in here and clean it up , huh ?",
+      "emotion": "anger",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "4_You are clogging up the chute that I spent a half ... hour unclogging !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Mr. Treeger",
+      "text": "Well , why do not think of someone else for a change ?",
+      "emotion": "anger",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "4_You are clogging up the chute that I spent a half ... hour unclogging !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Rachel",
+      "text": "Okay , I am sorry .",
+      "emotion": "sadness",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "9_why do not think of someone else for a change ?",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 478,
+    "num_utterances": 10,
+    "num_emotion_pairs": 13
+  }
+}

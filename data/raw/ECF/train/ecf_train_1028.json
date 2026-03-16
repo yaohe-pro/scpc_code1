@@ -1,0 +1,28 @@
+{
+  "conversation_id": "ecf_train_1028",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Hey ! What are you guys doing ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "Making holiday candy for the neighbors .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1028,
+    "num_utterances": 2,
+    "num_emotion_pairs": 0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "conversation_id": "ecf_train_1367",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Then we have to await the data from recent MRI scans and DNA testing which call into question information gathered from years of simple carbon dating .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Look at that woman sitting by the pool getting tan ... so leathery and wrinkled , I am so jealous !",
+      "emotion": "sadness",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1367,
+    "num_utterances": 2,
+    "num_emotion_pairs": 0
+  }
+}

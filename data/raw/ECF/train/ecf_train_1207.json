@@ -1,0 +1,38 @@
+{
+  "conversation_id": "ecf_train_1207",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "I can not believe there is a naked hooker in there !",
+      "emotion": "surprise",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_there is a naked hooker in there !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Wait ! Wait ! Maybe she is a hooker and a stripper .",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_Maybe she is a hooker and a stripper .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1207,
+    "num_utterances": 2,
+    "num_emotion_pairs": 2
+  }
+}

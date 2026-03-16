@@ -1,0 +1,222 @@
+{
+  "conversation_id": "ecf_train_427",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "I am telling you , if you want to take care of that thing , you should go to my herbal guy .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Thank you , but I want to remove it Pheebs . I do not want to make it savory .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Monica",
+      "text": "You know when girls sleep with guys with weird things on their body , they tell their friends about it .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "Gimme this .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "Hi ! Okay , do not be mad at me , but I could not resist .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Monica",
+      "text": "Brides magazines ?",
+      "emotion": "surprise",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_Brides magazines ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Rachel",
+      "text": "Yes , and I know that you would say no if he asked you , but I am sorry , how great would you look walking down the aisle in this Donna Carin ?",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Phoebe",
+      "text": "Oh , you so would ! Oh , you should get that anyway . Like for clubbing .",
+      "emotion": "surprise",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_you so would !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Monica",
+      "text": "It is so weird , I know what I said , but uh , this morning , I was lying in bed I was , I was imagining what it would be like to say yes .",
+      "emotion": "joy",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_this morning , I was lying in bed I was , I was imagining what it would be like to say yes .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Monica",
+      "text": "I know it is a little sudden , and it is a little rushed , and it is totally not like me to do something like this , but that does not mean I can not .",
+      "emotion": "joy",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "12_I am ... I am crazy about Pete , and I know that we want the same things , and when I thought about saying yes",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Monica",
+      "text": "Right ?",
+      "emotion": "joy",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Monica",
+      "text": "I mean I am ... I am crazy about Pete , and I know that we want the same things , and when I thought about saying yes , it made me really happy .",
+      "emotion": "joy",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_I am ... I am crazy about Pete , and I know that we want the same things , and when I thought about saying yes",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Rachel",
+      "text": "Oh my God .",
+      "emotion": "surprise",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "12_when I thought about saying yes , it made me really happy .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Monica",
+      "text": "I know . I need more pie .",
+      "emotion": "neutral",
+      "timestamp": 32.5
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Phoebe",
+      "text": "Hey Mon umm , if you do get married , can I bring two guests ?",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Rachel",
+      "text": "You did not break up with that fireman ?",
+      "emotion": "surprise",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "16_You did not break up with that fireman ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Phoebe",
+      "text": "No , that was my way of telling you .",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Phoebe",
+      "text": "Well , it turns out he is incredibly sensitive , he keeps a journal and he paints .",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Phoebe",
+      "text": "He even showed me charcoal drawings that he drew of me .",
+      "emotion": "neutral",
+      "timestamp": 45.0
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Rachel",
+      "text": "Wow !",
+      "emotion": "surprise",
+      "timestamp": 47.5,
+      "emotion_cause": {
+        "utterance_id": "u20",
+        "span": "19_He even showed me charcoal drawings that he drew of me .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "Phoebe",
+      "text": "Yeah , well he would prefer water colors , but you know , he has easy access to a lot of charcoal .",
+      "emotion": "neutral",
+      "timestamp": 50.0
+    },
+    {
+      "utterance_id": "u22",
+      "speaker": "Monica",
+      "text": "So then , are you going to dump Jason ?",
+      "emotion": "neutral",
+      "timestamp": 52.5
+    },
+    {
+      "utterance_id": "u23",
+      "speaker": "Phoebe",
+      "text": "Well , yeah , because I have to break up with someone , and ... Okay so Jason is sensitive , but now so Vince Plus , Vince has the body you know ?",
+      "emotion": "neutral",
+      "timestamp": 55.0
+    },
+    {
+      "utterance_id": "u24",
+      "speaker": "Phoebe",
+      "text": "So ... It is really just about the math .",
+      "emotion": "neutral",
+      "timestamp": 57.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 427,
+    "num_utterances": 24,
+    "num_emotion_pairs": 10
+  }
+}

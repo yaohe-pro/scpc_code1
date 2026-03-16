@@ -1,0 +1,101 @@
+{
+  "conversation_id": "ecf_test_327",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Director",
+      "text": "Ah Joey .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Director",
+      "text": "Joey Tribbiani .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Director",
+      "text": "Listen Joey , I got a problem , I just got a call from my dance captain , he is having a relationship crisis and can not get out of Long Island .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "So , does that mean the audition is off ?",
+      "emotion": "sadness",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_the audition is off",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Director",
+      "text": "Listen Joey , seeing as you have got the most experience , I want you to take these dancers and show them the combination .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "What ? !",
+      "emotion": "surprise",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "5_I want you to take these dancers and show them the combination .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Director",
+      "text": "Aw come on Joey , it is easy .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Director",
+      "text": "You know , it is hand , hand , head , head , up , pas de bouree , pas de bouree , big turn here , grand sissone , sissone , sissone , slide back , step , step , step , and jazz hands !",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Joey",
+      "text": "It is ah , step ... ity , step and jazz hands .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Director",
+      "text": "Have fun .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Joey",
+      "text": "Bye .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 327,
+    "num_utterances": 11,
+    "num_emotion_pairs": 2
+  }
+}

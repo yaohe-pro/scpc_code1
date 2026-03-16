@@ -1,0 +1,38 @@
+{
+  "conversation_id": "ecf_train_306",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "I am , I am sorry you did not get to go to Spacecamp , and I am hoping that maybe somehow , this may make up for it .",
+      "emotion": "sadness",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_you did not get to go to Spacecamp",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Presenting Sarah Tuttle Private Very Special Spacecamp !",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_Presenting Sarah Tuttle Private Very Special Spacecamp !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 306,
+    "num_utterances": 2,
+    "num_emotion_pairs": 2
+  }
+}

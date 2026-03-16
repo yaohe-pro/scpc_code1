@@ -1,0 +1,21 @@
+{
+  "conversation_id": "ecf_train_605",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Well , because we thought you knew ! ! It is so obvious ! God , that would be like telling Monica , \" Hey , you like things clean . \"",
+      "emotion": "surprise",
+      "timestamp": 0.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 605,
+    "num_utterances": 1,
+    "num_emotion_pairs": 0
+  }
+}

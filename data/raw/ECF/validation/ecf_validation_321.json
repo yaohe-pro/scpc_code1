@@ -1,0 +1,21 @@
+{
+  "conversation_id": "ecf_validation_321",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Mark",
+      "text": "Oh , hi . It is Mark .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 321,
+    "num_utterances": 1,
+    "num_emotion_pairs": 0
+  }
+}

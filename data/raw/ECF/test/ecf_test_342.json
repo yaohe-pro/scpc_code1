@@ -1,0 +1,98 @@
+{
+  "conversation_id": "ecf_test_342",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Gunther",
+      "text": "Someone in there ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "No . This is just part of a dare devil game that I play called wait until the last moment before I burst and die .",
+      "emotion": "anger",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "Jeez , man did you fall ... Hi ! So ah , did you , did ... did ... did you fall high ?",
+      "emotion": "surprise",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Woman",
+      "text": "Someone was in the lady room , I could not wait . I left the lid up for you though .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Chandler",
+      "text": "You know what Gunther , go ah , go ahead , I am ... I am talking to ah , . This is the part where you say your name .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Woman",
+      "text": "Ginger .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Chandler",
+      "text": "Ginger . I am talking to Ginger , so ...",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ginger",
+      "text": "Do not you have to use the bathroom ?",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Chandler",
+      "text": "Nope , nope , I would just ah , I would rather talk to you .",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Chandler",
+      "text": "Yes , I do .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Chandler",
+      "text": "Yes , I do have to go to the bathroom .",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Gunther",
+      "text": "Someone in here .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 342,
+    "num_utterances": 12,
+    "num_emotion_pairs": 0
+  }
+}

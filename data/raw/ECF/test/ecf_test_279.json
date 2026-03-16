@@ -1,0 +1,340 @@
+{
+  "conversation_id": "ecf_test_279",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Hey . When you guys were kids and you played Happy Days , who were you ? I was always Richie .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "I was always Joanne .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Question . Was ah , Egg the Gellers ! the war cry of your neighbourhood ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Phoebe",
+      "text": "Ewww ! Oh ! It is the Mattress King !",
+      "emotion": "disgust",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_It is the Mattress King !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Chandler",
+      "text": "Do not look honey . Change the channel ! Change the channel !",
+      "emotion": "disgust",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_It is the Mattress King !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Janice",
+      "text": "Wait ! Wait ! I wanna see this . After I divorce him , half of that kingdom is gonna be mine .",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_After I divorce him , half of that kingdom is gonna be mine .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Chandler",
+      "text": "What a wank !",
+      "emotion": "disgust",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "8_he is using our divorce to sell mattresses .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Janice",
+      "text": "Oh , I cannot believe he is using our divorce to sell mattresses .",
+      "emotion": "anger",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_he is using our divorce to sell mattresses .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Monica",
+      "text": "I know !",
+      "emotion": "anger",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "8_he is using our divorce to sell mattresses .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Monica",
+      "text": "And four ninety ... nine for a pillow top queen set , who cares about the divorce , those babies will sell themselves .",
+      "emotion": "surprise",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_four ninety ... nine for a pillow top queen set , who cares about the divorce , those babies will sell themselves .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Monica",
+      "text": "And I am appalled for you by the way .",
+      "emotion": "fear",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Rachel",
+      "text": "You had to do it , did not you ? You could not just leave it alone .",
+      "emotion": "sadness",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_You had to do it , did not you ? You could not just leave it alone .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Ross",
+      "text": "Four percent . Okay . I tip more than that when there is a bug in my food .",
+      "emotion": "disgust",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_Four percent . Okay . I tip more than that when there is a bug in my food .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Rachel",
+      "text": "Ross , tonight was about the two of you getting along . Oh , would you just see my chiropractor , already .",
+      "emotion": "anger",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "12_You had to do it , did not you ? You could not just leave it alone .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Ross",
+      "text": "Yeah , I am gonna go to a doctor who went to school in a mini ... mall .",
+      "emotion": "disgust",
+      "timestamp": 35.0,
+      "emotion_cause": {
+        "utterance_id": "u15",
+        "span": "15_I am gonna go to a doctor who went to school in a mini ... mall .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Ross",
+      "text": "Hey Pheebs , what are you doing ?",
+      "emotion": "neutral",
+      "timestamp": 37.5
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Phoebe",
+      "text": "I am , I am freaking out !",
+      "emotion": "fear",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Phoebe",
+      "text": "Monica kinda trusted me with something and she should not have !",
+      "emotion": "anger",
+      "timestamp": 42.5,
+      "emotion_cause": {
+        "utterance_id": "u18",
+        "span": "18_Monica kinda trusted me with something and she should not have !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Phoebe",
+      "text": "All right , I have not lived here in a while , so I have to ask you something .",
+      "emotion": "neutral",
+      "timestamp": 45.0
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Phoebe",
+      "text": "Does Monica still turn on the lights in her bedroom ?",
+      "emotion": "neutral",
+      "timestamp": 47.5
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "Rachel",
+      "text": "Um . yeah .",
+      "emotion": "neutral",
+      "timestamp": 50.0
+    },
+    {
+      "utterance_id": "u22",
+      "speaker": "Phoebe",
+      "text": "I am so dead .",
+      "emotion": "sadness",
+      "timestamp": 52.5,
+      "emotion_cause": {
+        "utterance_id": "u22",
+        "span": "22_I am so dead .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u23",
+      "speaker": "Rachel",
+      "text": "All right , look , here is the bottom line Ross , this is fixable , if we act fast , okay .",
+      "emotion": "neutral",
+      "timestamp": 55.0
+    },
+    {
+      "utterance_id": "u24",
+      "speaker": "Rachel",
+      "text": "So , I will invite him to brunch tomorrow and you can make nice .",
+      "emotion": "neutral",
+      "timestamp": 57.5
+    },
+    {
+      "utterance_id": "u25",
+      "speaker": "Ross",
+      "text": "Look , honey , I have tried to make nice , it does not work .",
+      "emotion": "anger",
+      "timestamp": 60.0,
+      "emotion_cause": {
+        "utterance_id": "u25",
+        "span": "25_I have tried to make nice , it does not work .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u26",
+      "speaker": "Rachel",
+      "text": "Okay , look , Ross , I realise that my Father is difficult , but that is why you have got to be the bigger man here .",
+      "emotion": "neutral",
+      "timestamp": 62.5
+    },
+    {
+      "utterance_id": "u27",
+      "speaker": "Ross",
+      "text": "Look sweetie , I could be the bigger man , I could be the biggest man , I could be a big , huge , giant man , and it still would not make any difference , except that I could pick your Father up and say Like me !",
+      "emotion": "anger",
+      "timestamp": 65.0,
+      "emotion_cause": {
+        "utterance_id": "u27",
+        "span": "27_I could be the bigger man , I could be the biggest man , I could be a big , huge , giant man , and it still would not make any difference",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u28",
+      "speaker": "Ross",
+      "text": "Like me tiny doctor !",
+      "emotion": "anger",
+      "timestamp": 67.5
+    },
+    {
+      "utterance_id": "u29",
+      "speaker": "Rachel",
+      "text": "Okay , well can not you just try it one more time Ross ? For me ? For me ?",
+      "emotion": "sadness",
+      "timestamp": 70.0,
+      "emotion_cause": {
+        "utterance_id": "u29",
+        "span": "29_can not you just try it one more time Ross ? For me ? For me ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u30",
+      "speaker": "Ross",
+      "text": "Rachel , one brunch is not gonna solve anything . You gotta face it , okay we are never gonna get along .",
+      "emotion": "anger",
+      "timestamp": 72.5,
+      "emotion_cause": {
+        "utterance_id": "u30",
+        "span": "30_one brunch is not gonna solve anything . You gotta face it , okay we are never gonna get along .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u31",
+      "speaker": "Rachel",
+      "text": "Okay , well you are just gonna have to , okay .",
+      "emotion": "anger",
+      "timestamp": 75.0,
+      "emotion_cause": {
+        "utterance_id": "u31",
+        "span": "30_one brunch is not gonna solve anything . You gotta face it , okay we are never gonna get along .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u32",
+      "speaker": "Rachel",
+      "text": "Because I already got a Mother and a Father who cannot stay in the same room together , okay , I do not wanna have to have a separate room for you too !",
+      "emotion": "anger",
+      "timestamp": 77.5,
+      "emotion_cause": {
+        "utterance_id": "u32",
+        "span": "32_I already got a Mother and a Father who cannot stay in the same room together , okay , I do not wanna have to have a separate room for you too !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u33",
+      "speaker": "Ross",
+      "text": "Okay , okay , okay . I will get the bagels .",
+      "emotion": "neutral",
+      "timestamp": 80.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 279,
+    "num_utterances": 33,
+    "num_emotion_pairs": 25
+  }
+}

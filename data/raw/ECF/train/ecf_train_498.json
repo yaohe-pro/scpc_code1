@@ -1,0 +1,26 @@
+{
+  "conversation_id": "ecf_train_498",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "He is coming here for Thanksgiving !",
+      "emotion": "surprise",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_He is coming here for Thanksgiving !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 498,
+    "num_utterances": 1,
+    "num_emotion_pairs": 1
+  }
+}

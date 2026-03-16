@@ -1,0 +1,26 @@
+{
+  "conversation_id": "ecf_train_1187",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "And Tim I just wanna say , good luck here .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_good luck here .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1187,
+    "num_utterances": 1,
+    "num_emotion_pairs": 1
+  }
+}

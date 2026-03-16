@@ -1,0 +1,26 @@
+{
+  "conversation_id": "ecf_train_694",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Okay you know what , because you said that , I am not putting out tonight .",
+      "emotion": "anger",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_you said that",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 694,
+    "num_utterances": 1,
+    "num_emotion_pairs": 1
+  }
+}

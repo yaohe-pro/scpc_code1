@@ -1,0 +1,90 @@
+{
+  "conversation_id": "ecf_train_1175",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Kristen",
+      "text": "Umm , this is great wine .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_this is great wine .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "It is from France ... In Europe ... Western Europe . You know umm , a few years ago I actually was backpacking across Western Europe .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Kristen",
+      "text": "Really ?",
+      "emotion": "surprise",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_a few years ago I actually was backpacking across Western Europe .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "Uh ... hmm ... Wait ! It gets better . Um , yeah I was in Barcelona .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Kristen",
+      "text": "I studied for a year in Barcelona .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "Anyway , umm so I was um , I was hiking",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Kristen",
+      "text": "I love hiking !",
+      "emotion": "joy",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_I love hiking !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ross",
+      "text": "Oh that is great ! I was hiking along the foothills of Mount Tibidaybo",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_that is great !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1175,
+    "num_utterances": 8,
+    "num_emotion_pairs": 6
+  }
+}

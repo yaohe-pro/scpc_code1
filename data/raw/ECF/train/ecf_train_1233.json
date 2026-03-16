@@ -1,0 +1,73 @@
+{
+  "conversation_id": "ecf_train_1233",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "which brings us back , of course , to Greely theory of dominance .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Okay , that ... that is all for today .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "Oh , uh does anyone know where the Freeman building is ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Student",
+      "text": "Yeah , it is the new building on Avenue A .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "What ? ! That ... that is all the way cross town , I am supposed to teach a graduate seminar there in ten minutes .",
+      "emotion": "surprise",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_That ... that is all the way cross town , I am supposed to teach a graduate seminar there in ten minutes .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Student",
+      "text": "Ooh , dude . That is not gonna happen .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Ross",
+      "text": "Move it ! Move it ! Move it ! ! Hey ! ! ! I am the teacher ! !",
+      "emotion": "anger",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_Move it ! Move it ! Move it ! !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1233,
+    "num_utterances": 7,
+    "num_emotion_pairs": 4
+  }
+}

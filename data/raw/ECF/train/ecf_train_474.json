@@ -1,0 +1,108 @@
+{
+  "conversation_id": "ecf_train_474",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chip",
+      "text": "So you still in touch with anyone from high school ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "Umm . Well , there is Rachel , and umm , I think that is it . How bout you ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chip",
+      "text": "Oh yeah , I still hang with Simmons and Zana , you know .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chip",
+      "text": "I see Spindler a lot .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Chip",
+      "text": "Devane , Kelly , and I run into Goldie from time to time .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Chip",
+      "text": "Stick , Brown , Sulkov , McGuire , J . T . , Beardsley .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Monica",
+      "text": "Is that all ?",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Chip",
+      "text": "Ehh , you know after high school , you just kinda lose touch . Oh yeah ! I ran into Richard Dorfman .",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_I ran into Richard Dorfman .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Monica",
+      "text": "Ohh , how is he ?",
+      "emotion": "surprise",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "8_I ran into Richard Dorfman .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Chip",
+      "text": "Not so good , Simmons and I gave him a wedgie .",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Monica",
+      "text": "Is not he an architect now ?",
+      "emotion": "neutral",
+      "timestamp": 25.0
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Chip",
+      "text": "Yeah , they still wear underwear .",
+      "emotion": "neutral",
+      "timestamp": 27.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 474,
+    "num_utterances": 12,
+    "num_emotion_pairs": 2
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "conversation_id": "ecf_train_1110",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Kay !",
+      "emotion": "joy",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "The Presenter",
+      "text": "in the category of Favorite Returning Male Character the nominees are : John Wheeler from General Hospital ,",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "What the ? !",
+      "emotion": "surprise",
+      "timestamp": 5.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1110,
+    "num_utterances": 3,
+    "num_emotion_pairs": 0
+  }
+}

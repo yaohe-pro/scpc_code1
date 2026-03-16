@@ -1,0 +1,42 @@
+{
+  "conversation_id": "ecf_train_1191",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Ursula ! Wait ! Err ... err , it is me ! Phoebe !",
+      "emotion": "surprise",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ursula",
+      "text": "Oh , I thought there was a mirror there . Okay , bye ... bye .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "Wait a second ! So , what new with you ?",
+      "emotion": "surprise",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ursula",
+      "text": "Umm , nothing . I mean , I am getting married next week .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1191,
+    "num_utterances": 4,
+    "num_emotion_pairs": 0
+  }
+}

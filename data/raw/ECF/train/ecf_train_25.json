@@ -1,0 +1,271 @@
+{
+  "conversation_id": "ecf_train_25",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "I am so sorry , you guys . I did not mean to bring you down .",
+      "emotion": "sadness",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_bring you down",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "No , you were right . I do not have a plan .",
+      "emotion": "sadness",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_I do not have a plan .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Pizza Guy",
+      "text": "Pizza guy !",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "Thank God . Food .",
+      "emotion": "joy",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_Pizza guy !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Monica",
+      "text": "Phoebe ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Phoebe",
+      "text": "What ?",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Monica",
+      "text": "Do you have a plan ?",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Phoebe",
+      "text": "I do not even have a pl .",
+      "emotion": "sadness",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_I do not even have a pl .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Pizza Guy",
+      "text": "Hi , one , uh , mushroom , green pepper and onion ?",
+      "emotion": "neutral",
+      "timestamp": 20.0
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Rachel",
+      "text": "No , no , that is not what we ordered ... We ordered a fat ... free crust with extra cheese .",
+      "emotion": "sadness",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_No , no , that is not what we ordered ... We ordered a fat ... free crust with extra cheese .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Pizza Guy",
+      "text": "Wait , you are not G . Stephanopoulos ? Man , my dad gonna kill me !",
+      "emotion": "sadness",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_my dad gonna kill me !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Monica",
+      "text": "Wait ! Did you say G . Stephanopoulos ?",
+      "emotion": "surprise",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_Did you say G . Stephanopoulos ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Pizza Guy",
+      "text": "Yeah . This one goes across the street , I must have given him yours . Oh , bonehead , bonehead !",
+      "emotion": "anger",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_I must have given him yours .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u14",
+      "speaker": "Monica",
+      "text": "Wait , was this a ... a small mediterranean guy with curiously intelligent good looks ?",
+      "emotion": "surprise",
+      "timestamp": 32.5,
+      "emotion_cause": {
+        "utterance_id": "u14",
+        "span": "13_Yeah . This one goes across the street",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u15",
+      "speaker": "Pizza Guy",
+      "text": "Yeah , that sounds about right .",
+      "emotion": "neutral",
+      "timestamp": 35.0
+    },
+    {
+      "utterance_id": "u16",
+      "speaker": "Monica",
+      "text": "Was he wearing a stunning blue suit ?",
+      "emotion": "joy",
+      "timestamp": 37.5,
+      "emotion_cause": {
+        "utterance_id": "u16",
+        "span": "15_Yeah , that sounds about right .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u17",
+      "speaker": "Phoebe",
+      "text": "And ... and a power tie ?",
+      "emotion": "neutral",
+      "timestamp": 40.0
+    },
+    {
+      "utterance_id": "u18",
+      "speaker": "Pizza Guy",
+      "text": "No , pretty much just a towel .",
+      "emotion": "neutral",
+      "timestamp": 42.5
+    },
+    {
+      "utterance_id": "u19",
+      "speaker": "Monica",
+      "text": "Oh God .",
+      "emotion": "surprise",
+      "timestamp": 45.0,
+      "emotion_cause": {
+        "utterance_id": "u19",
+        "span": "18_No , pretty much just a towel .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u20",
+      "speaker": "Pizza Guy",
+      "text": "So you guys want me to take this back ?",
+      "emotion": "sadness",
+      "timestamp": 47.5,
+      "emotion_cause": {
+        "utterance_id": "u20",
+        "span": "20_So you guys want me to take this back ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u21",
+      "speaker": "Monica",
+      "text": "Are you nuts ? ! We have got George Stephanopoulos pizza !",
+      "emotion": "surprise",
+      "timestamp": 50.0,
+      "emotion_cause": {
+        "utterance_id": "u21",
+        "span": "21_We have got George Stephanopoulos pizza !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u22",
+      "speaker": "Rachel",
+      "text": "Uh , Pheebs ? Who George Snuffalopagus ?",
+      "emotion": "neutral",
+      "timestamp": 52.5
+    },
+    {
+      "utterance_id": "u23",
+      "speaker": "Phoebe",
+      "text": "Big Bird friend .",
+      "emotion": "neutral",
+      "timestamp": 55.0
+    },
+    {
+      "utterance_id": "u24",
+      "speaker": "Monica",
+      "text": "I see pizza !",
+      "emotion": "joy",
+      "timestamp": 57.5,
+      "emotion_cause": {
+        "utterance_id": "u24",
+        "span": "24_I see pizza !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u25",
+      "speaker": "Phoebe",
+      "text": "Oh , I wanna see ! Let me see ! Let me see !",
+      "emotion": "joy",
+      "timestamp": 60.0,
+      "emotion_cause": {
+        "utterance_id": "u25",
+        "span": "24_I see pizza !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u26",
+      "speaker": "Rachel",
+      "text": "Hello ? Who are we spying on ?",
+      "emotion": "sadness",
+      "timestamp": 62.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 25,
+    "num_utterances": 26,
+    "num_emotion_pairs": 25
+  }
+}

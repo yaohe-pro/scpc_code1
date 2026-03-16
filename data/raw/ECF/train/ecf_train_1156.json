@@ -1,0 +1,21 @@
+{
+  "conversation_id": "ecf_train_1156",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "Oh yes ! Thank you very much ! Oh that is ... that is actually how the French drink it .",
+      "emotion": "joy",
+      "timestamp": 0.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1156,
+    "num_utterances": 1,
+    "num_emotion_pairs": 0
+  }
+}

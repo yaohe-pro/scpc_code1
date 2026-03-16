@@ -1,0 +1,42 @@
+{
+  "conversation_id": "ecf_train_110",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Can you see my nipples through this shirt ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "No . But do not worry , I am sure they are still there .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "Where are you going , Mr . Suity ... Man ?",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "Well , I have an appointment to see Dr . Robert Pillman , career counselor a ... gogo . I added the \" a ... gogo . \"",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 110,
+    "num_utterances": 4,
+    "num_emotion_pairs": 0
+  }
+}

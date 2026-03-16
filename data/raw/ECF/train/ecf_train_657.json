@@ -1,0 +1,21 @@
+{
+  "conversation_id": "ecf_train_657",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "It is a tradition , like the parade . If the parade decided it was gay , moved out , and abandoned its entire family .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 657,
+    "num_utterances": 1,
+    "num_emotion_pairs": 0
+  }
+}

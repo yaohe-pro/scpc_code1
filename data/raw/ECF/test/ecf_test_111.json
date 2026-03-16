@@ -1,0 +1,28 @@
+{
+  "conversation_id": "ecf_test_111",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "OK , try this salmon mousse .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Mmmm . Good .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 111,
+    "num_utterances": 2,
+    "num_emotion_pairs": 0
+  }
+}

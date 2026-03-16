@@ -1,0 +1,73 @@
+{
+  "conversation_id": "ecf_train_282",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Jester",
+      "text": "Uh , may I help you ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Monica",
+      "text": "Yeah , I talked to you on the phone , I am the lady that got stuck with the racecar bed .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Jester",
+      "text": "Look , it is like I told you , there is nothing I can do . You signed for it , Monica Velula Geller .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "All right , Jester man , look we wanna see the King .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Jester",
+      "text": "Nobody sees the King !",
+      "emotion": "anger",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_Nobody sees the King !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "Oh ... ho ... kay , I am talking to the King .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Jester",
+      "text": "Hey ! You can not go back there !",
+      "emotion": "anger",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_You can not go back there !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 282,
+    "num_utterances": 7,
+    "num_emotion_pairs": 3
+  }
+}

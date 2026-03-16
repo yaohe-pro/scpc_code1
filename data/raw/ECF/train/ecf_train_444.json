@@ -1,0 +1,130 @@
+{
+  "conversation_id": "ecf_train_444",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe Sr",
+      "text": "Well , yes , it is kind have an unusual house .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe Sr",
+      "text": "It has umm , three beautiful bedrooms and ah , no baths .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe Sr",
+      "text": "But you know , the ocean is right there .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Phoebe",
+      "text": "Knock , knock , knock .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Phoebe Sr",
+      "text": "Ah , oh , hang on a second . Come in , come in . All right , so think about it , and call me back .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Phoebe",
+      "text": "Are you ah , Phoebe Abott ?",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Phoebe Sr",
+      "text": "Ahh , yes .",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Phoebe",
+      "text": "Hi Phoebe Abott , I am your best friends daughter !",
+      "emotion": "joy",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "8_Hi Phoebe Abott , I am your best friends daughter !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Phoebe Sr",
+      "text": "You are Erwin daughter ? !",
+      "emotion": "surprise",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_You are Erwin daughter ? !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Phoebe",
+      "text": "No , I ... I mean your ... your old best friend , here . Lily , from high school . Remember ?",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Phoebe Sr",
+      "text": "Oh gosh , Lily , yes . Of course I remember Lily . I ... Then you must be ?",
+      "emotion": "surprise",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "10_No , I ... I mean your ... your old best friend , here . Lily , from high school .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Phoebe",
+      "text": "Phoebe . Phoebe . Phoebe , yeah . She named me after you I guess .",
+      "emotion": "joy",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "12_She named me after you I guess .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Phoebe Sr",
+      "text": "Uh ... huh . Wow ! Well , look ! There is Frank .",
+      "emotion": "surprise",
+      "timestamp": 30.0,
+      "emotion_cause": {
+        "utterance_id": "u13",
+        "span": "13_look ! There is Frank .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 444,
+    "num_utterances": 13,
+    "num_emotion_pairs": 6
+  }
+}

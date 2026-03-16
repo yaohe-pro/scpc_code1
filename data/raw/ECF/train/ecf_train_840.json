@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_train_840",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Okay , look , I think we have to tell Rachel she messed up her dessert .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "What ? ! What is with everybody ? It is Thanksgiving , not ... Truth ... Day !",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_I think we have to tell Rachel she messed up her dessert .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 840,
+    "num_utterances": 2,
+    "num_emotion_pairs": 1
+  }
+}

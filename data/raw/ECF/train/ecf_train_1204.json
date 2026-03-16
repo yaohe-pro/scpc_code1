@@ -1,0 +1,52 @@
+{
+  "conversation_id": "ecf_train_1204",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Mona",
+      "text": "I love your place ! Where is this guy from ?",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_I love your place !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Uh that is an eighteenth century Indian artifact from Calcutta .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Mona",
+      "text": "Oh wow ! So , you are more than just dinosaurs .",
+      "emotion": "surprise",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_you are more than just dinosaurs .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "So much more .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1204,
+    "num_utterances": 4,
+    "num_emotion_pairs": 3
+  }
+}

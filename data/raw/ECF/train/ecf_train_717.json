@@ -1,0 +1,109 @@
+{
+  "conversation_id": "ecf_train_717",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Katie",
+      "text": "You were so funny with that waiter ! You are such a nut !",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_You were so funny with that waiter ! You are such a nut !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "You know , breadstick fangs are always funny .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "1_You were so funny with that waiter ! You are such a nut !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Katie",
+      "text": "No , you make them funny . You are the funny one !",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_you make them funny . You are the funny one !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "Uhh , look Katie , uh listen , we ... we need to talk .",
+      "emotion": "fear",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "Okay ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "Umm , look , I like you .",
+      "emotion": "fear",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "I ... I really do , I like you a lot .",
+      "emotion": "fear",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Joey",
+      "text": "Okay ?",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Joey",
+      "text": "But sometimes when you , when you playfully punch me like that it ... it feels like someone hitting me with a very tiny but very real bat .",
+      "emotion": "anger",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_when you playfully punch me like that it ... it feels like someone hitting me with a very tiny but very real bat .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Katie",
+      "text": "Aww , like I could hurt you . Are you making fun of my size ? Do not make fun of me because of my size !",
+      "emotion": "anger",
+      "timestamp": 22.5,
+      "emotion_cause": {
+        "utterance_id": "u10",
+        "span": "10_Are you making fun of my size ? Do not make fun of me because of my size !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 717,
+    "num_utterances": 10,
+    "num_emotion_pairs": 7
+  }
+}

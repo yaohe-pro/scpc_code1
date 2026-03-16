@@ -1,0 +1,64 @@
+{
+  "conversation_id": "ecf_train_280",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Student",
+      "text": "Look , I just saw my best friends brains smeared across the canvas , that is not gonna be me , not me .",
+      "emotion": "sadness",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_I just saw my best friends brains smeared across the canvas",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Wow ! That was good . That was ... Tweezers ?",
+      "emotion": "surprise",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_That was good .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Student",
+      "text": "No .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "Whoa . That was really good .",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_That was really good .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Student",
+      "text": "Thanks , any suggestions ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 280,
+    "num_utterances": 5,
+    "num_emotion_pairs": 5
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "conversation_id": "ecf_test_373",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "Op .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 373,
+    "num_utterances": 1,
+    "num_emotion_pairs": 0
+  }
+}

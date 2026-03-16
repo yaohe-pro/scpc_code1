@@ -1,0 +1,28 @@
+{
+  "conversation_id": "ecf_train_231",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Whoaa ! !",
+      "emotion": "surprise",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "See Joe , that is why your parents told you not to jump on the bed .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 231,
+    "num_utterances": 2,
+    "num_emotion_pairs": 0
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "conversation_id": "ecf_train_1303",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "Okay I have got one for you , if you had too which one would you rather eat , a seeing eye dog or a talking gorilla ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Cliff",
+      "text": "I would have to say ... the talking gorilla , because at least I can explain to him that you are making me eat him .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Phoebe",
+      "text": "Somebody went to college . Wow . What is it ? I am sorry .",
+      "emotion": "surprise",
+      "timestamp": 5.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1303,
+    "num_utterances": 3,
+    "num_emotion_pairs": 0
+  }
+}

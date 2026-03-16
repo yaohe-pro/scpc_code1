@@ -1,0 +1,33 @@
+{
+  "conversation_id": "ecf_test_1100",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Monica",
+      "text": "Yeah baby !",
+      "emotion": "joy",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "I am really glad you guys are okay but , I just keep thinking what would happen if ... if you two actually had hooked up .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_I just keep thinking what would happen if ... if you two actually had hooked up .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 1100,
+    "num_utterances": 2,
+    "num_emotion_pairs": 4
+  }
+}

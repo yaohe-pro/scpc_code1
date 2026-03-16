@@ -1,0 +1,150 @@
+{
+  "conversation_id": "ecf_validation_156",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Come on , come on .",
+      "emotion": "sadness",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Damnit , damnit , damnit , damnit . This is all your fault .",
+      "emotion": "anger",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "3_My son is being born , and I should be in there , you know , instead of stuck in a closet with you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "This is supposed to be , like , the greatest day of my life , you know ? My son is being born , and I should be in there , you know , instead of stuck in a closet with you .",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_My son is being born , and I should be in there , you know , instead of stuck in a closet with you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Susan",
+      "text": "The woman I love is having a baby today . I have been waiting for this just as much as you have .",
+      "emotion": "anger",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_My son is being born , and I should be in there , you know , instead of stuck in a closet with you .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "No no no , believe me . No one has been waiting for this as much as I have , ok ?",
+      "emotion": "anger",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_I have been waiting for this just as much as you have .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Ross",
+      "text": "And you know what the funny thing is ? When this day is over , you get to go home with the baby , ok ? Where does that leave me ?",
+      "emotion": "anger",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_When this day is over , you get to go home with the baby , ok ? Where does that leave me ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Susan",
+      "text": "You get to be the baby father . Everyone knows who you are . Who am I ? There is Mother Day , there is Father Day , there is no ... Lesbian Lover Day .",
+      "emotion": "anger",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_You get to be the baby father . Everyone knows who you are . Who am I ? There is Mother Day , there is Father Day , there is no ... Lesbian Lover Day .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Ross",
+      "text": "Every day is Lesbian Lover Day .",
+      "emotion": "neutral",
+      "timestamp": 17.5
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Phoebe",
+      "text": "This is so great .",
+      "emotion": "joy",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "12_here is this little baby who has like three whole parents who care about it so much that they are fighting over who gets to love it the most .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u10",
+      "speaker": "Ross",
+      "text": "You wanna explain that ?",
+      "emotion": "neutral",
+      "timestamp": 22.5
+    },
+    {
+      "utterance_id": "u11",
+      "speaker": "Phoebe",
+      "text": "I mean , well , cause when I was growing up , you know my dad left , and my mother died , and my stepfather went to jail , so I barely had enough pieces of parents to make one whole one .",
+      "emotion": "sadness",
+      "timestamp": 25.0,
+      "emotion_cause": {
+        "utterance_id": "u11",
+        "span": "11_when I was growing up , you know my dad left , and my mother died , and my stepfather went to jail , so I barely had enough pieces of parents to make one whole one .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u12",
+      "speaker": "Phoebe",
+      "text": "And here is this little baby who has like three whole parents who care about it so much that they are fighting over who gets to love it the most . And it is not even born yet . It is just , it is just the luckiest baby in the whole world .",
+      "emotion": "sadness",
+      "timestamp": 27.5,
+      "emotion_cause": {
+        "utterance_id": "u12",
+        "span": "11_when I was growing up , you know my dad left , and my mother died , and my stepfather went to jail , so I barely had enough pieces of parents to make one whole one .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u13",
+      "speaker": "Phoebe",
+      "text": "I am sorry , you were fighting .",
+      "emotion": "sadness",
+      "timestamp": 30.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 156,
+    "num_utterances": 13,
+    "num_emotion_pairs": 14
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "conversation_id": "ecf_train_663",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Dr. Leedbetter",
+      "text": "Well , it was quite large . I ... I ... I ... I ... I had to throw most of it away .",
+      "emotion": "fear",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "You ... you ... you ... you threw my sandwich away !",
+      "emotion": "anger",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_You ... you ... you ... you threw my sandwich away !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "MY SANDWICH ? ! ! !",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_You ... you ... you ... you threw my sandwich away !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "MY SANDWICH ! ! ! ! ! !",
+      "emotion": "anger",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "2_You ... you ... you ... you threw my sandwich away !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 663,
+    "num_utterances": 4,
+    "num_emotion_pairs": 3
+  }
+}

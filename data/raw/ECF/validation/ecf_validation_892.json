@@ -1,0 +1,83 @@
+{
+  "conversation_id": "ecf_validation_892",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Joey",
+      "text": "Oh , did I not mention ? Carl is a guy I hired to be my identical twin for a medical research project .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "You know sometimes the good ideas are just right in front of you , are not they ?",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_sometimes the good ideas are just right in front of you",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Joey",
+      "text": "Okay , I know it sounds crazy , but I think it might work . You know ? The only problem is , Carl acting is ...",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Monica",
+      "text": "The only problem ?",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_I know it sounds crazy , but I think it might work . You know ? The only problem is , Carl acting is ...",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Joey",
+      "text": "Yeah , he is the reason I did not get that big Minute Maid commercial a couple of years ago remember ?",
+      "emotion": "disgust",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_he is the reason I did not get that big Minute Maid commercial a couple of years ago",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Carl",
+      "text": "Hey , uh can I get a little piece of that cake ?",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "Pizza ! ! We like Pizza ! ! Get out ! ! !",
+      "emotion": "anger",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_Pizza ! ! We like Pizza ! !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 892,
+    "num_utterances": 7,
+    "num_emotion_pairs": 5
+  }
+}

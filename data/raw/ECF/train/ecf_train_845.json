@@ -1,0 +1,28 @@
+{
+  "conversation_id": "ecf_train_845",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Phoebe",
+      "text": "You know , birds have a very good sense of direction , and I thought maybe they could help us find where the presents are hidden .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Chandler",
+      "text": "Yes , if the presents are hidden south for the winter .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 845,
+    "num_utterances": 2,
+    "num_emotion_pairs": 0
+  }
+}

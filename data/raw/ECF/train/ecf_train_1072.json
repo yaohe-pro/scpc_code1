@@ -1,0 +1,61 @@
+{
+  "conversation_id": "ecf_train_1072",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Supervisor",
+      "text": "So basically this is very easy . You read from the script and try to sell as much toner as you possibly can .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Phoebe",
+      "text": "Okay , I can do that ! Oh , by the way , I love my office .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_I love my office .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Supervisor",
+      "text": "Why do not we do a trial run .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Phoebe",
+      "text": "Oh okay . Umm , all right . Hi , this is Phoebe from Empire Office Supplies , can I speak to your supply manager please ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Supervisor",
+      "text": "I am the supply manager .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Phoebe",
+      "text": "Umm , okay I would like to talk to you about your toner needs .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1072,
+    "num_utterances": 6,
+    "num_emotion_pairs": 4
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "conversation_id": "ecf_test_1357",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "Yeah , but what if it is not ? What if there is a reason why we can not have a baby ?",
+      "emotion": "fear",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_if there is a reason why we can not have a baby",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Janice",
+      "text": "Oh , Chandler , look . You and Monica are meant to have children . I am sure it is gonna be just fine .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Chandler",
+      "text": "oh , oh , yeah , ok , thanks .",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "2_You and Monica are meant to have children . I am sure it is gonna be just fine .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Chandler",
+      "text": "I can not believe I did not even think of that .",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_I did not even think of that .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Chandler",
+      "text": "I guess I was just so worried about having to ... come here and do ... that ...",
+      "emotion": "sadness",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_I was just so worried about having to ... come here and do ... that ...",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Janice",
+      "text": "What , you can do it in the parking lot of a Taco Bell , but you can not do it at a doctor office ?",
+      "emotion": "surprise",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_you can do it in the parking lot of a Taco Bell , but you can not do it at a doctor office ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Chandler",
+      "text": "It was a \" Wendy ! ! \"",
+      "emotion": "anger",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "6_you can do it in the parking lot of a Taco Bell , but you can not do it at a doctor office ?",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 1357,
+    "num_utterances": 7,
+    "num_emotion_pairs": 7
+  }
+}

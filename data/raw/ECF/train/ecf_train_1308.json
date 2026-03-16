@@ -1,0 +1,102 @@
+{
+  "conversation_id": "ecf_train_1308",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Janice",
+      "text": "He is a keeper . How are you feeling ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Oh , I am fine .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Janice",
+      "text": "Can I just say , I really admire what you are doing . Just raising her all alone .",
+      "emotion": "sadness",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_Just raising her all alone .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "Oh , I am not doing it alone . I have Ross .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Janice",
+      "text": "Oh , sure . Now . But what happens when he meets somebody else and gets married ?",
+      "emotion": "sadness",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_what happens when he meets somebody else and gets married ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Well then he gets a divorce , it is Ross !",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Janice",
+      "text": "I am telling you Rachel , listen to Janice . They all say they are gonna be there until they start their real family .",
+      "emotion": "disgust",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "7_They all say they are gonna be there until they start their real family .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Rachel",
+      "text": "Well I ... That is never gonna happen with Ross .",
+      "emotion": "sadness",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "7_They all say they are gonna be there until they start their real family .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u9",
+      "speaker": "Janice",
+      "text": "Oh well that is what I thought about my first husband , now I am lucky if my kid gets to spend the weekend with her father and the twins and little Ms . New Boobs .",
+      "emotion": "disgust",
+      "timestamp": 20.0,
+      "emotion_cause": {
+        "utterance_id": "u9",
+        "span": "9_that is what I thought about my first husband , now I am lucky if my kid gets to spend the weekend with her father and the twins and little Ms . New Boobs .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1308,
+    "num_utterances": 9,
+    "num_emotion_pairs": 7
+  }
+}

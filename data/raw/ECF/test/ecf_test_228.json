@@ -1,0 +1,95 @@
+{
+  "conversation_id": "ecf_test_228",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Janice",
+      "text": "So , I hear , you hate me !",
+      "emotion": "anger",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_you hate me !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "I , ah , I never said hate , I was very careful about that .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Janice",
+      "text": "A little birdie told me something about you wanting to rip your arm off and throw it at me .",
+      "emotion": "anger",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_you wanting to rip your arm off and throw it at me .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "And you got a hate from that ? ! Your taking a big leap there ...",
+      "emotion": "anger",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_you got a hate from that ? ! Your taking a big leap there ...",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Janice",
+      "text": "All right , fine , fine , fine , fine , fine , we have got to do something about our little situation here Joey .",
+      "emotion": "anger",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "4_you got a hate from that ? ! Your taking a big leap there ...",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Janice",
+      "text": "So , this is my idea : you and me spending some quality time together .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Joey",
+      "text": "But what does that gonna do ...",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    },
+    {
+      "utterance_id": "u8",
+      "speaker": "Janice",
+      "text": "For Chandler !",
+      "emotion": "anger",
+      "timestamp": 17.5,
+      "emotion_cause": {
+        "utterance_id": "u8",
+        "span": "7_But what does that gonna do ...",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 228,
+    "num_utterances": 8,
+    "num_emotion_pairs": 6
+  }
+}

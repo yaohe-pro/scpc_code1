@@ -1,0 +1,66 @@
+{
+  "conversation_id": "ecf_train_1337",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "Hey Joey , is this the bed where Olivia lost her virginity ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "I do not know , but one of the extras sure did ! Hey , listen Rach . Thanks again for coming down to watch my scenes !",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_Thanks again for coming down to watch my scenes !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "Oh , please ! Honey , just the fact that you want me here to support you , I am ... OH MY GOD ! Is that Christian Sanders ? He is so gorgeous !",
+      "emotion": "surprise",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_Is that Christian Sanders ? He is so gorgeous !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "Also so gay !",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Rachel",
+      "text": "Oh , in my head he is done some pretty \" not ... gay ... stuff \" !",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Joey",
+      "text": "Well , at the Christmas party him and Santa did some definitely gay stuff !",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 1337,
+    "num_utterances": 6,
+    "num_emotion_pairs": 5
+  }
+}

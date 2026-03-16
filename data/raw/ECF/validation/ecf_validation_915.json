@@ -1,0 +1,40 @@
+{
+  "conversation_id": "ecf_validation_915",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Elizabeth",
+      "text": "You wanted to see me Professor Geller ?",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_You wanted to see me",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Ross",
+      "text": "Yes . Yes ! Please , come in .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Ross",
+      "text": "Oo ... oo !",
+      "emotion": "joy",
+      "timestamp": 5.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "validation",
+    "original_id": 915,
+    "num_utterances": 3,
+    "num_emotion_pairs": 1
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "conversation_id": "ecf_test_547",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Chandler",
+      "text": "You know you , really did not have to take me to the airport .",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Janice",
+      "text": "Oh please .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Janice",
+      "text": "Every moment is precious .",
+      "emotion": "sadness",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Janice",
+      "text": "You know ?",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Janice",
+      "text": "Besides , somebody had to ride in that other taxi with the rest of your luggage , and your friends do not really seem to care too much that you are leaving .",
+      "emotion": "sadness",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_your friends do not really seem to care too much that you are leaving .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Chandler",
+      "text": "Well , we are not really that close . Okay , so I guess this is uh , good ... bye then .",
+      "emotion": "joy",
+      "timestamp": 12.5,
+      "emotion_cause": {
+        "utterance_id": "u6",
+        "span": "6_this is uh , good ... bye then .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Janice",
+      "text": "On no ! No ! It is not good ... bye , I am not leaving until you get on that plane .",
+      "emotion": "sadness",
+      "timestamp": 15.0,
+      "emotion_cause": {
+        "utterance_id": "u7",
+        "span": "6_I guess this is uh , good ... bye then .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 547,
+    "num_utterances": 7,
+    "num_emotion_pairs": 3
+  }
+}

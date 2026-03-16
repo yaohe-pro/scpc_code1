@@ -1,0 +1,35 @@
+{
+  "conversation_id": "ecf_train_425",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Dr. Rhodes",
+      "text": "Wait a minute , hold it . Johnson ! Will you come in here a moment ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Dr. Johnson",
+      "text": "I am with Hamilton !",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Dr. Rhodes",
+      "text": "He is good with rear things , bring him in too .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 425,
+    "num_utterances": 3,
+    "num_emotion_pairs": 0
+  }
+}

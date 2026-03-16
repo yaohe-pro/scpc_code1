@@ -1,0 +1,69 @@
+{
+  "conversation_id": "ecf_test_766",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Flight Attendant",
+      "text": "Welcome to Las Vegas .",
+      "emotion": "joy",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_Welcome to Las Vegas .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Flight Attendant",
+      "text": "Thank you ! Enjoy your flight ?",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_Enjoy your flight ?",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Rachel",
+      "text": "Yes , I did . Thank you very much , it was excellent .",
+      "emotion": "joy",
+      "timestamp": 5.0,
+      "emotion_cause": {
+        "utterance_id": "u3",
+        "span": "3_Yes , I did . Thank you very much , it was excellent .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Flight Attendant",
+      "text": "Hope you had a nice flight .",
+      "emotion": "neutral",
+      "timestamp": 7.5
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Ross",
+      "text": "Ohh , it was the best !",
+      "emotion": "joy",
+      "timestamp": 10.0,
+      "emotion_cause": {
+        "utterance_id": "u5",
+        "span": "5_it was the best !",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 766,
+    "num_utterances": 5,
+    "num_emotion_pairs": 5
+  }
+}

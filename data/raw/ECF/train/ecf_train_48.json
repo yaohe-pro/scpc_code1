@@ -1,0 +1,52 @@
+{
+  "conversation_id": "ecf_train_48",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Director",
+      "text": "... Dammit , hire the girl ! Okay , everybody ready ?",
+      "emotion": "anger",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Joey",
+      "text": "Uh , listen , I just wanna thank you for this great opportunity .",
+      "emotion": "joy",
+      "timestamp": 2.5,
+      "emotion_cause": {
+        "utterance_id": "u2",
+        "span": "2_this great opportunity",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Director",
+      "text": "Lose the robe .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Joey",
+      "text": "Me ?",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_Lose the robe .",
+        "modality": "text"
+      }
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 48,
+    "num_utterances": 4,
+    "num_emotion_pairs": 2
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "conversation_id": "ecf_test_309",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Mr. Kaplan",
+      "text": "How that coffee comin , dear ?",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Yeah , right away Mr . Kaplan .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Mr. Kaplan",
+      "text": "I am not supposed to drink coffee , it makes me gassy .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "I know !",
+      "emotion": "joy",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_I am not supposed to drink coffee , it makes me gassy .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Mr. Kaplan",
+      "text": "I will bet your thinking , What an intelligent girl who wants to be in fashion , doing making coffee ? Eh ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "test",
+    "original_id": 309,
+    "num_utterances": 5,
+    "num_emotion_pairs": 1
+  }
+}

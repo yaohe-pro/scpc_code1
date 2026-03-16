@@ -1,0 +1,73 @@
+{
+  "conversation_id": "ecf_train_208",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Ross",
+      "text": "Well , there is no way I am gonna get a shot . Maybe they can take the needle and thquirt it into my mouth , you know , like a thquirt gun .",
+      "emotion": "fear",
+      "timestamp": 0.0,
+      "emotion_cause": {
+        "utterance_id": "u1",
+        "span": "1_I am gonna get a shot .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Doctor",
+      "text": "Hello , there . I am Dr . Carlin . I see someone having an allergic reaction .",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Monica",
+      "text": "Doctor , can I see you for just a minute please ? My brother has a slight phobia about needles .",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Ross",
+      "text": "Did you tell him about my thquirt gun idea ?",
+      "emotion": "fear",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "3_My brother has a slight phobia about needles .",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Monica",
+      "text": "My brother , the PhD would like to know if there is any way to treat this orally .",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Doctor",
+      "text": "No , under these circumstances it has to be an injection , and it has to be now .",
+      "emotion": "neutral",
+      "timestamp": 12.5
+    },
+    {
+      "utterance_id": "u7",
+      "speaker": "Ross",
+      "text": "So ?",
+      "emotion": "neutral",
+      "timestamp": 15.0
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 208,
+    "num_utterances": 7,
+    "num_emotion_pairs": 3
+  }
+}

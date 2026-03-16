@@ -1,0 +1,61 @@
+{
+  "conversation_id": "ecf_train_878",
+  "utterances": [
+    {
+      "utterance_id": "u1",
+      "speaker": "Rachel",
+      "text": "Oh Mon , listen I have to ask !",
+      "emotion": "neutral",
+      "timestamp": 0.0
+    },
+    {
+      "utterance_id": "u2",
+      "speaker": "Rachel",
+      "text": "Okay , Joey Tribbiani invited me back to his apartment , now does he do this with a lot of girls ?",
+      "emotion": "neutral",
+      "timestamp": 2.5
+    },
+    {
+      "utterance_id": "u3",
+      "speaker": "Monica",
+      "text": "Yeah , a lot . A lot , a lot !",
+      "emotion": "neutral",
+      "timestamp": 5.0
+    },
+    {
+      "utterance_id": "u4",
+      "speaker": "Rachel",
+      "text": "Ohh ! And I am one of them ! ! Wow ! Oh , I just cannot believe this ! I mean , Joey Tribbiani !",
+      "emotion": "surprise",
+      "timestamp": 7.5,
+      "emotion_cause": {
+        "utterance_id": "u4",
+        "span": "4_And I am one of them ! !",
+        "modality": "text"
+      }
+    },
+    {
+      "utterance_id": "u5",
+      "speaker": "Monica",
+      "text": "Well , you know it is none of my business , but are not you married ?",
+      "emotion": "neutral",
+      "timestamp": 10.0
+    },
+    {
+      "utterance_id": "u6",
+      "speaker": "Rachel",
+      "text": "Yeah . Oh I just wish we could not be married for a little bit ! You know I just wish we could be like on a break !",
+      "emotion": "anger",
+      "timestamp": 12.5
+    }
+  ],
+  "video_path": null,
+  "audio_path": null,
+  "metadata": {
+    "source": "huggingface",
+    "split": "train",
+    "original_id": 878,
+    "num_utterances": 6,
+    "num_emotion_pairs": 3
+  }
+}
